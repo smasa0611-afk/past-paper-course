@@ -1,0 +1,26 @@
+{
+  "examId": "common/2025/english",
+  "submissionId": "demo-10000001-common-2025-english",
+  "score": 87,
+  "maxScore": 100,
+  "feedback": "大問ごとの安定感が出ています。比較・条件整理の問題だけ根拠確認をもう一段丁寧にすると、90点台が狙えます。",
+  "gradedAt": "2026-04-18T09:02:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "前半読解",
+      "score": 43,
+      "maxScore": 50,
+      "feedback": "前半は語彙判断も含めて安定しています。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "後半読解",
+      "score": 44,
+      "maxScore": 50,
+      "feedback": "比較問題の根拠整理で惜しい失点がありました。",
+      "retryRecommended": true
+    }
+  ]
+}

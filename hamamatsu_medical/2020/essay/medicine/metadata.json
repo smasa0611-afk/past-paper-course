@@ -1,0 +1,24 @@
+{
+  "exam_type": "hamamatsu_medical",
+  "year": 2020,
+  "subject": "essay",
+  "course": "medicine",
+  "title": "浜松医科大学 小論文 2020",
+  "time_minutes": 80,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "hamamatsu_medical_2020_essay_medicine_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "hamamatsu_medical_2020_essay_medicine_answer.pdf"
+    }
+  ]
+}

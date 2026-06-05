@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2024,
+  "subject": "japanese",
+  "course": "",
+  "title": "共通テスト 国語 2024",
+  "time_minutes": 80,
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2024_japanese_answer.pdf"
+    }
+  ],
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2024_japanese_problem.pdf"
+    }
+  ]
+}

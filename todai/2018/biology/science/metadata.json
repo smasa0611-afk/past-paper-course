@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2018,
+  "subject": "biology",
+  "course": "science",
+  "title": "東京大学 理系 生物 2018",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2018_biology_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2018_biology_science_answer.pdf"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2023,
+  "subject": "japanese",
+  "course": "",
+  "title": "共通テスト 国語 2023",
+  "time_minutes": 80,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2023_japanese_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2023_japanese_answer.pdf"
+    }
+  ]
+}

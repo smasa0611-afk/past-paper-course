@@ -1,0 +1,15 @@
+data/dev-mail-outbox.json
+data/password-reset-tokens.json
+data/universities/source/
+.tmp/
+tmp/
+node_modules/
+.next/
+dist/
+build/
+coverage/
+*.log
+*.tsbuildinfo
+__pycache__/
+.git_common_test_share_backup/
+outputs/section-theme-workbook/

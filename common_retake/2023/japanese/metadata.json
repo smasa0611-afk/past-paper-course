@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2023,
+  "subject": "japanese",
+  "course": "",
+  "title": "共通テスト 国語 2023 追試験",
+  "time_minutes": 80,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=434&f=abm00004513.pdf&n=2023_os_01_kokugo.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=508&f=abm00003381.pdf&n=R5_%E5%9B%BD%E8%AA%9E_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "reviewed_override"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2023_japanese_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2023_japanese_answer.pdf"
+    }
+  ]
+}

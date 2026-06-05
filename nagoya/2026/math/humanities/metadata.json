@@ -1,0 +1,25 @@
+{
+  "exam_type": "nagoya",
+  "year": 2026,
+  "subject": "math",
+  "course": "humanities",
+  "title": "名古屋大学 文系数学 2026",
+  "time_minutes": 120,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2026_math_humanities_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2026_math_humanities_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/3-1_r8mondai_math_bun.pdf",
+    "answer_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/3_r8ito_math_1.pdf"
+  }
+}

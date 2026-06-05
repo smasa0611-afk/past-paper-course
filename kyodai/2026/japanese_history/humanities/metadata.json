@@ -1,0 +1,24 @@
+{
+  "exam_type": "kyodai",
+  "year": 2026,
+  "subject": "japanese_history",
+  "course": "humanities",
+  "title": "京都大学 文系 日本史 2026",
+  "time_minutes": 90,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2026_japanese_history_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2026_japanese_history_humanities_answer.pdf"
+    }
+  ]
+}

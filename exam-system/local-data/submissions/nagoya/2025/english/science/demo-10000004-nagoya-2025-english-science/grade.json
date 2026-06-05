@@ -1,0 +1,26 @@
+{
+  "examId": "nagoya/2025/english/science",
+  "submissionId": "demo-10000004-nagoya-2025-english-science",
+  "score": 79,
+  "maxScore": 120,
+  "feedback": "構成力は十分あります。要約の圧縮精度と英作文の語彙の幅が上がれば、さらに伸ばせます。",
+  "gradedAt": "2026-04-21T13:48:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "読解・要約",
+      "score": 41,
+      "maxScore": 60,
+      "feedback": "要約は安定しています。表現の簡潔さをさらに磨きたいです。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "英作文",
+      "score": 38,
+      "maxScore": 60,
+      "feedback": "内容はまとまっています。語彙の幅を広げると得点しやすいです。",
+      "retryRecommended": true
+    }
+  ]
+}

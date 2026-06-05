@@ -1,0 +1,32 @@
+[
+  {
+    "id": "90000001",
+    "name": "デモ教師",
+    "initialPassword": "Demo2026",
+    "employeeId": "90000001"
+  },
+  {
+    "id": "90000002",
+    "name": "管理者デモ教師",
+    "password": "Admin2026",
+    "employeeId": "90000002",
+    "isSystemAdmin": true
+  },
+  {
+    "id": "teacher01",
+    "name": "システム管理者",
+    "password": "sensei123"
+  },
+  {
+    "id": "teacher1095",
+    "name": "校舎権限テスト 1095",
+    "password": "sensei123",
+    "employeeId": "15010025"
+  },
+  {
+    "id": "teacherNo1095",
+    "name": "校舎権限テスト 対象外",
+    "password": "sensei123",
+    "employeeId": "09010044"
+  }
+]

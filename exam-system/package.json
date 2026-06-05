@@ -1,0 +1,36 @@
+{
+  "name": "exam-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/repair-common-marksheets.mjs common_retake && node scripts/sync-public-exam-assets.mjs && node scripts/apply-marksheet-overrides.mjs && node scripts/apply-retake-2026-overrides.mjs && node scripts/apply-weekend-checklist-overrides.mjs && next build && node scripts/prune-pdf-nft.mjs",
+    "audit:marksheets:pdf": "node scripts/audit-common-marksheet-pdf.mjs",
+    "audit:weekend-checklist": "node scripts/apply-marksheet-overrides.mjs && node scripts/apply-retake-2026-overrides.mjs && node scripts/apply-weekend-checklist-overrides.mjs && node scripts/audit-weekend-checklist-rules.mjs",
+    "audit:common-marksheets": "node scripts/repair-common-marksheets.mjs common_retake && node scripts/sync-public-exam-assets.mjs && node scripts/apply-marksheet-overrides.mjs && node scripts/apply-retake-2026-overrides.mjs && node scripts/apply-weekend-checklist-overrides.mjs && node scripts/audit-all-common-marksheets.mjs",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
+    "@vercel/blob": "^2.3.3",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.7.0",
+    "next": "16.2.3",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-pdf": "^10.4.1",
+    "tailwind-merge": "^3.5.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.3",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

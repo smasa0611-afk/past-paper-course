@@ -1,0 +1,24 @@
+{
+  "exam_type": "nagoya",
+  "year": 2023,
+  "subject": "earth_science",
+  "course": "science",
+  "title": "名古屋大学 理系 地学 2023",
+  "time_minutes": 75,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2023_earth_science_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2023_earth_science_science_answer.pdf"
+    }
+  ]
+}

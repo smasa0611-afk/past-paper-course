@@ -1,0 +1,2103 @@
+{
+  "title": "共通テスト 数学II・数学B 2024",
+  "instructions": "第1問・第2問は必答。第3問〜第5問から2問を選択して解答してください。",
+  "defaultChoices": [
+    {
+      "value": "-",
+      "label": "-"
+    },
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    },
+    {
+      "value": "a",
+      "label": "a"
+    },
+    {
+      "value": "b",
+      "label": "b"
+    },
+    {
+      "value": "c",
+      "label": "c"
+    },
+    {
+      "value": "d",
+      "label": "d"
+    },
+    {
+      "value": "e",
+      "label": "e"
+    }
+  ],
+  "choicesPerRow": 6,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "ア",
+      "correctAnswer": "3",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "イ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "ウ",
+      "correctAnswer": "0",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "エ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "オ",
+      "correctAnswer": "0",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "カ",
+      "correctAnswer": "0",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "キ",
+      "correctAnswer": "5",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "ク",
+      "correctAnswer": "2",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "ケ",
+      "correctAnswer": "2",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "コ",
+      "correctAnswer": "-",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "サ",
+      "correctAnswer": "2",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "シ",
+      "correctAnswer": "3",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "ス",
+      "correctAnswer": "2",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "セ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "ソ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "タ",
+      "correctAnswer": "2",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "チ",
+      "correctAnswer": "3",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "ツ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "テ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "ト",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "ナ",
+      "correctAnswer": "3",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "ニ",
+      "correctAnswer": "-",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "ヌ",
+      "correctAnswer": "6",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "ネ",
+      "correctAnswer": "1",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_25",
+      "number": 25,
+      "displayLabel": "ノ",
+      "correctAnswer": "4",
+      "prompt": "第1問",
+      "points": 1,
+      "sectionId": "s1",
+      "sectionTitle": "第1問"
+    },
+    {
+      "id": "q_26",
+      "number": 26,
+      "displayLabel": "ア",
+      "correctAnswer": "3",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_27",
+      "number": 27,
+      "displayLabel": "イ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_28",
+      "number": 28,
+      "displayLabel": "ウ",
+      "correctAnswer": "9",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_29",
+      "number": 29,
+      "displayLabel": "エ",
+      "correctAnswer": "6",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_30",
+      "number": 30,
+      "displayLabel": "オ",
+      "correctAnswer": "9",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_31",
+      "number": 31,
+      "displayLabel": "カ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_32",
+      "number": 32,
+      "displayLabel": "キ",
+      "correctAnswer": "6",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_33",
+      "number": 33,
+      "displayLabel": "ク",
+      "correctAnswer": "1",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_34",
+      "number": 34,
+      "displayLabel": "ケ",
+      "correctAnswer": "5",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_35",
+      "number": 35,
+      "displayLabel": "コ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_36",
+      "number": 36,
+      "displayLabel": "サ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_37",
+      "number": 37,
+      "displayLabel": "シ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_38",
+      "number": 38,
+      "displayLabel": "ス",
+      "correctAnswer": "3",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_39",
+      "number": 39,
+      "displayLabel": "セ",
+      "correctAnswer": "0",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_40",
+      "number": 40,
+      "displayLabel": "ソ",
+      "correctAnswer": "5",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_41",
+      "number": 41,
+      "displayLabel": "タ",
+      "correctAnswer": "1",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_42",
+      "number": 42,
+      "displayLabel": "チ",
+      "correctAnswer": "1",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_43",
+      "number": 43,
+      "displayLabel": "ツ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_44",
+      "number": 44,
+      "displayLabel": "テ",
+      "correctAnswer": "3",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_45",
+      "number": 45,
+      "displayLabel": "ト",
+      "correctAnswer": "4",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_46",
+      "number": 46,
+      "displayLabel": "ナ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_47",
+      "number": 47,
+      "displayLabel": "ニ",
+      "correctAnswer": "0",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_48",
+      "number": 48,
+      "displayLabel": "ヌ",
+      "correctAnswer": "4",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_49",
+      "number": 49,
+      "displayLabel": "ネ",
+      "correctAnswer": "2",
+      "prompt": "第2問",
+      "points": 1,
+      "sectionId": "s2",
+      "sectionTitle": "第2問"
+    },
+    {
+      "id": "q_50",
+      "number": 50,
+      "displayLabel": "ア",
+      "correctAnswer": "0",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_51",
+      "number": 51,
+      "displayLabel": "イ",
+      "correctAnswer": "3",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_52",
+      "number": 52,
+      "displayLabel": "ウ",
+      "correctAnswer": "1",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_53",
+      "number": 53,
+      "displayLabel": "エ",
+      "correctAnswer": "2",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_54",
+      "number": 54,
+      "displayLabel": "オ",
+      "correctAnswer": "0",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_55",
+      "number": 55,
+      "displayLabel": "カ",
+      "correctAnswer": "3",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_56",
+      "number": 56,
+      "displayLabel": "キ",
+      "correctAnswer": "3",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_57",
+      "number": 57,
+      "displayLabel": "ク",
+      "correctAnswer": "3",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_58",
+      "number": 58,
+      "displayLabel": "ケ",
+      "correctAnswer": "2",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_59",
+      "number": 59,
+      "displayLabel": "コ",
+      "correctAnswer": "1",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_60",
+      "number": 60,
+      "displayLabel": "サ",
+      "correctAnswer": "8",
+      "prompt": "第3問",
+      "points": 1,
+      "sectionId": "s3",
+      "sectionTitle": "第3問"
+    },
+    {
+      "id": "q_61",
+      "number": 61,
+      "displayLabel": "ア",
+      "correctAnswer": "2",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_62",
+      "number": 62,
+      "displayLabel": "イ",
+      "correctAnswer": "4",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_63",
+      "number": 63,
+      "displayLabel": "ウ",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_64",
+      "number": 64,
+      "displayLabel": "エ",
+      "correctAnswer": "8",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_65",
+      "number": 65,
+      "displayLabel": "オ",
+      "correctAnswer": "1",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_66",
+      "number": 66,
+      "displayLabel": "カ",
+      "correctAnswer": "4",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_67",
+      "number": 67,
+      "displayLabel": "キ",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_68",
+      "number": 68,
+      "displayLabel": "ク",
+      "correctAnswer": "1",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_69",
+      "number": 69,
+      "displayLabel": "ケ",
+      "correctAnswer": "2",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_70",
+      "number": 70,
+      "displayLabel": "コ",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_71",
+      "number": 71,
+      "displayLabel": "サ",
+      "correctAnswer": "1",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_72",
+      "number": 72,
+      "displayLabel": "シ",
+      "correctAnswer": "-",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_73",
+      "number": 73,
+      "displayLabel": "ス",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_74",
+      "number": 74,
+      "displayLabel": "セ",
+      "correctAnswer": "-",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_75",
+      "number": 75,
+      "displayLabel": "ソ",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_76",
+      "number": 76,
+      "displayLabel": "タ",
+      "correctAnswer": "1",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_77",
+      "number": 77,
+      "displayLabel": "チ",
+      "correctAnswer": "4",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_78",
+      "number": 78,
+      "displayLabel": "ツ",
+      "correctAnswer": "0",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_79",
+      "number": 79,
+      "displayLabel": "テ",
+      "correctAnswer": "3",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_80",
+      "number": 80,
+      "displayLabel": "ト",
+      "correctAnswer": "4",
+      "prompt": "第4問",
+      "points": 1,
+      "sectionId": "s4",
+      "sectionTitle": "第4問"
+    },
+    {
+      "id": "q_81",
+      "number": 81,
+      "displayLabel": "ア",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_82",
+      "number": 82,
+      "displayLabel": "イ",
+      "correctAnswer": "-",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_83",
+      "number": 83,
+      "displayLabel": "ウ",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_84",
+      "number": 84,
+      "displayLabel": "エ",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_85",
+      "number": 85,
+      "displayLabel": "オ",
+      "correctAnswer": "0",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_86",
+      "number": 86,
+      "displayLabel": "カ",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_87",
+      "number": 87,
+      "displayLabel": "キ",
+      "correctAnswer": "3",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_88",
+      "number": 88,
+      "displayLabel": "ク",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_89",
+      "number": 89,
+      "displayLabel": "ケ",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_90",
+      "number": 90,
+      "displayLabel": "コ",
+      "correctAnswer": "5",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_91",
+      "number": 91,
+      "displayLabel": "サ",
+      "correctAnswer": "4",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_92",
+      "number": 92,
+      "displayLabel": "シ",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_93",
+      "number": 93,
+      "displayLabel": "ス",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_94",
+      "number": 94,
+      "displayLabel": "セ",
+      "correctAnswer": "-",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_95",
+      "number": 95,
+      "displayLabel": "ソ",
+      "correctAnswer": "3",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_96",
+      "number": 96,
+      "displayLabel": "タ",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_97",
+      "number": 97,
+      "displayLabel": "チ",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_98",
+      "number": 98,
+      "displayLabel": "ツ",
+      "correctAnswer": "-",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_99",
+      "number": 99,
+      "displayLabel": "テ",
+      "correctAnswer": "6",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_100",
+      "number": 100,
+      "displayLabel": "ト",
+      "correctAnswer": "-",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_101",
+      "number": 101,
+      "displayLabel": "ナ",
+      "correctAnswer": "7",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_102",
+      "number": 102,
+      "displayLabel": "ニ",
+      "correctAnswer": "1",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_103",
+      "number": 103,
+      "displayLabel": "ヌ",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_104",
+      "number": 104,
+      "displayLabel": "ネ",
+      "correctAnswer": "-",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    },
+    {
+      "id": "q_105",
+      "number": 105,
+      "displayLabel": "ノ",
+      "correctAnswer": "2",
+      "prompt": "第5問",
+      "points": 1,
+      "sectionId": "s5",
+      "sectionTitle": "第5問"
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "title": "ア",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_2",
+      "title": "イ・ウ",
+      "questionIds": [
+        "q_2",
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "0"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_3",
+      "title": "エ・オ",
+      "questionIds": [
+        "q_4",
+        "q_5"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "0"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_4",
+      "title": "カ",
+      "questionIds": [
+        "q_6"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_5",
+      "title": "キ",
+      "questionIds": [
+        "q_7"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_6",
+      "title": "ク",
+      "questionIds": [
+        "q_8"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_7",
+      "title": "ケ",
+      "questionIds": [
+        "q_9"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_8",
+      "title": "コ・サ・シ",
+      "questionIds": [
+        "q_10",
+        "q_11",
+        "q_12"
+      ],
+      "acceptedVariants": [
+        [
+          "-",
+          "2",
+          "3"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_9",
+      "title": "ス・セ",
+      "questionIds": [
+        "q_13",
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "1"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_10",
+      "title": "ソ・タ",
+      "questionIds": [
+        "q_15",
+        "q_16"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "2"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_11",
+      "title": "チ",
+      "questionIds": [
+        "q_17"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_12",
+      "title": "ツ",
+      "questionIds": [
+        "q_18"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_13",
+      "title": "テ・ト",
+      "questionIds": [
+        "q_19",
+        "q_20"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "1"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_14",
+      "title": "ナ",
+      "questionIds": [
+        "q_21"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_15",
+      "title": "ニ・ヌ",
+      "questionIds": [
+        "q_22",
+        "q_23"
+      ],
+      "acceptedVariants": [
+        [
+          "-",
+          "6"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_16",
+      "title": "ネ・ノ",
+      "questionIds": [
+        "q_24",
+        "q_25"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "4"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s1"
+    },
+    {
+      "id": "rule_17",
+      "title": "ア・イ",
+      "questionIds": [
+        "q_26",
+        "q_27"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "2"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_18",
+      "title": "ウ・エ",
+      "questionIds": [
+        "q_28",
+        "q_29"
+      ],
+      "acceptedVariants": [
+        [
+          "9",
+          "6"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_19",
+      "title": "オ・カ・キ",
+      "questionIds": [
+        "q_30",
+        "q_31",
+        "q_32"
+      ],
+      "acceptedVariants": [
+        [
+          "9",
+          "2",
+          "6"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_20",
+      "title": "ク",
+      "questionIds": [
+        "q_33"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_21",
+      "title": "ケ・コ",
+      "questionIds": [
+        "q_34",
+        "q_35"
+      ],
+      "acceptedVariants": [
+        [
+          "5",
+          "2"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_22",
+      "title": "サ",
+      "questionIds": [
+        "q_36"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_23",
+      "title": "シ",
+      "questionIds": [
+        "q_37"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_24",
+      "title": "ス",
+      "questionIds": [
+        "q_38"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_25",
+      "title": "セ・ソ",
+      "questionIds": [
+        "q_39",
+        "q_40"
+      ],
+      "acceptedVariants": [
+        [
+          "0",
+          "5"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_26",
+      "title": "タ",
+      "questionIds": [
+        "q_41"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_27",
+      "title": "チ",
+      "questionIds": [
+        "q_42"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_28",
+      "title": "ツ",
+      "questionIds": [
+        "q_43"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_29",
+      "title": "テ",
+      "questionIds": [
+        "q_44"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_30",
+      "title": "ト・ナ",
+      "questionIds": [
+        "q_45",
+        "q_46"
+      ],
+      "acceptedVariants": [
+        [
+          "4",
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_31",
+      "title": "ニ・ヌ",
+      "questionIds": [
+        "q_47",
+        "q_48"
+      ],
+      "acceptedVariants": [
+        [
+          "0",
+          "4"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_32",
+      "title": "ネ",
+      "questionIds": [
+        "q_49"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s2"
+    },
+    {
+      "id": "rule_33",
+      "title": "ア",
+      "questionIds": [
+        "q_50"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_34",
+      "title": "イ",
+      "questionIds": [
+        "q_51"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_35",
+      "title": "ウ・エ",
+      "questionIds": [
+        "q_52",
+        "q_53"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_36",
+      "title": "オ",
+      "questionIds": [
+        "q_54"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_37",
+      "title": "カ",
+      "questionIds": [
+        "q_55"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_38",
+      "title": "キ・ク",
+      "questionIds": [
+        "q_56",
+        "q_57"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_39",
+      "title": "ケ・コ・サ",
+      "questionIds": [
+        "q_58",
+        "q_59",
+        "q_60"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "1",
+          "8"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "s3"
+    },
+    {
+      "id": "rule_40",
+      "title": "ア・イ・ウ・エ",
+      "questionIds": [
+        "q_61",
+        "q_62",
+        "q_63",
+        "q_64"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "4",
+          "3",
+          "8"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_41",
+      "title": "オ・カ",
+      "questionIds": [
+        "q_65",
+        "q_66"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "4"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_42",
+      "title": "キ・ク・ケ・コ",
+      "questionIds": [
+        "q_67",
+        "q_68",
+        "q_69",
+        "q_70"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "1",
+          "2",
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_43",
+      "title": "サ",
+      "questionIds": [
+        "q_71"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 1,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_44",
+      "title": "シ・ス・セ・ソ",
+      "questionIds": [
+        "q_72",
+        "q_73",
+        "q_74",
+        "q_75"
+      ],
+      "acceptedVariants": [
+        [
+          "-",
+          "3",
+          "-",
+          "3"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_45",
+      "title": "タ・チ・ツ",
+      "questionIds": [
+        "q_76",
+        "q_77",
+        "q_78"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "4",
+          "0"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_46",
+      "title": "テ",
+      "questionIds": [
+        "q_79"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_47",
+      "title": "ト",
+      "questionIds": [
+        "q_80"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "s4"
+    },
+    {
+      "id": "rule_48",
+      "title": "ア・イ・ウ・エ",
+      "questionIds": [
+        "q_81",
+        "q_82",
+        "q_83",
+        "q_84"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "-",
+          "1",
+          "1"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_49",
+      "title": "オ",
+      "questionIds": [
+        "q_85"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 2,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_50",
+      "title": "カ",
+      "questionIds": [
+        "q_86"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_51",
+      "title": "キ・ク・ケ・コ・サ",
+      "questionIds": [
+        "q_87",
+        "q_88",
+        "q_89",
+        "q_90",
+        "q_91"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "1",
+          "2",
+          "5",
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_52",
+      "title": "シ",
+      "questionIds": [
+        "q_92"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_53",
+      "title": "ス",
+      "questionIds": [
+        "q_93"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "s5"
+    },
+    {
+      "id": "rule_54",
+      "title": "セ・ソ・タ・チ・ツ・テ・ト・ナ・ニ・ヌ・ネ・ノ",
+      "questionIds": [
+        "q_94",
+        "q_95",
+        "q_96",
+        "q_97",
+        "q_98",
+        "q_99",
+        "q_100",
+        "q_101",
+        "q_102",
+        "q_103",
+        "q_104",
+        "q_105"
+      ],
+      "acceptedVariants": [
+        [
+          "-",
+          "3",
+          "1",
+          "2",
+          "-",
+          "6",
+          "-",
+          "7",
+          "1",
+          "2",
+          "-",
+          "2"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "s5"
+    }
+  ],
+  "sourceLabels": [
+    "ア",
+    "イ",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "シ",
+    "ス",
+    "セ",
+    "ソ",
+    "タ",
+    "チ",
+    "ツ",
+    "テ",
+    "ト",
+    "ナ",
+    "ニ",
+    "ヌ",
+    "ネ",
+    "ノ",
+    "ア",
+    "イ",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "シ",
+    "ス",
+    "セ",
+    "ソ",
+    "タ",
+    "チ",
+    "ツ",
+    "テ",
+    "ト",
+    "ナ",
+    "ニ",
+    "ヌ",
+    "ネ",
+    "ア",
+    "イ",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "ア",
+    "イ",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "シ",
+    "ス",
+    "セ",
+    "ソ",
+    "タ",
+    "チ",
+    "ツ",
+    "テ",
+    "ト",
+    "ア",
+    "イ",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "シ",
+    "ス",
+    "セ",
+    "ソ",
+    "タ",
+    "チ",
+    "ツ",
+    "テ",
+    "ト",
+    "ナ",
+    "ニ",
+    "ヌ",
+    "ネ",
+    "ノ"
+  ],
+  "selectionGroups": [
+    {
+      "id": "math_iib_optional_2024",
+      "title": "第3問〜第5問から2問選択",
+      "sectionIds": [
+        "s3",
+        "s4",
+        "s5"
+      ],
+      "minSelect": 2,
+      "maxSelect": 2
+    }
+  ]
+}

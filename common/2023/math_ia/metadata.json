@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2023,
+  "subject": "math_ia",
+  "course": "",
+  "title": "共通テスト 数学Ⅰ・数学Ａ 2023",
+  "time_minutes": 70,
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2023_math_ia_answer.pdf"
+    }
+  ],
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2023_math_ia_problem.pdf"
+    }
+  ]
+}

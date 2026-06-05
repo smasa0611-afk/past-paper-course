@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2023,
+  "subject": "math_iib",
+  "course": "",
+  "title": "共通テスト 数学Ⅱ・数学Ｂ 2023",
+  "time_minutes": 60,
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2023_math_iib_answer.pdf"
+    }
+  ],
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2023_math_iib_problem.pdf"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "examId": "common/2026/english",
+  "submissionId": "demo-10000011-common-2026-english",
+  "score": 81,
+  "maxScore": 100,
+  "feedback": "読解の速度と安定感は十分あります。設問ごとの根拠確認をもう一段丁寧にすると、80点台前半から後半へ伸ばしやすい状態です。",
+  "gradedAt": "2026-04-11T10:05:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "大問1-3",
+      "score": 38,
+      "maxScore": 45,
+      "feedback": "前半は安定しています。語句のニュアンス確認で落とした箇所だけ復習すると効果的です。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "大問4-6",
+      "score": 43,
+      "maxScore": 55,
+      "feedback": "情報の照合で惜しい失点がありました。本文の該当箇所に印を付ける読み方を意識したいです。",
+      "retryRecommended": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2026,
+  "subject": "math",
+  "course": "humanities",
+  "title": "東京大学 文系数学 2026",
+  "time_minutes": 100,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2026_math_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.u-tokyo.ac.jp/content/400239117.pdf"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2026_math_humanities_answer.pdf"
+    }
+  ]
+}

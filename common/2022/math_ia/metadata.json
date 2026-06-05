@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2022,
+  "subject": "math_ia",
+  "course": "",
+  "title": "共通テスト 数学I・数学A 2022",
+  "time_minutes": 70,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2022_math_ia_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2022_math_ia_answer.pdf"
+    }
+  ]
+}

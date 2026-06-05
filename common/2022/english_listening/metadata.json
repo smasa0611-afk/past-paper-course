@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2022,
+  "subject": "english_listening",
+  "course": "",
+  "title": "共通テスト 英語リスニング 2022",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2022_english_listening_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2022_english_listening_answer.pdf"
+    }
+  ]
+}

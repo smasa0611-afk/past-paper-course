@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2026,
+  "subject": "public_ethics",
+  "course": "",
+  "title": "共通テスト 公共・倫理 2026",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2026_public_ethics_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2026_public_ethics_answer.pdf"
+    }
+  ]
+}

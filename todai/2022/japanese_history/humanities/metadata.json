@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2022,
+  "subject": "japanese_history",
+  "course": "humanities",
+  "title": "東京大学 文系 日本史 2022",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2022_japanese_history_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2022_japanese_history_humanities_answer.pdf"
+    }
+  ]
+}

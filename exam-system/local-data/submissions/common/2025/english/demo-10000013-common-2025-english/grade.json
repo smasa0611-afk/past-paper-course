@@ -1,0 +1,26 @@
+{
+  "examId": "common/2025/english",
+  "submissionId": "demo-10000013-common-2025-english",
+  "score": 100,
+  "maxScore": 100,
+  "feedback": "設問形式ごとの対応がよく整理できています。読み直しの精度も高く、かなり仕上がっています。",
+  "gradedAt": "2026-04-19T08:27:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "前半読解",
+      "score": 46,
+      "maxScore": 46,
+      "feedback": "根拠の拾い方が安定しています。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "後半読解",
+      "score": 54,
+      "maxScore": 54,
+      "feedback": "時間配分も含めて完成度が高いです。",
+      "retryRecommended": false
+    }
+  ]
+}

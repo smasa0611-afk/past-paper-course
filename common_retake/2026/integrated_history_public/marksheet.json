@@ -1,0 +1,1262 @@
+{
+  "title": "共通テスト 地理総合／歴史総合／公共 2026 追試験",
+  "instructions": "問題PDFを見ながら、解答番号ごとに正しい選択肢を選んでください。",
+  "defaultChoices": [
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    }
+  ],
+  "choicesPerRow": 4,
+  "questions": [
+    {
+      "id": "geo_1",
+      "number": 1,
+      "displayLabel": "101",
+      "correctAnswer": "4",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_2",
+      "number": 2,
+      "displayLabel": "102",
+      "correctAnswer": "1",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_3",
+      "number": 3,
+      "displayLabel": "103",
+      "correctAnswer": "4",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_4",
+      "number": 4,
+      "displayLabel": "104",
+      "correctAnswer": "6",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_5",
+      "number": 5,
+      "displayLabel": "105",
+      "correctAnswer": "2",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_6",
+      "number": 6,
+      "displayLabel": "106",
+      "correctAnswer": "2",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_7",
+      "number": 7,
+      "displayLabel": "107",
+      "correctAnswer": "1",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_8",
+      "number": 8,
+      "displayLabel": "108",
+      "correctAnswer": "3",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_9",
+      "number": 9,
+      "displayLabel": "109",
+      "correctAnswer": "3",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_10",
+      "number": 10,
+      "displayLabel": "110",
+      "correctAnswer": "4",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_11",
+      "number": 11,
+      "displayLabel": "111",
+      "correctAnswer": "1",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_12",
+      "number": 12,
+      "displayLabel": "112",
+      "correctAnswer": "3",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_13",
+      "number": 13,
+      "displayLabel": "113",
+      "correctAnswer": "3",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_14",
+      "number": 14,
+      "displayLabel": "114",
+      "correctAnswer": "2",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_15",
+      "number": 15,
+      "displayLabel": "115",
+      "correctAnswer": "6",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "geo_16",
+      "number": 16,
+      "displayLabel": "116",
+      "correctAnswer": "4",
+      "prompt": "地理総合",
+      "sectionId": "geography_integrated",
+      "sectionTitle": "地理総合",
+      "points": 1
+    },
+    {
+      "id": "hist_17",
+      "number": 17,
+      "displayLabel": "101",
+      "correctAnswer": "1",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_18",
+      "number": 18,
+      "displayLabel": "102",
+      "correctAnswer": "2",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_19",
+      "number": 19,
+      "displayLabel": "103",
+      "correctAnswer": "3",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_20",
+      "number": 20,
+      "displayLabel": "104",
+      "correctAnswer": "4",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_21",
+      "number": 21,
+      "displayLabel": "105",
+      "correctAnswer": "4",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_22",
+      "number": 22,
+      "displayLabel": "106",
+      "correctAnswer": "3",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_23",
+      "number": 23,
+      "displayLabel": "107",
+      "correctAnswer": "5",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_24",
+      "number": 24,
+      "displayLabel": "108",
+      "correctAnswer": "1",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_25",
+      "number": 25,
+      "displayLabel": "109",
+      "correctAnswer": "1",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_26",
+      "number": 26,
+      "displayLabel": "110",
+      "correctAnswer": "3",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_27",
+      "number": 27,
+      "displayLabel": "111",
+      "correctAnswer": "4",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_28",
+      "number": 28,
+      "displayLabel": "112",
+      "correctAnswer": "2",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_29",
+      "number": 29,
+      "displayLabel": "113",
+      "correctAnswer": "3",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_30",
+      "number": 30,
+      "displayLabel": "114",
+      "correctAnswer": "4",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_31",
+      "number": 31,
+      "displayLabel": "115",
+      "correctAnswer": "3",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "hist_32",
+      "number": 32,
+      "displayLabel": "116",
+      "correctAnswer": "2",
+      "prompt": "歴史総合",
+      "sectionId": "history_integrated",
+      "sectionTitle": "歴史総合",
+      "points": 1
+    },
+    {
+      "id": "pub_33",
+      "number": 33,
+      "displayLabel": "101",
+      "correctAnswer": "3",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_34",
+      "number": 34,
+      "displayLabel": "102",
+      "correctAnswer": "5",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_35",
+      "number": 35,
+      "displayLabel": "103",
+      "correctAnswer": "1",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_36",
+      "number": 36,
+      "displayLabel": "104",
+      "correctAnswer": "4",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_37",
+      "number": 37,
+      "displayLabel": "105",
+      "correctAnswer": "1",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_38",
+      "number": 38,
+      "displayLabel": "106",
+      "correctAnswer": "4",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_39",
+      "number": 39,
+      "displayLabel": "107",
+      "correctAnswer": "6",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_40",
+      "number": 40,
+      "displayLabel": "108",
+      "correctAnswer": "2",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_41",
+      "number": 41,
+      "displayLabel": "109",
+      "correctAnswer": "4",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_42",
+      "number": 42,
+      "displayLabel": "110",
+      "correctAnswer": "2",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_43",
+      "number": 43,
+      "displayLabel": "111",
+      "correctAnswer": "3",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_44",
+      "number": 44,
+      "displayLabel": "112",
+      "correctAnswer": "3",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_45",
+      "number": 45,
+      "displayLabel": "113",
+      "correctAnswer": "1",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_46",
+      "number": 46,
+      "displayLabel": "114",
+      "correctAnswer": "3",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_47",
+      "number": 47,
+      "displayLabel": "115",
+      "correctAnswer": "5",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    },
+    {
+      "id": "pub_48",
+      "number": 48,
+      "displayLabel": "116",
+      "correctAnswer": "4",
+      "prompt": "公共",
+      "sectionId": "public_integrated",
+      "sectionTitle": "公共",
+      "points": 1
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_geo_1",
+      "title": "地理総合 101",
+      "questionIds": [
+        "geo_1"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_2",
+      "title": "地理総合 102",
+      "questionIds": [
+        "geo_2"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_3",
+      "title": "地理総合 103",
+      "questionIds": [
+        "geo_3"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_4",
+      "title": "地理総合 104",
+      "questionIds": [
+        "geo_4"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_5",
+      "title": "地理総合 105",
+      "questionIds": [
+        "geo_5"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_6",
+      "title": "地理総合 106",
+      "questionIds": [
+        "geo_6"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_7",
+      "title": "地理総合 107",
+      "questionIds": [
+        "geo_7"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_8",
+      "title": "地理総合 108",
+      "questionIds": [
+        "geo_8"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_9",
+      "title": "地理総合 109",
+      "questionIds": [
+        "geo_9"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_10",
+      "title": "地理総合 110",
+      "questionIds": [
+        "geo_10"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_11",
+      "title": "地理総合 111",
+      "questionIds": [
+        "geo_11"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_12",
+      "title": "地理総合 112",
+      "questionIds": [
+        "geo_12"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_13",
+      "title": "地理総合 113",
+      "questionIds": [
+        "geo_13"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_14",
+      "title": "地理総合 114",
+      "questionIds": [
+        "geo_14"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_15",
+      "title": "地理総合 115",
+      "questionIds": [
+        "geo_15"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_geo_16",
+      "title": "地理総合 116",
+      "questionIds": [
+        "geo_16"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "geography_integrated"
+    },
+    {
+      "id": "rule_hist_1",
+      "title": "歴史総合 101",
+      "questionIds": [
+        "hist_17"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_2",
+      "title": "歴史総合 102",
+      "questionIds": [
+        "hist_18"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_3",
+      "title": "歴史総合 103",
+      "questionIds": [
+        "hist_19"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_4",
+      "title": "歴史総合 104",
+      "questionIds": [
+        "hist_20"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_5",
+      "title": "歴史総合 105",
+      "questionIds": [
+        "hist_21"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_6",
+      "title": "歴史総合 106",
+      "questionIds": [
+        "hist_22"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_7",
+      "title": "歴史総合 107",
+      "questionIds": [
+        "hist_23"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_8",
+      "title": "歴史総合 108",
+      "questionIds": [
+        "hist_24"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_9",
+      "title": "歴史総合 109",
+      "questionIds": [
+        "hist_25"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_10",
+      "title": "歴史総合 110",
+      "questionIds": [
+        "hist_26"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_11",
+      "title": "歴史総合 111",
+      "questionIds": [
+        "hist_27"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_12",
+      "title": "歴史総合 112",
+      "questionIds": [
+        "hist_28"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_13",
+      "title": "歴史総合 113",
+      "questionIds": [
+        "hist_29"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_14",
+      "title": "歴史総合 114",
+      "questionIds": [
+        "hist_30"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_15",
+      "title": "歴史総合 115",
+      "questionIds": [
+        "hist_31"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_hist_16",
+      "title": "歴史総合 116",
+      "questionIds": [
+        "hist_32"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "history_integrated"
+    },
+    {
+      "id": "rule_pub_1",
+      "title": "公共 101",
+      "questionIds": [
+        "pub_33"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_2",
+      "title": "公共 102",
+      "questionIds": [
+        "pub_34"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_3",
+      "title": "公共 103",
+      "questionIds": [
+        "pub_35"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_4",
+      "title": "公共 104",
+      "questionIds": [
+        "pub_36"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_5",
+      "title": "公共 105",
+      "questionIds": [
+        "pub_37"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_6",
+      "title": "公共 106",
+      "questionIds": [
+        "pub_38"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_7",
+      "title": "公共 107",
+      "questionIds": [
+        "pub_39"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_8",
+      "title": "公共 108",
+      "questionIds": [
+        "pub_40"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_9",
+      "title": "公共 109",
+      "questionIds": [
+        "pub_41"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_10",
+      "title": "公共 110",
+      "questionIds": [
+        "pub_42"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_11",
+      "title": "公共 111",
+      "questionIds": [
+        "pub_43"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_12",
+      "title": "公共 112",
+      "questionIds": [
+        "pub_44"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_13",
+      "title": "公共 113",
+      "questionIds": [
+        "pub_45"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_14",
+      "title": "公共 114",
+      "questionIds": [
+        "pub_46"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_15",
+      "title": "公共 115",
+      "questionIds": [
+        "pub_47"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    },
+    {
+      "id": "rule_pub_16",
+      "title": "公共 116",
+      "questionIds": [
+        "pub_48"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3,
+      "sectionId": "public_integrated"
+    }
+  ],
+  "sourceLabels": [
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "111",
+    "112",
+    "113",
+    "114",
+    "115",
+    "116"
+  ],
+  "selectionGroups": [
+    {
+      "id": "retake_2026_select_two_fields",
+      "title": "受験した2分野を選択",
+      "sectionIds": [
+        "geography_integrated",
+        "history_integrated",
+        "public_integrated"
+      ],
+      "minSelect": 2,
+      "maxSelect": 2
+    }
+  ]
+}

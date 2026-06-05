@@ -1,0 +1,1348 @@
+{
+  "title": "共通テスト 数学I・数学A 2023",
+  "instructions": "問題PDFを見ながら、解答欄ごとにマークしてください。 第1問・第2問は必答、第3問〜第5問は選択制なので、解いた設問だけ入力してください。",
+  "defaultChoices": [
+    {
+      "value": "-",
+      "label": "-"
+    },
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    },
+    {
+      "value": "a",
+      "label": "a"
+    },
+    {
+      "value": "b",
+      "label": "b"
+    },
+    {
+      "value": "c",
+      "label": "c"
+    },
+    {
+      "value": "d",
+      "label": "d"
+    },
+    {
+      "value": "e",
+      "label": "e"
+    }
+  ],
+  "choicesPerRow": 6,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "第1問 ア",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "第1問 イ",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "第1問 ウ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "第1問 エ",
+      "correctAnswer": "-",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "第1問 オ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "第1問 カ",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "第1問 キ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "第1問 ク",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "第1問 ケ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "第1問 コ",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "第1問 サ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "第1問 シ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "第1問 ス",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "第1問 セ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "第1問 ソ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "第1問 タ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "第1問 チ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "第1問 ツ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "第1問 テ",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "第1問 ト",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "第1問 ナ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "第1問 ニ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "第1問 ヌ",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "第1問 ネ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_25",
+      "number": 25,
+      "displayLabel": "第1問 ノ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_26",
+      "number": 26,
+      "displayLabel": "第2問 ア",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_27",
+      "number": 27,
+      "displayLabel": "第2問 イ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_28",
+      "number": 28,
+      "displayLabel": "第2問 ウ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_29",
+      "number": 29,
+      "displayLabel": "第2問 エ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_30",
+      "number": 30,
+      "displayLabel": "第2問 オ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_31",
+      "number": 31,
+      "displayLabel": "第2問 カ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_32",
+      "number": 32,
+      "displayLabel": "第2問 キ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_33",
+      "number": 33,
+      "displayLabel": "第2問 ク",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_34",
+      "number": 34,
+      "displayLabel": "第2問 ケ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_35",
+      "number": 35,
+      "displayLabel": "第2問 コ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_36",
+      "number": 36,
+      "displayLabel": "第2問 サ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_37",
+      "number": 37,
+      "displayLabel": "第2問 シ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_38",
+      "number": 38,
+      "displayLabel": "第2問 ス",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_39",
+      "number": 39,
+      "displayLabel": "第2問 セ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_40",
+      "number": 40,
+      "displayLabel": "第2問 ソ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_41",
+      "number": 41,
+      "displayLabel": "第2問 タ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_42",
+      "number": 42,
+      "displayLabel": "第2問 チ",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_43",
+      "number": 43,
+      "displayLabel": "第2問 ツ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_44",
+      "number": 44,
+      "displayLabel": "第2問 テ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_45",
+      "number": 45,
+      "displayLabel": "第2問 ト",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_46",
+      "number": 46,
+      "displayLabel": "第3問 ア",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_47",
+      "number": 47,
+      "displayLabel": "第3問 イ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_48",
+      "number": 48,
+      "displayLabel": "第3問 ウ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_49",
+      "number": 49,
+      "displayLabel": "第3問 エ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_50",
+      "number": 50,
+      "displayLabel": "第3問 オ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_51",
+      "number": 51,
+      "displayLabel": "第3問 カ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_52",
+      "number": 52,
+      "displayLabel": "第3問 キ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_53",
+      "number": 53,
+      "displayLabel": "第3問 ク",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_54",
+      "number": 54,
+      "displayLabel": "第3問 ケ",
+      "correctAnswer": "9",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_55",
+      "number": 55,
+      "displayLabel": "第3問 コ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_56",
+      "number": 56,
+      "displayLabel": "第3問 サ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_57",
+      "number": 57,
+      "displayLabel": "第3問 シ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_58",
+      "number": 58,
+      "displayLabel": "第3問 ス",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_59",
+      "number": 59,
+      "displayLabel": "第3問 セ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_60",
+      "number": 60,
+      "displayLabel": "第3問 ソ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_61",
+      "number": 61,
+      "displayLabel": "第3問 タ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_62",
+      "number": 62,
+      "displayLabel": "第3問 チ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_63",
+      "number": 63,
+      "displayLabel": "第3問 ツ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_64",
+      "number": 64,
+      "displayLabel": "第4問 ア",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_65",
+      "number": 65,
+      "displayLabel": "第4問 イ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_66",
+      "number": 66,
+      "displayLabel": "第4問 ウ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_67",
+      "number": 67,
+      "displayLabel": "第4問 エ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_68",
+      "number": 68,
+      "displayLabel": "第4問 オ",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_69",
+      "number": 69,
+      "displayLabel": "第4問 カ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_70",
+      "number": 70,
+      "displayLabel": "第4問 キ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_71",
+      "number": 71,
+      "displayLabel": "第4問 ク",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_72",
+      "number": 72,
+      "displayLabel": "第4問 ケ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_73",
+      "number": 73,
+      "displayLabel": "第4問 コ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_74",
+      "number": 74,
+      "displayLabel": "第4問 サ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_75",
+      "number": 75,
+      "displayLabel": "第4問 シ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    },
+    {
+      "id": "q_76",
+      "number": 76,
+      "displayLabel": "第4問 ス",
+      "correctAnswer": "7",
+      "prompt": "解答欄に対応する数字・記号を選んで入力してください。",
+      "points": 1
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "7"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_2",
+      "questionIds": [
+        "q_2",
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "7",
+          "3"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_3",
+      "questionIds": [
+        "q_4",
+        "q_5",
+        "q_6"
+      ],
+      "acceptedVariants": [
+        [
+          "-",
+          "5",
+          "6"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_4",
+      "questionIds": [
+        "q_7",
+        "q_8"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "4"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_5",
+      "questionIds": [
+        "q_9",
+        "q_10",
+        "q_11"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "6",
+          "0"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_6",
+      "questionIds": [
+        "q_12",
+        "q_13",
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "4",
+          "5",
+          "8"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_7",
+      "questionIds": [
+        "q_15",
+        "q_16",
+        "q_17"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "4",
+          "8"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_8",
+      "questionIds": [
+        "q_18",
+        "q_19"
+      ],
+      "acceptedVariants": [
+        [
+          "5",
+          "7"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_9",
+      "questionIds": [
+        "q_20",
+        "q_21",
+        "q_22",
+        "q_23"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "3",
+          "5",
+          "7"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_10",
+      "questionIds": [
+        "q_24"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_11",
+      "questionIds": [
+        "q_25"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_12",
+      "questionIds": [
+        "q_26",
+        "q_27"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "1"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_13",
+      "questionIds": [
+        "q_28",
+        "q_29"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "4"
+        ],
+        [
+          "4",
+          "1"
+        ]
+      ],
+      "points": 3,
+      "orderMatters": false
+    },
+    {
+      "id": "rule_14",
+      "questionIds": [
+        "q_30",
+        "q_31"
+      ],
+      "acceptedVariants": [
+        [
+          "5",
+          "2"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_15",
+      "questionIds": [
+        "q_32",
+        "q_33",
+        "q_34"
+      ],
+      "acceptedVariants": [
+        [
+          "5",
+          "3",
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_16",
+      "questionIds": [
+        "q_35"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_17",
+      "questionIds": [
+        "q_36",
+        "q_37"
+      ],
+      "acceptedVariants": [
+        [
+          "4",
+          "0"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_18",
+      "questionIds": [
+        "q_38",
+        "q_39",
+        "q_40"
+      ],
+      "acceptedVariants": [
+        [
+          "7",
+          "4",
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_19",
+      "questionIds": [
+        "q_41"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_20",
+      "questionIds": [
+        "q_42",
+        "q_43",
+        "q_44",
+        "q_45"
+      ],
+      "acceptedVariants": [
+        [
+          "7",
+          "5",
+          "0",
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_21",
+      "questionIds": [
+        "q_46"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_22",
+      "questionIds": [
+        "q_47"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_23",
+      "questionIds": [
+        "q_48"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_24",
+      "questionIds": [
+        "q_49"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_25",
+      "questionIds": [
+        "q_50",
+        "q_51"
+      ],
+      "acceptedVariants": [
+        [
+          "0",
+          "2"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_26",
+      "questionIds": [
+        "q_52"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_27",
+      "questionIds": [
+        "q_53"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_28",
+      "questionIds": [
+        "q_54"
+      ],
+      "acceptedVariants": [
+        [
+          "9"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_29",
+      "questionIds": [
+        "q_55"
+      ],
+      "acceptedVariants": [
+        [
+          "8"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_30",
+      "questionIds": [
+        "q_56",
+        "q_57"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "2"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_31",
+      "questionIds": [
+        "q_58"
+      ],
+      "acceptedVariants": [
+        [
+          "8"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_32",
+      "questionIds": [
+        "q_59",
+        "q_60"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "3"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_33",
+      "questionIds": [
+        "q_61",
+        "q_62",
+        "q_63"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "3",
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_34",
+      "questionIds": [
+        "q_64"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_35",
+      "questionIds": [
+        "q_65",
+        "q_66"
+      ],
+      "acceptedVariants": [
+        [
+          "1",
+          "8"
+        ]
+      ],
+      "points": 1
+    },
+    {
+      "id": "rule_36",
+      "questionIds": [
+        "q_67"
+      ],
+      "acceptedVariants": [
+        [
+          "8"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_37",
+      "questionIds": [
+        "q_68"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_38",
+      "questionIds": [
+        "q_69"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_39",
+      "questionIds": [
+        "q_70"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_40",
+      "questionIds": [
+        "q_71",
+        "q_72",
+        "q_73"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "5",
+          "1"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_41",
+      "questionIds": [
+        "q_74"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_42",
+      "questionIds": [
+        "q_75"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_43",
+      "questionIds": [
+        "q_76"
+      ],
+      "acceptedVariants": [
+        [
+          "7"
+        ]
+      ],
+      "points": 3
+    }
+  ],
+  "sourceLabels": [
+    "第1問 ア",
+    "第1問 イ",
+    "第1問 ウ",
+    "第1問 エ",
+    "第1問 オ",
+    "第1問 カ",
+    "第1問 キ",
+    "第1問 ク",
+    "第1問 ケ",
+    "第1問 コ",
+    "第1問 サ",
+    "第1問 シ",
+    "第1問 ス",
+    "第1問 セ",
+    "第1問 ソ",
+    "第1問 タ",
+    "第1問 チ",
+    "第1問 ツ",
+    "第1問 テ",
+    "第1問 ト",
+    "第1問 ナ",
+    "第1問 ニ",
+    "第1問 ヌ",
+    "第1問 ネ",
+    "第1問 ノ",
+    "第2問 ア",
+    "第2問 イ",
+    "第2問 ウ",
+    "第2問 エ",
+    "第2問 オ",
+    "第2問 カ",
+    "第2問 キ",
+    "第2問 ク",
+    "第2問 ケ",
+    "第2問 コ",
+    "第2問 サ",
+    "第2問 シ",
+    "第2問 ス",
+    "第2問 セ",
+    "第2問 ソ",
+    "第2問 タ",
+    "第2問 チ",
+    "第2問 ツ",
+    "第2問 テ",
+    "第2問 ト",
+    "第3問 ア",
+    "第3問 イ",
+    "第3問 ウ",
+    "第3問 エ",
+    "第3問 オ",
+    "第3問 カ",
+    "第3問 キ",
+    "第3問 ク",
+    "第3問 ケ",
+    "第3問 コ",
+    "第3問 サ",
+    "第3問 シ",
+    "第3問 ス",
+    "第3問 セ",
+    "第3問 ソ",
+    "第3問 タ",
+    "第3問 チ",
+    "第3問 ツ",
+    "第4問 ア",
+    "第4問 イ",
+    "第4問 ウ",
+    "第4問 エ",
+    "第4問 オ",
+    "第4問 カ",
+    "第4問 キ",
+    "第4問 ク",
+    "第4問 ケ",
+    "第4問 コ",
+    "第4問 サ",
+    "第4問 シ",
+    "第4問 ス"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2025,
+  "subject": "world_history",
+  "course": "",
+  "title": "共通テスト 歴史総合・世界史探究 2025 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=772&f=abm00006005.pdf&n=2025_on_04_rekisisougousekaishitankyuu.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=741&f=abm00005221.pdf&n=R7%E8%BF%BD%E5%86%8D_%E3%80%90%E6%AD%B4%E5%8F%B2%E7%B7%8F%E5%90%88%EF%BC%8C%E4%B8%96%E7%95%8C%E5%8F%B2%E6%8E%A2%E7%A9%B6%E3%80%91%E7%99%BA%E8%A1%A8%E7%94%A8%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2025_world_history_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2025_world_history_answer.pdf"
+    }
+  ]
+}

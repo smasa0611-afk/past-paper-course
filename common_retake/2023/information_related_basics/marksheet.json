@@ -1,0 +1,396 @@
+{
+  "title": "共通テスト 情報関係基礎 2023",
+  "instructions": "問題PDFを見ながら、解答記号ごとに選択してください。",
+  "defaultChoices": [
+    {
+      "value": "-",
+      "label": "-"
+    },
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    },
+    {
+      "value": "a",
+      "label": "a"
+    },
+    {
+      "value": "b",
+      "label": "b"
+    },
+    {
+      "value": "c",
+      "label": "c"
+    },
+    {
+      "value": "d",
+      "label": "d"
+    },
+    {
+      "value": "e",
+      "label": "e"
+    }
+  ],
+  "choicesPerRow": 6,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "1",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "2",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "3",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "4",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "5",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "6",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "7",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "8",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "9",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "10",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "11",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "12",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "13",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "14",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "15",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "16",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "17",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "18",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "19",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "20",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "21",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "22",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "23",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "24",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_25",
+      "number": 25,
+      "displayLabel": "25",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_26",
+      "number": 26,
+      "displayLabel": "26",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_27",
+      "number": 27,
+      "displayLabel": "27",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_28",
+      "number": 28,
+      "displayLabel": "28",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_29",
+      "number": 29,
+      "displayLabel": "29",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_30",
+      "number": 30,
+      "displayLabel": "30",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_31",
+      "number": 31,
+      "displayLabel": "31",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_32",
+      "number": 32,
+      "displayLabel": "32",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_33",
+      "number": 33,
+      "displayLabel": "33",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_34",
+      "number": 34,
+      "displayLabel": "34",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_35",
+      "number": 35,
+      "displayLabel": "35",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_36",
+      "number": 36,
+      "displayLabel": "36",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_37",
+      "number": 37,
+      "displayLabel": "37",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_38",
+      "number": 38,
+      "displayLabel": "38",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_39",
+      "number": 39,
+      "displayLabel": "39",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    },
+    {
+      "id": "q_40",
+      "number": 40,
+      "displayLabel": "40",
+      "prompt": "解答記号ごとに選択してください。",
+      "points": 1
+    }
+  ],
+  "scoringRules": [],
+  "sourceLabels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40"
+  ]
+}

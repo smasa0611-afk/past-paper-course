@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2023,
+  "subject": "earth_science_basics",
+  "course": "",
+  "title": "共通テスト 地学基礎 2023 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=434&f=abm00003683.pdf&n=2023_os_27_chigakukiso.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=508&f=abm00003413.pdf&n=R5_%E5%9C%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2023_earth_science_basics_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2023_earth_science_basics_answer.pdf"
+    }
+  ]
+}

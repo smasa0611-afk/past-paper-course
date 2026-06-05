@@ -1,0 +1,26 @@
+{
+  "examId": "nagoya/2025/english/science",
+  "submissionId": "demo-10000011-nagoya-2025-english-science",
+  "score": 73,
+  "maxScore": 120,
+  "feedback": "内容把握はできていますが、要約で情報の取捨選択がやや甘く、英作文も表現の幅を広げたい状態です。名大形式としては、根拠を絞って書く練習を続けると伸びます。",
+  "gradedAt": "2026-04-21T12:02:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "読解・要約",
+      "score": 39,
+      "maxScore": 60,
+      "feedback": "要点は押さえられています。不要な情報を削る練習があるとさらに良いです。",
+      "retryRecommended": true
+    },
+    {
+      "id": "section-2",
+      "title": "英作文",
+      "score": 34,
+      "maxScore": 60,
+      "feedback": "構成は素直ですが、語彙と構文にもう少し幅を持たせたいです。",
+      "retryRecommended": true
+    }
+  ]
+}

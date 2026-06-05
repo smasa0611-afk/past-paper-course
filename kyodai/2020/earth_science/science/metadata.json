@@ -1,0 +1,24 @@
+{
+  "exam_type": "kyodai",
+  "year": 2020,
+  "subject": "earth_science",
+  "course": "science",
+  "title": "京都大学 理系 地学 2020",
+  "time_minutes": 180,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2020_earth_science_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2020_earth_science_science_answer.pdf"
+    }
+  ]
+}

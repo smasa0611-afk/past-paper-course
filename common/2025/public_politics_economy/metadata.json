@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2025,
+  "subject": "public_politics_economy",
+  "course": "",
+  "title": "共通テスト 公共・政治経済 2025",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2025_public_politics_economy_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2025_public_politics_economy_answer.pdf"
+    }
+  ]
+}

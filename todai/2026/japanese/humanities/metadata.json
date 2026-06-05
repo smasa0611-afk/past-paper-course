@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2026,
+  "subject": "japanese",
+  "course": "humanities",
+  "title": "東京大学 国語 文科 2026",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2026_japanese_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.u-tokyo.ac.jp/content/400239115.pdf"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2026_japanese_humanities_answer.pdf"
+    }
+  ]
+}

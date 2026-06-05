@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2025,
+  "subject": "math_iibc",
+  "course": "",
+  "title": "共通テスト 数学Ⅱ・数学B・数学C 2025 追試験",
+  "time_minutes": 70,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=772&f=abm00005985.pdf&n=2025_on_30_sugaku2BC.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=741&f=abm00005250.pdf&n=R7%E8%BF%BD%E5%86%8D%E3%80%90%E6%95%B0%E5%AD%A6%E2%85%A1%EF%BC%8C%E6%95%B0%E5%AD%A6B%EF%BC%8C%E6%95%B0%E5%AD%A6C%E3%80%91%E7%99%BA%E8%A1%A8%E7%94%A8%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2025_math_iibc_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2025_math_iibc_answer.pdf"
+    }
+  ]
+}

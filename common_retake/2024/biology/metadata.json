@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2024,
+  "subject": "biology",
+  "course": "",
+  "title": "共通テスト 生物 2024 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=668&f=abm00004749.pdf&n=2024_oq_30_seibutsu.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=662&f=abm00004353.pdf&n=R6_%E7%94%9F%E7%89%A9_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2024_biology_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2024_biology_answer.pdf"
+    }
+  ]
+}

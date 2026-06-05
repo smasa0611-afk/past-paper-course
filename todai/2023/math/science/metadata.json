@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2023,
+  "subject": "math",
+  "course": "science",
+  "title": "東京大学 理系数学 2023",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2023_math_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2023_math_science_answer.pdf"
+    }
+  ]
+}

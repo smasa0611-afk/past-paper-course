@@ -1,0 +1,25 @@
+{
+  "exam_type": "kyodai",
+  "year": 2025,
+  "subject": "english",
+  "course": "common",
+  "title": "京都大学 英語 2025",
+  "time_minutes": 120,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2025_english_common_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2025_english_common_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.kyoto-u.ac.jp/sites/default/files/inline-files/admissionsundergradpast_eqR07_eqdocumentsR07_5M05-d8d36bac3e06b6861f3cd42491e2846c.pdf",
+    "answer_url": "https://www.kyoto-u.ac.jp/sites/default/files/inline-files/admissionsundergradpast_eqR07_eqdocumentsR07_5M05-fc31cc2bb68a563cf77d85e6e34c6291.pdf"
+  }
+}

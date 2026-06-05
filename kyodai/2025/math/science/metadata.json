@@ -1,0 +1,25 @@
+{
+  "exam_type": "kyodai",
+  "year": 2025,
+  "subject": "math",
+  "course": "science",
+  "title": "京都大学 理系数学 2025",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2025_math_science_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2025_math_science_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.kyoto-u.ac.jp/sites/default/files/inline-files/admissionsundergradpast_eqR07_eqdocumentsR07_3M04-9acd1fcb2bd4a749430c5d4444aa5419.pdf",
+    "answer_url": "https://www.kyoto-u.ac.jp/sites/default/files/inline-files/admissionsundergradpast_eqR07_eqdocumentsR07_3M04-fa877291099b827b01bb54be3f57c828.pdf"
+  }
+}

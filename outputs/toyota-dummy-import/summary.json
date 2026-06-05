@@ -1,0 +1,41 @@
+{
+  "outputDir": "C:\\Users\\smasa\\Documents\\GitHub\\common-test-share\\outputs\\toyota-dummy-import",
+  "bulkDir": "C:\\Users\\smasa\\Documents\\GitHub\\common-test-share\\outputs\\toyota-dummy-import\\bulk-10-csv",
+  "dummyStudentCount": 20,
+  "dummyEnrollmentCount": 20,
+  "dummyScoreCount": 20,
+  "studentIds": [
+    "82910001",
+    "82910002",
+    "82910003",
+    "82910004",
+    "82910005",
+    "82910006",
+    "82910007",
+    "82910008",
+    "82910009",
+    "82910010",
+    "82910011",
+    "82910012",
+    "82910013",
+    "82910014",
+    "82910015",
+    "82910016",
+    "82910017",
+    "82910018",
+    "82910019",
+    "82910020"
+  ],
+  "bulkFiles": [
+    "HONBU.csv",
+    "KOUSHA.csv",
+    "GAKUNEN.csv",
+    "DAIGAKU.csv",
+    "LINEUP.csv",
+    "SHAIN.csv",
+    "KANRIHONBU.csv",
+    "KANRIKOUSHA.csv",
+    "SEITO.csv",
+    "JUKOUKANRI.csv"
+  ]
+}

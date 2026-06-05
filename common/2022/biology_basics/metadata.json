@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2022,
+  "subject": "biology_basics",
+  "course": "",
+  "title": "共通テスト 生物基礎 2022",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2022_biology_basics_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2022_biology_basics_answer.pdf"
+    }
+  ]
+}

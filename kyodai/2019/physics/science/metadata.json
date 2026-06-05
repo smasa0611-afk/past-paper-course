@@ -1,0 +1,24 @@
+{
+  "exam_type": "kyodai",
+  "year": 2019,
+  "subject": "physics",
+  "course": "science",
+  "title": "京都大学 物理 2019",
+  "time_minutes": 90,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2019_physics_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2019_physics_science_answer.pdf"
+    }
+  ]
+}

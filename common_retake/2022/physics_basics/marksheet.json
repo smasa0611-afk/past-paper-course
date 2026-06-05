@@ -1,0 +1,672 @@
+{
+  "title": "共通テスト 物理基礎 2022",
+  "instructions": "問題PDFを見ながら、解答番号ごとにマークしてください。",
+  "defaultChoices": [
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    }
+  ],
+  "choicesPerRow": 4,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "1",
+      "correctAnswer": "7",
+      "prompt": "物理基礎",
+      "points": 4,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "2",
+      "correctAnswer": "2",
+      "prompt": "物理基礎",
+      "points": 4,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "3",
+      "correctAnswer": "1",
+      "prompt": "物理基礎",
+      "points": 3,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "4",
+      "correctAnswer": "6",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "5",
+      "correctAnswer": "5",
+      "prompt": "物理基礎",
+      "points": 4,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "6",
+      "correctAnswer": "3",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "7",
+      "correctAnswer": "1",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "8",
+      "correctAnswer": "3",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "9",
+      "correctAnswer": "2",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "10",
+      "correctAnswer": "5",
+      "prompt": "物理基礎",
+      "points": 4,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "11",
+      "correctAnswer": "3",
+      "prompt": "物理基礎",
+      "points": 4,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "12",
+      "correctAnswer": "3",
+      "prompt": "物理基礎",
+      "points": 3,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "13",
+      "correctAnswer": "2",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "14",
+      "correctAnswer": "4",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "15",
+      "correctAnswer": "3",
+      "prompt": "物理基礎",
+      "points": 3,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "16",
+      "correctAnswer": "2",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "17",
+      "correctAnswer": "2",
+      "prompt": "物理基礎",
+      "points": 3,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "18",
+      "correctAnswer": "4",
+      "prompt": "物理基礎",
+      "points": 2,
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "title": "Answer 1",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "7"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_2",
+      "title": "Answer 2",
+      "questionIds": [
+        "q_2"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_3",
+      "title": "Answer 3",
+      "questionIds": [
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_4",
+      "title": "Answer 4",
+      "questionIds": [
+        "q_4"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 2
+    },
+    {
+      "id": "rule_5",
+      "title": "Answer 5",
+      "questionIds": [
+        "q_5"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_6_7_all_or_nothing",
+      "title": "Answer 6-7",
+      "questionIds": [
+        "q_6",
+        "q_7"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_8_9_all_or_nothing",
+      "title": "Answer 8-9",
+      "questionIds": [
+        "q_8",
+        "q_9"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_10",
+      "title": "Answer 10",
+      "questionIds": [
+        "q_10"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_11",
+      "title": "Answer 11",
+      "questionIds": [
+        "q_11"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_12",
+      "title": "Answer 12",
+      "questionIds": [
+        "q_12"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_13_14_unordered_partial",
+      "title": "Answer 13-14",
+      "questionIds": [
+        "q_13",
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "4"
+        ],
+        [
+          "4",
+          "2"
+        ]
+      ],
+      "points": 4,
+      "orderMatters": false,
+      "partialCredit": [
+        {
+          "acceptedVariants": [
+            [
+              "2"
+            ]
+          ],
+          "points": 2
+        },
+        {
+          "acceptedVariants": [
+            [
+              "4"
+            ]
+          ],
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "rule_15_16_conditional",
+      "title": "Answer 15-16",
+      "questionIds": [
+        "q_15",
+        "q_16"
+      ],
+      "acceptedVariants": [
+        [
+          "3",
+          "2"
+        ]
+      ],
+      "points": 5,
+      "partialCredit": [
+        {
+          "acceptedVariants": [
+            [
+              "3",
+              "*"
+            ]
+          ],
+          "points": 3
+        },
+        {
+          "acceptedVariants": [
+            [
+              "1",
+              "4"
+            ],
+            [
+              "2",
+              "3"
+            ],
+            [
+              "4",
+              "1"
+            ]
+          ],
+          "points": 2
+        }
+      ]
+    },
+    {
+      "id": "rule_17_18_conditional",
+      "title": "Answer 17-18",
+      "questionIds": [
+        "q_17",
+        "q_18"
+      ],
+      "acceptedVariants": [
+        [
+          "2",
+          "4"
+        ]
+      ],
+      "points": 5,
+      "partialCredit": [
+        {
+          "acceptedVariants": [
+            [
+              "2",
+              "*"
+            ]
+          ],
+          "points": 3
+        },
+        {
+          "acceptedVariants": [
+            [
+              "1",
+              "5"
+            ],
+            [
+              "3",
+              "3"
+            ],
+            [
+              "4",
+              "2"
+            ]
+          ],
+          "points": 2
+        }
+      ]
+    }
+  ],
+  "sourceLabels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18"
+  ],
+  "totalPoints": 50,
+  "metadata": {
+    "expectedMax": 50,
+    "visibleExpectedMax": 50
+  }
+}

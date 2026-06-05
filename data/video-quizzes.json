@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3K1QW0041064B_0002",
+    "lessonId": "v-3k1qw00410611",
+    "sourceFolder": "3K1QW0041064B_0002",
+    "title": "要旨・要約 第5講 確認問題",
+    "targetPoint": 80,
+    "settings": {
+      "showResultImmediately": true,
+      "explanationMode": "optional",
+      "allowExplanationBeforeAnswer": false,
+      "recordExplanationViewed": true
+    },
+    "questions": [
+      { "id": "q1", "number": 1, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0041064B_0002/1_要旨,要約-1.jpg" },
+      { "id": "q2", "number": 2, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0041064B_0002/1_要旨,要約-2.jpg" },
+      { "id": "q3", "number": 3, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "1", "explanationImageUrl": "/video-quizzes/3K1QW0041064B_0002/1_要旨,要約-3.jpg" },
+      { "id": "q4", "number": 4, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0041064B_0002/1_要旨,要約-4.jpg" },
+      { "id": "q5", "number": 5, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0041064B_0002/1_要旨,要約-5.jpg" }
+    ]
+  },
+  {
+    "id": "3K1QW0042054B_0002",
+    "lessonId": "v-3k1qw00420511",
+    "sourceFolder": "3K1QW0042054B_0002",
+    "title": "英文和訳 第5講 確認問題",
+    "targetPoint": 80,
+    "settings": {
+      "showResultImmediately": true,
+      "explanationMode": "optional",
+      "allowExplanationBeforeAnswer": false,
+      "recordExplanationViewed": true
+    },
+    "questions": [
+      { "id": "q1", "number": 1, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "1", "explanationImageUrl": "/video-quizzes/3K1QW0042054B_0002/2_英文和訳-1.jpg" },
+      { "id": "q2", "number": 2, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0042054B_0002/2_英文和訳-2.jpg" },
+      { "id": "q3", "number": 3, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0042054B_0002/2_英文和訳-3.jpg" },
+      { "id": "q4", "number": 4, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0042054B_0002/2_英文和訳-4.jpg" },
+      { "id": "q5", "number": 5, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0042054B_0002/2_英文和訳-5.jpg" }
+    ]
+  },
+  {
+    "id": "3K1QW0043054B_0002",
+    "lessonId": "v-3k1qw00430511",
+    "sourceFolder": "3K1QW0043054B_0002",
+    "title": "文法・語法 第5講 確認問題",
+    "targetPoint": 80,
+    "settings": {
+      "showResultImmediately": true,
+      "explanationMode": "optional",
+      "allowExplanationBeforeAnswer": false,
+      "recordExplanationViewed": true
+    },
+    "questions": [
+      { "id": "q1", "number": 1, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0043054B_0002/3_文法,語法-1.jpg" },
+      { "id": "q2", "number": 2, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0043054B_0002/3_文法,語法-2.jpg" },
+      { "id": "q3", "number": 3, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0043054B_0002/3_文法,語法-3.jpg" },
+      { "id": "q4", "number": 4, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0043054B_0002/3_文法,語法-4.jpg" },
+      { "id": "q5", "number": 5, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0043054B_0002/3_文法,語法-5.jpg" }
+    ]
+  },
+  {
+    "id": "3K1QW0044054B_0002",
+    "lessonId": "v-3k1qw00440511",
+    "sourceFolder": "3K1QW0044054B_0002",
+    "title": "英語表現 第5講 確認問題",
+    "targetPoint": 80,
+    "settings": {
+      "showResultImmediately": true,
+      "explanationMode": "optional",
+      "allowExplanationBeforeAnswer": false,
+      "recordExplanationViewed": true
+    },
+    "questions": [
+      { "id": "q1", "number": 1, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "2", "explanationImageUrl": "/video-quizzes/3K1QW0044054B_0002/4_英語表現-1.jpg" },
+      { "id": "q2", "number": 2, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0044054B_0002/4_英語表現-2.jpg" },
+      { "id": "q3", "number": 3, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0044054B_0002/4_英語表現-3.jpg" },
+      { "id": "q4", "number": 4, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "1", "explanationImageUrl": "/video-quizzes/3K1QW0044054B_0002/4_英語表現-4.jpg" },
+      { "id": "q5", "number": 5, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0044054B_0002/4_英語表現-5.jpg" }
+    ]
+  },
+  {
+    "id": "3K1QW0045054B_0002",
+    "lessonId": "v-3k1qw00450511",
+    "sourceFolder": "3K1QW0045054B_0002",
+    "title": "総合問題 第5講 確認問題",
+    "targetPoint": 80,
+    "settings": {
+      "showResultImmediately": true,
+      "explanationMode": "optional",
+      "allowExplanationBeforeAnswer": false,
+      "recordExplanationViewed": true
+    },
+    "questions": [
+      { "id": "q1", "number": 1, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0045054B_0002/5_総合問題-1.jpg" },
+      { "id": "q2", "number": 2, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0045054B_0002/5_総合問題-2.jpg" },
+      { "id": "q3", "number": 3, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0045054B_0002/5_総合問題-3.jpg" },
+      { "id": "q4", "number": 4, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "4", "explanationImageUrl": "/video-quizzes/3K1QW0045054B_0002/5_総合問題-4.jpg" },
+      { "id": "q5", "number": 5, "prompt": "テキストの確認問題を解きなさい。解き終わったら解答を入力しなさい。", "choices": [{ "id": "1", "label": "a" }, { "id": "2", "label": "b" }, { "id": "3", "label": "c" }, { "id": "4", "label": "d" }], "correctChoiceId": "3", "explanationImageUrl": "/video-quizzes/3K1QW0045054B_0002/5_総合問題-5.jpg" }
+    ]
+  }
+]

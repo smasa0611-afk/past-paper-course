@@ -1,0 +1,9 @@
+{
+  "id": "demo-10000003-common-2023-chemistry_basics-complete",
+  "examId": "common/2023/chemistry_basics",
+  "studentId": "10000003",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_1\": \"1\",\n    \"q_2\": \"1\",\n    \"q_3\": \"1\",\n    \"q_4\": \"1\",\n    \"q_5\": \"1\",\n    \"q_6\": \"1\",\n    \"q_7\": \"3\",\n    \"q_8\": \"3\",\n    \"q_9\": \"2\",\n    \"q_10\": \"2\",\n    \"q_11\": \"2\",\n    \"q_12\": \"1\",\n    \"q_13\": \"4\",\n    \"q_14\": \"2\",\n    \"q_15\": \"2\",\n    \"q_16\": \"5\",\n    \"q_17\": \"1\",\n    \"q_18\": \"5\",\n    \"q_19\": \"2\",\n    \"q_20\": \"5\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-02T09:11:53.000Z",
+  "status": "graded"
+}

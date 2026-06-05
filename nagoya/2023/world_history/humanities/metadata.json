@@ -1,0 +1,24 @@
+{
+  "exam_type": "nagoya",
+  "year": 2023,
+  "subject": "world_history",
+  "course": "humanities",
+  "title": "名古屋大学 文系 世界史 2023",
+  "time_minutes": 105,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2023_world_history_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2023_world_history_humanities_answer.pdf"
+    }
+  ]
+}

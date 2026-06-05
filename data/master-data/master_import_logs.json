@@ -1,0 +1,182 @@
+﻿[
+    {
+        "id":  "4fcb7168-cf46-4e87-8a6a-31dad7626d62",
+        "masterKey":  "employeeSchoolPermissions",
+        "masterLabel":  "社員権限マスター（校舎）",
+        "fileName":  "KANRIKOUSHA.csv",
+        "importedAt":  "2026-05-25T01:05:57.3199544Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  327,
+        "addCount":  327,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "78e184ba-a3c6-4e9b-bd05-144c6b2be33d",
+        "masterKey":  "employeeHeadquarterPermissions",
+        "masterLabel":  "社員権限マスター（本部）",
+        "fileName":  "KANRIHONBU.csv",
+        "importedAt":  "2026-05-25T01:05:57.3199544Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  1763,
+        "addCount":  1763,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "2a80bf83-05ae-4493-a8fb-f92c1c3187d2",
+        "masterKey":  "employees",
+        "masterLabel":  "社員マスター",
+        "fileName":  "SHAIN.csv",
+        "importedAt":  "2026-05-25T01:05:57.3199544Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  1258,
+        "addCount":  1258,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "5c4192c7-dc76-42a0-a3fb-43b2f42ee765",
+        "masterKey":  "studentCourseEnrollments",
+        "masterLabel":  "受講管理データ",
+        "fileName":  "JUKOUKANRI.csv",
+        "importedAt":  "2026-05-25T00:38:27.8207798Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  76,
+        "addCount":  76,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "718657b1-b3f2-444f-beb5-c09bf4f4c2c1",
+        "masterKey":  "students",
+        "masterLabel":  "生徒マスター",
+        "fileName":  "SEITO.csv",
+        "importedAt":  "2026-05-25T00:38:27.8207798Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  46,
+        "addCount":  46,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "d72353e5-7da3-4f38-b3ae-4ccf2967e90f",
+        "masterKey":  "headquarters",
+        "masterLabel":  "本部マスター",
+        "fileName":  "HONBU.csv",
+        "importedAt":  "2026-05-25T00:26:32.3562719Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  8,
+        "addCount":  8,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "73d384c1-3d09-424f-bf6c-46c036c161a6",
+        "masterKey":  "schools",
+        "masterLabel":  "校舎マスター",
+        "fileName":  "KOUSHA.csv",
+        "importedAt":  "2026-05-25T00:26:32.3562719Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  112,
+        "addCount":  112,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "e542f6e6-a32c-43d3-bb7d-96e41a439f35",
+        "masterKey":  "universities",
+        "masterLabel":  "大学マスター",
+        "fileName":  "DAIGAKU.csv",
+        "importedAt":  "2026-05-25T00:26:32.3562719Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  17170,
+        "addCount":  17170,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "1e49522c-0c98-43f1-bfa7-4d27b90886a4",
+        "masterKey":  "courseLineups",
+        "masterLabel":  "講座ラインナップマスター",
+        "fileName":  "LINEUP.csv",
+        "importedAt":  "2026-05-25T00:26:32.3562719Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  13,
+        "addCount":  13,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    },
+    {
+        "id":  "191a5a3b-d385-4906-92b5-5243a7755964",
+        "masterKey":  "gradeMasters",
+        "masterLabel":  "学年マスター",
+        "fileName":  "GAKUNEN.csv",
+        "importedAt":  "2026-05-25T00:26:32.3562719Z",
+        "importedBy":  "codex-seed",
+        "status":  "success",
+        "totalRows":  17,
+        "addCount":  17,
+        "updateCount":  0,
+        "skipCount":  0,
+        "errorCount":  0,
+        "warningCount":  0,
+        "issues":  [
+
+                   ]
+    }
+]

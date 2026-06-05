@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2025,
+  "subject": "math_iibc",
+  "course": "",
+  "title": "共通テスト 数学Ⅱ・数学B・数学C 2025",
+  "time_minutes": 70,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2025_math_iibc_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2025_math_iibc_answer.pdf"
+    }
+  ]
+}

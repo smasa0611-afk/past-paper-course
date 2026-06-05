@@ -1,0 +1,26 @@
+{
+  "examId": "common/2026/math_iibc",
+  "submissionId": "demo-10000012-common-2026-math-iibc",
+  "score": 100,
+  "maxScore": 100,
+  "feedback": "全体を通して安定しています。必答と選択問題の切り分けも良く、完成度の高い演習になっています。",
+  "gradedAt": "2026-04-18T09:18:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "第1問〜第3問",
+      "score": 52,
+      "maxScore": 52,
+      "feedback": "必答部分を落ち着いて処理できています。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "第4問〜第7問",
+      "score": 48,
+      "maxScore": 48,
+      "feedback": "選択問題も含めて正確です。見直しまでできています。",
+      "retryRecommended": false
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "exam_type": "nagoya",
+  "year": 2026,
+  "subject": "biology",
+  "course": "science",
+  "title": "名古屋大学 生物 2026",
+  "time_minutes": 75,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2026_biology_science_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2026_biology_science_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/4-3_r8mondai_seibutu.pdf",
+    "answer_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/4_r8ito_kaitorei_biology_1.pdf"
+  }
+}

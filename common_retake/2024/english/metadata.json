@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2024,
+  "subject": "english",
+  "course": "",
+  "title": "共通テスト 英語 2024 追試験",
+  "time_minutes": 80,
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2024_english_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=668&f=abm00004746.pdf&n=2024_oq_12_reading.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=662&f=abm00004339.pdf&n=R6_%E8%8B%B1%E8%AA%9E%E3%83%AA%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2024_english_problem.pdf"
+    }
+  ]
+}

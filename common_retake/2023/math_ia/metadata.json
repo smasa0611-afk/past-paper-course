@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2023,
+  "subject": "math_ia",
+  "course": "",
+  "title": "共通テスト 数学Ⅰ・数学Ａ 2023 追試験",
+  "time_minutes": 70,
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2023_math_ia_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=434&f=abm00003674.pdf&n=2023_os_19_sugaku1A.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=508&f=abm00003410.pdf&n=R5_%E6%95%B0%E5%AD%A6%E2%85%A0A_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "needs_review: answer rows not found: C:\\Users\\smasa\\Documents\\GitHub\\common-test-share\\common_retake\\2023\\math_ia\\answer.pdf"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2023_math_ia_problem.pdf"
+    }
+  ]
+}

@@ -1,0 +1,1588 @@
+{
+  "title": "共通テスト 理科基礎 2026",
+  "instructions": "受験する基礎科目を2つ選択し、選んだ科目の解答番号ごとにマークしてください。",
+  "defaultChoices": [
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    }
+  ],
+  "choicesPerRow": 4,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "101",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "102",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "103",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "104",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "105",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "106",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "107",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "108",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "109",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "110",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "111",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "6",
+      "points": 1
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "112",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "113",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "114",
+      "prompt": "物理基礎",
+      "sectionId": "physics_basics",
+      "sectionTitle": "物理基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "101",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "102",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "103",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "104",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "105",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "6",
+      "points": 1
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "106",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "107",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "108",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "109",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "110",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_25",
+      "number": 25,
+      "displayLabel": "111",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_26",
+      "number": 26,
+      "displayLabel": "112",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_27",
+      "number": 27,
+      "displayLabel": "113",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "8",
+      "points": 1
+    },
+    {
+      "id": "q_28",
+      "number": 28,
+      "displayLabel": "114",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_29",
+      "number": 29,
+      "displayLabel": "115",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "6",
+      "points": 1
+    },
+    {
+      "id": "q_30",
+      "number": 30,
+      "displayLabel": "116",
+      "prompt": "化学基礎",
+      "sectionId": "chemistry_basics",
+      "sectionTitle": "化学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_31",
+      "number": 31,
+      "displayLabel": "101",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "5",
+      "points": 1
+    },
+    {
+      "id": "q_32",
+      "number": 32,
+      "displayLabel": "102",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_33",
+      "number": 33,
+      "displayLabel": "103",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_34",
+      "number": 34,
+      "displayLabel": "104",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_35",
+      "number": 35,
+      "displayLabel": "105",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_36",
+      "number": 36,
+      "displayLabel": "106",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_37",
+      "number": 37,
+      "displayLabel": "107",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_38",
+      "number": 38,
+      "displayLabel": "108",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_39",
+      "number": 39,
+      "displayLabel": "109",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_40",
+      "number": 40,
+      "displayLabel": "110",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_41",
+      "number": 41,
+      "displayLabel": "111",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_42",
+      "number": 42,
+      "displayLabel": "112",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_43",
+      "number": 43,
+      "displayLabel": "113",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_44",
+      "number": 44,
+      "displayLabel": "114",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_45",
+      "number": 45,
+      "displayLabel": "115",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_46",
+      "number": 46,
+      "displayLabel": "116",
+      "prompt": "生物基礎",
+      "sectionId": "biology_basics",
+      "sectionTitle": "生物基礎",
+      "correctAnswer": "7",
+      "points": 1
+    },
+    {
+      "id": "q_47",
+      "number": 47,
+      "displayLabel": "101",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_48",
+      "number": 48,
+      "displayLabel": "102",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_49",
+      "number": 49,
+      "displayLabel": "103",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_50",
+      "number": 50,
+      "displayLabel": "104",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "6",
+      "points": 1
+    },
+    {
+      "id": "q_51",
+      "number": 51,
+      "displayLabel": "105",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_52",
+      "number": 52,
+      "displayLabel": "106",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_53",
+      "number": 53,
+      "displayLabel": "107",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_54",
+      "number": 54,
+      "displayLabel": "108",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_55",
+      "number": 55,
+      "displayLabel": "109",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "6",
+      "points": 1
+    },
+    {
+      "id": "q_56",
+      "number": 56,
+      "displayLabel": "110",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_57",
+      "number": 57,
+      "displayLabel": "111",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "4",
+      "points": 1
+    },
+    {
+      "id": "q_58",
+      "number": 58,
+      "displayLabel": "112",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "1",
+      "points": 1
+    },
+    {
+      "id": "q_59",
+      "number": 59,
+      "displayLabel": "113",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    },
+    {
+      "id": "q_60",
+      "number": 60,
+      "displayLabel": "114",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "2",
+      "points": 1
+    },
+    {
+      "id": "q_61",
+      "number": 61,
+      "displayLabel": "115",
+      "prompt": "地学基礎",
+      "sectionId": "earth_science_basics",
+      "sectionTitle": "地学基礎",
+      "correctAnswer": "3",
+      "points": 1
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "title": "物理基礎 101",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_2",
+      "title": "物理基礎 102",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_2"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_3",
+      "title": "物理基礎 103",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_4",
+      "title": "物理基礎 104",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_4"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_5",
+      "title": "物理基礎 105",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_5"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_6",
+      "title": "物理基礎 106",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_6"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_7",
+      "title": "物理基礎 107",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_7"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_8",
+      "title": "物理基礎 108",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_8"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_9",
+      "title": "物理基礎 109",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_9"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_10",
+      "title": "物理基礎 110",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_10"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_11",
+      "title": "物理基礎 111",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_11"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_12",
+      "title": "物理基礎 112",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_12"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_13",
+      "title": "物理基礎 113",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_13"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_14",
+      "title": "物理基礎 114",
+      "sectionId": "physics_basics",
+      "questionIds": [
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_15",
+      "title": "化学基礎 101",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_15"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_16",
+      "title": "化学基礎 102",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_16"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_17",
+      "title": "化学基礎 103",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_17"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_18",
+      "title": "化学基礎 104",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_18"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_19",
+      "title": "化学基礎 105",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_19"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_20",
+      "title": "化学基礎 106",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_20"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_21",
+      "title": "化学基礎 107",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_21"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_22",
+      "title": "化学基礎 108",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_22"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_23",
+      "title": "化学基礎 109",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_23"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_24",
+      "title": "化学基礎 110",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_24"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_25",
+      "title": "化学基礎 111",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_25"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_26",
+      "title": "化学基礎 112",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_26"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_27",
+      "title": "化学基礎 113",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_27"
+      ],
+      "acceptedVariants": [
+        [
+          "8"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_28",
+      "title": "化学基礎 114",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_28"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_29",
+      "title": "化学基礎 115",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_29"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_30",
+      "title": "化学基礎 116",
+      "sectionId": "chemistry_basics",
+      "questionIds": [
+        "q_30"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_31",
+      "title": "生物基礎 101",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_31"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_32",
+      "title": "生物基礎 102",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_32"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_33",
+      "title": "生物基礎 103",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_33"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_34",
+      "title": "生物基礎 104",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_34"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_35",
+      "title": "生物基礎 105",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_35"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_36",
+      "title": "生物基礎 106",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_36"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_37",
+      "title": "生物基礎 107",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_37"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_38",
+      "title": "生物基礎 108",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_38"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_39",
+      "title": "生物基礎 109",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_39"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_40",
+      "title": "生物基礎 110",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_40"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_41",
+      "title": "生物基礎 111",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_41"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_42",
+      "title": "生物基礎 112",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_42"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_43",
+      "title": "生物基礎 113",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_43"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_44",
+      "title": "生物基礎 114",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_44"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_45",
+      "title": "生物基礎 115",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_45"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_46",
+      "title": "生物基礎 116",
+      "sectionId": "biology_basics",
+      "questionIds": [
+        "q_46"
+      ],
+      "acceptedVariants": [
+        [
+          "7"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_47",
+      "title": "地学基礎 101",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_47"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_48",
+      "title": "地学基礎 102",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_48"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_49",
+      "title": "地学基礎 103",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_49"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_50",
+      "title": "地学基礎 104",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_50"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_51",
+      "title": "地学基礎 105",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_51"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_52",
+      "title": "地学基礎 106",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_52"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_53",
+      "title": "地学基礎 107",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_53"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_54",
+      "title": "地学基礎 108",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_54"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_55",
+      "title": "地学基礎 109",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_55"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_56",
+      "title": "地学基礎 110",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_56"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_57",
+      "title": "地学基礎 111",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_57"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_58",
+      "title": "地学基礎 112",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_58"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_59",
+      "title": "地学基礎 113",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_59"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_60",
+      "title": "地学基礎 114",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_60"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_61",
+      "title": "地学基礎 115",
+      "sectionId": "earth_science_basics",
+      "questionIds": [
+        "q_61"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    }
+  ],
+  "selectionGroups": [
+    {
+      "id": "science_basics_select_2026",
+      "title": "4科目から2科目選択",
+      "sectionIds": [
+        "physics_basics",
+        "chemistry_basics",
+        "biology_basics",
+        "earth_science_basics"
+      ],
+      "minSelect": 2,
+      "maxSelect": 2
+    }
+  ],
+  "sourceLabels": [
+    "物理基礎:101",
+    "物理基礎:102",
+    "物理基礎:103",
+    "物理基礎:104",
+    "物理基礎:105",
+    "物理基礎:106",
+    "物理基礎:107",
+    "物理基礎:108",
+    "物理基礎:109",
+    "物理基礎:110",
+    "物理基礎:111",
+    "物理基礎:112",
+    "物理基礎:113",
+    "物理基礎:114",
+    "化学基礎:101",
+    "化学基礎:102",
+    "化学基礎:103",
+    "化学基礎:104",
+    "化学基礎:105",
+    "化学基礎:106",
+    "化学基礎:107",
+    "化学基礎:108",
+    "化学基礎:109",
+    "化学基礎:110",
+    "化学基礎:111",
+    "化学基礎:112",
+    "化学基礎:113",
+    "化学基礎:114",
+    "化学基礎:115",
+    "化学基礎:116",
+    "生物基礎:101",
+    "生物基礎:102",
+    "生物基礎:103",
+    "生物基礎:104",
+    "生物基礎:105",
+    "生物基礎:106",
+    "生物基礎:107",
+    "生物基礎:108",
+    "生物基礎:109",
+    "生物基礎:110",
+    "生物基礎:111",
+    "生物基礎:112",
+    "生物基礎:113",
+    "生物基礎:114",
+    "生物基礎:115",
+    "生物基礎:116",
+    "地学基礎:101",
+    "地学基礎:102",
+    "地学基礎:103",
+    "地学基礎:104",
+    "地学基礎:105",
+    "地学基礎:106",
+    "地学基礎:107",
+    "地学基礎:108",
+    "地学基礎:109",
+    "地学基礎:110",
+    "地学基礎:111",
+    "地学基礎:112",
+    "地学基礎:113",
+    "地学基礎:114",
+    "地学基礎:115"
+  ]
+}

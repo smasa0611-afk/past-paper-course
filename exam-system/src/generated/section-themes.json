@@ -1,0 +1,3663 @@
+{
+  "2022:chemistry_basics:第1問": {
+    "year": 2022,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "化学結合、原子の構造、貴ガス、同位体、酸と塩基、物質量、酸化還元、イオン化傾向"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 30
+  },
+  "2022:chemistry_basics:第2問": {
+    "year": 2022,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "テーマ問題「エタノールの性質と蒸留」、状態変化、蒸留、実験操作、質量パーセント濃度"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 20
+  },
+  "2022:english:第1問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "書籍情報の読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "ウェブサイトの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 10
+  },
+  "2022:english:第2問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "施設案内文の読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 20
+  },
+  "2022:english:第3問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "ブログ記事の読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "雑誌記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2022:english:第4問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "複数のブログ記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2022:english:第5問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "伝記文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2022:english:第6問": {
+    "year": 2022,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "論理的な文章の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 24
+  },
+  "2022:ethics:第1問": {
+    "year": 2022,
+    "subject": "ethics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "源流思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2022:ethics:第2問": {
+    "year": 2022,
+    "subject": "ethics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2022:ethics:第3問": {
+    "year": 2022,
+    "subject": "ethics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "西洋近現代思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2022:ethics:第4問": {
+    "year": 2022,
+    "subject": "ethics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "青年期・現代社会分野"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 28
+  },
+  "2022:geography_b:第1問": {
+    "year": 2022,
+    "subject": "geography_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界の自然環境や自然災害"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2022:geography_b:第2問": {
+    "year": 2022,
+    "subject": "geography_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "資源と産業"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2022:geography_b:第3問": {
+    "year": 2022,
+    "subject": "geography_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "村落・都市と人口"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2022:geography_b:第4問": {
+    "year": 2022,
+    "subject": "geography_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ラテンアメリカ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2022:geography_b:第5問": {
+    "year": 2022,
+    "subject": "geography_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域調査（北海道苫小牧市とその周辺地域）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2022:japanese_history_b:第1問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "姓と名字"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 18
+  },
+  "2022:japanese_history_b:第2問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "古代の法整備と遣隋使、遣唐使"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2022:japanese_history_b:第3問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中世の海と人々"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2022:japanese_history_b:第4問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近世の身分と社会"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2022:japanese_history_b:第5問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "幕末・明治期の日本とハワイ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 12
+  },
+  "2022:japanese_history_b:第6問": {
+    "year": 2022,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "鉄道の歴史とその役割"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 22
+  },
+  "2022:math_ia:第1問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "数と式"
+      },
+      {
+        "branch": "[2]",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2022:math_ia:第2問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "2次関数、集合と命題"
+      },
+      {
+        "branch": "[2]",
+        "theme": "データの分析"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2022:math_ia:第3問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2022:math_ia:第4問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "整数の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2022:math_ia:第5問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2022:physics_basics:第1問": {
+    "year": 2022,
+    "subject": "physics_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2022:physics_basics:第2問": {
+    "year": 2022,
+    "subject": "physics_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "電気"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2022:physics_basics:第3問": {
+    "year": 2022,
+    "subject": "physics_basics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "熱、力学、電気"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 18
+  },
+  "2023:chemistry_basics:第1問": {
+    "year": 2023,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物質の構成、状態変化、物質量、酸と塩基、酸化還元、イオン化傾向、化学と人間生活（アルミニウム）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 30
+  },
+  "2023:chemistry_basics:第2問": {
+    "year": 2023,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "テーマ問題「沈殿滴定（塩化物イオンの濃度測定実験）」、酸化還元、実験操作"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 20
+  },
+  "2023:english:第1問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "プリントの読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "ウェブサイトの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 10
+  },
+  "2023:english:第2問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "ウェブサイトの読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "レポート文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 20
+  },
+  "2023:english:第3問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "ニュースレターの読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "ブログの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2023:english:第4問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "複数の記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2023:english:第5問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "随筆文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2023:english:第6問": {
+    "year": 2023,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "論理的な文章の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 24
+  },
+  "2023:ethics:第1問": {
+    "year": 2023,
+    "subject": "ethics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "源流思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2023:ethics:第2問": {
+    "year": 2023,
+    "subject": "ethics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2023:ethics:第3問": {
+    "year": 2023,
+    "subject": "ethics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "西洋近現代思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2023:ethics:第4問": {
+    "year": 2023,
+    "subject": "ethics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "青年期・現代社会分野"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 28
+  },
+  "2023:geography_b:第1問": {
+    "year": 2023,
+    "subject": "geography_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "自然環境と自然災害"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2023:geography_b:第2問": {
+    "year": 2023,
+    "subject": "geography_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "資源と産業"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2023:geography_b:第3問": {
+    "year": 2023,
+    "subject": "geography_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本の人口や都市をめぐる諸問題"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2023:geography_b:第4問": {
+    "year": 2023,
+    "subject": "geography_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "インドと中国"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2023:geography_b:第5問": {
+    "year": 2023,
+    "subject": "geography_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域調査（利根川下流域）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2023:japanese_history_b:第1問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地図から考える日本の歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 18
+  },
+  "2023:japanese_history_b:第2問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本古代の陰陽道"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2023:japanese_history_b:第3問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中世の京都"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2023:japanese_history_b:第4問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "江戸時代における人々の結びつき"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2023:japanese_history_b:第5問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "幕末から明治にかけての日本"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 12
+  },
+  "2023:japanese_history_b:第6問": {
+    "year": 2023,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "旅"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 22
+  },
+  "2023:math_ia:第1問": {
+    "year": 2023,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "数と式"
+      },
+      {
+        "branch": "[2]",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2023:math_ia:第2問": {
+    "year": 2023,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "データの分析"
+      },
+      {
+        "branch": "[2]",
+        "theme": "2次関数"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2023:math_ia:第3問": {
+    "year": 2023,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2023:math_ia:第4問": {
+    "year": 2023,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "整数の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2023:math_ia:第5問": {
+    "year": 2023,
+    "subject": "math_ia",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2023:physics_basics:第1問": {
+    "year": 2023,
+    "subject": "physics_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2023:physics_basics:第2問": {
+    "year": 2023,
+    "subject": "physics_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "力学"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 18
+  },
+  "2023:physics_basics:第3問": {
+    "year": 2023,
+    "subject": "physics_basics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "電気"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2024:chemistry_basics:第1問": {
+    "year": 2024,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物質の分類、典型元素、状態変化、化学電池、共有結合の結晶、気体の密度、化学反応の量的関係、酸と塩基、酸化数、物質量と気体の関係"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 30
+  },
+  "2024:chemistry_basics:第2問": {
+    "year": 2024,
+    "subject": "chemistry_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "テーマ問題「宇宙ステーションの空気制御システム」、電気分解、酸化還元、物質量、極性、化学反応の量的関係"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_kagaku-kiso.html",
+    "points": 20
+  },
+  "2024:english:第1問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "チラシの読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "案内文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 10
+  },
+  "2024:english:第2問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "チラシの読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "レビュー記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 20
+  },
+  "2024:english:第3問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "ブログ記事の読み取り"
+      },
+      {
+        "branch": "B",
+        "theme": "学校新聞の記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2024:english:第4問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "記事・アンケート結果の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2024:english:第5問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物語文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 15
+  },
+  "2024:english:第6問": {
+    "year": 2024,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "論理的な文章の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 24
+  },
+  "2024:ethics:第1問": {
+    "year": 2024,
+    "subject": "ethics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "源流思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2024:ethics:第2問": {
+    "year": 2024,
+    "subject": "ethics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2024:ethics:第3問": {
+    "year": 2024,
+    "subject": "ethics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "西洋近現代思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 24
+  },
+  "2024:ethics:第4問": {
+    "year": 2024,
+    "subject": "ethics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "青年期・現代社会分野"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 28
+  },
+  "2024:geography_b:第1問": {
+    "year": 2024,
+    "subject": "geography_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界の自然環境と自然災害"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2024:geography_b:第2問": {
+    "year": 2024,
+    "subject": "geography_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界と日本の資源と産業"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2024:geography_b:第3問": {
+    "year": 2024,
+    "subject": "geography_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "都市と生活文化"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2024:geography_b:第4問": {
+    "year": 2024,
+    "subject": "geography_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "環太平洋地域"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2024:geography_b:第5問": {
+    "year": 2024,
+    "subject": "geography_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域調査（島根県石見地方浜田市）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2024:japanese_history_b:第1問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "印刷の歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 18
+  },
+  "2024:japanese_history_b:第2問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本古代の食物"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2024:japanese_history_b:第3問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中世社会の特色"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2024:japanese_history_b:第4問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近世の輸出入品と社会・経済との関係"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 16
+  },
+  "2024:japanese_history_b:第5問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "明治期に始まったもの"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 12
+  },
+  "2024:japanese_history_b:第6問": {
+    "year": 2024,
+    "subject": "japanese_history_b",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "二度の世界大戦後の日本と国際社会の関係"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 22
+  },
+  "2024:math_ia:第1問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "数と式"
+      },
+      {
+        "branch": "[2]",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2024:math_ia:第2問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "2次関数"
+      },
+      {
+        "branch": "[2]",
+        "theme": "データの分析"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2024:math_ia:第3問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2024:math_ia:第4問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "整数の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2024:math_ia:第5問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2024:physics_basics:第1問": {
+    "year": 2024,
+    "subject": "physics_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2024:physics_basics:第2問": {
+    "year": 2024,
+    "subject": "physics_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "力学"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 18
+  },
+  "2024:physics_basics:第3問": {
+    "year": 2024,
+    "subject": "physics_basics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "波動"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2024:world_history_b:第1問": {
+    "year": 2024,
+    "subject": "world_history_b",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "様々な地域や時代に見られた体制と制度"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 27
+  },
+  "2024:world_history_b:第2問": {
+    "year": 2024,
+    "subject": "world_history_b",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界史における諸勢力の支配や拡大"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 23
+  },
+  "2024:world_history_b:第3問": {
+    "year": 2024,
+    "subject": "world_history_b",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "社会の在り方における交通の発達"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 22
+  },
+  "2024:world_history_b:第4問": {
+    "year": 2024,
+    "subject": "world_history_b",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界史上の様々な言語・文字・文化、アイデンティティ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 28
+  },
+  "2025:english:第1問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "パンフレットの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 6
+  },
+  "2025:english:第2問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ブログ記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2025:english:第3問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物語文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 9
+  },
+  "2025:english:第4問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "エッセイとコメントの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2025:english:第5問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "Eメールのやり取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2025:english:第6問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物語文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2025:english:第7問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第7問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "記事の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2025:english:第8問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第8問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "複数の意見と資料の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 17
+  },
+  "2025:english_listening:第1問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "短い発話の内容に合う英文を選ぶ"
+      },
+      {
+        "branch": "B",
+        "theme": "短い発話の内容に合う絵などを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 28
+  },
+  "2025:english_listening:第2問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "短い対話の内容に合う絵などを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 12
+  },
+  "2025:english_listening:第3問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "短い対話の内容について、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 18
+  },
+  "2025:english_listening:第4問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "やや長めの発話の内容に沿って、情報を整理する"
+      },
+      {
+        "branch": "B",
+        "theme": "複数の発話を比較して、条件に最もふさわしい発話を選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 12
+  },
+  "2025:english_listening:第5問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "社会的話題に関する講義を聞き、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 16
+  },
+  "2025:english_listening:第6問": {
+    "year": 2025,
+    "subject": "english_listening",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "2人の会話を聞いて、質問に対する答えを選ぶ"
+      },
+      {
+        "branch": "B",
+        "theme": "長めの会話・議論（3人）を聞いて、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 14
+  },
+  "2025:geography:第1問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "食料の生産や消費と自然環境や生活文化とのかかわり"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 13
+  },
+  "2025:geography:第2問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域調査（愛知県東部東三河地域）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 12
+  },
+  "2025:geography:第3問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界の自然環境と自然災害"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2025:geography:第4問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "エネルギーと産業"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 21
+  },
+  "2025:geography:第5問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "産業構造の変化に伴う都市の変容"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 17
+  },
+  "2025:geography:第6問": {
+    "year": 2025,
+    "subject": "geography",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "インド洋とそれをとりまく地域"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 17
+  },
+  "2025:japanese_history:第1問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "歴史上の境界"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 25
+  },
+  "2025:japanese_history:第2問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "菓子の探究活動"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2025:japanese_history:第3問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "外交と文化の関わり"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2025:japanese_history:第4問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中世の武士"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2025:japanese_history:第5問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近世の村"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2025:japanese_history:第6問": {
+    "year": 2025,
+    "subject": "japanese_history",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "松本清張の年譜"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2025:math_ia:第1問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "数と式、集合と命題"
+      },
+      {
+        "branch": "[2]",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2025:math_ia:第2問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "2次関数"
+      },
+      {
+        "branch": "[2]",
+        "theme": "データの分析"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2025:math_ia:第3問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2025:math_ia:第4問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2025:public_ethics:第1問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "男女共同参画社会"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 12
+  },
+  "2025:public_ethics:第2問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "公共空間の形成"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 13
+  },
+  "2025:public_ethics:第3問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "源流思想、芸術"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 28
+  },
+  "2025:public_ethics:第4問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 15
+  },
+  "2025:public_ethics:第5問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "認知バイアス"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 16
+  },
+  "2025:public_ethics:第6問": {
+    "year": 2025,
+    "subject": "public_ethics",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "戦争と平和"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 16
+  },
+  "2025:science_basics:第1問": {
+    "year": 2025,
+    "subject": "science_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合"
+      },
+      {
+        "branch": "",
+        "theme": "中性子、ナトリウム塩、イオン化エネルギーと電子親和力、化学結合、気体の体積、滴定曲線、酸塩基の定義、酸化還元、炭水化物の燃焼とジャガイモの含水量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2025:science_basics:第2問": {
+    "year": 2025,
+    "subject": "science_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "力学"
+      },
+      {
+        "branch": "",
+        "theme": "濃硝酸の熱分解、窒素・酸素・アルゴンの定量、酸素と酸化物に関する知識"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2025:science_basics:第3問": {
+    "year": 2025,
+    "subject": "science_basics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "熱"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 18
+  },
+  "2025:world_history:第1問": {
+    "year": 2025,
+    "subject": "world_history",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "装いの歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 25
+  },
+  "2025:world_history:第2問": {
+    "year": 2025,
+    "subject": "world_history",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界史上の都市の歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 20
+  },
+  "2025:world_history:第3問": {
+    "year": 2025,
+    "subject": "world_history",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "資料の持つ文脈や背景"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 21
+  },
+  "2025:world_history:第4問": {
+    "year": 2025,
+    "subject": "world_history",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "大陸を超えた諸地域の結び付き"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 16
+  },
+  "2025:world_history:第5問": {
+    "year": 2025,
+    "subject": "world_history",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "主題についての班別学習"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 18
+  },
+  "2026:english:第1問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ショートメールのやり取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 6
+  },
+  "2026:english:第2問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ウェブサイトの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2026:english:第3問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "体験記の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 9
+  },
+  "2026:english:第4問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ニュースレターとコメントの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2026:english:第5問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "チラシ・フォーム・Eメールの読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2026:english:第6問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物語文の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 12
+  },
+  "2026:english:第7問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第7問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "論理的文章の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 16
+  },
+  "2026:english:第8問": {
+    "year": 2026,
+    "subject": "english",
+    "sectionTitle": "第8問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "複数の意見と資料の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_reading.html",
+    "points": 17
+  },
+  "2026:english_listening:第1問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "短い発話の内容に合う英文を選ぶ"
+      },
+      {
+        "branch": "B",
+        "theme": "短い発話の内容に合う絵などを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 28
+  },
+  "2026:english_listening:第2問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "短い対話の内容に合う絵などを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 12
+  },
+  "2026:english_listening:第3問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "短い対話の内容について、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 18
+  },
+  "2026:english_listening:第4問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "やや長めの発話の内容に沿って、情報を整理する"
+      },
+      {
+        "branch": "B",
+        "theme": "複数の発話を比較して、条件に最もふさわしい発話を選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 12
+  },
+  "2026:english_listening:第5問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "社会的話題に関する講義を聞き、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 16
+  },
+  "2026:english_listening:第6問": {
+    "year": 2026,
+    "subject": "english_listening",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "A",
+        "theme": "2人の会話を聞いて、質問に対する答えを選ぶ"
+      },
+      {
+        "branch": "B",
+        "theme": "長めの会話・議論（3人）を聞いて、質問に対する答えを選ぶ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_listening.html",
+    "points": 14
+  },
+  "2026:geography:第1問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "乾燥・半乾燥地域の生活文化の多様性"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 13
+  },
+  "2026:geography:第2問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域調査（津軽平野とその周辺地域）"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 12
+  },
+  "2026:geography:第3問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界の自然環境と自然災害"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 21
+  },
+  "2026:geography:第4問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "衣料品類の生産、流通、再利用・再資源化"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 17
+  },
+  "2026:geography:第5問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "人口と都市"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 20
+  },
+  "2026:geography:第6問": {
+    "year": 2026,
+    "subject": "geography",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ドナウ川・ナイル川・メコン川の流域"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_tiri-sougou.html",
+    "points": 17
+  },
+  "2026:japanese_history:第1問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "災害の歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 25
+  },
+  "2026:japanese_history:第2問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本の漁業の歴史"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2026:japanese_history:第3問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "絵画資料の読み取り"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2026:japanese_history:第4問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中世における女性と政治との関わり"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2026:japanese_history:第5問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近世の城郭"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2026:japanese_history:第6問": {
+    "year": 2026,
+    "subject": "japanese_history",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近現代の日本における政治的リーダーシップ"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-nihonshi.html",
+    "points": 15
+  },
+  "2026:math_ia:第1問": {
+    "year": 2026,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "集合と命題"
+      },
+      {
+        "branch": "[2]",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2026:math_ia:第2問": {
+    "year": 2026,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "[1]",
+        "theme": "2次関数"
+      },
+      {
+        "branch": "[2]",
+        "theme": "データの分析"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 30
+  },
+  "2026:math_ia:第3問": {
+    "year": 2026,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2026:math_ia:第4問": {
+    "year": 2026,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_suugaku-1a.html",
+    "points": 20
+  },
+  "2026:public_ethics:第1問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "社会保障"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 12
+  },
+  "2026:public_ethics:第2問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "現代社会の文化や宗教"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 13
+  },
+  "2026:public_ethics:第3問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "源流思想・西洋近現代思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 28
+  },
+  "2026:public_ethics:第4問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "日本思想"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 15
+  },
+  "2026:public_ethics:第5問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "生命倫理・心理学"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 16
+  },
+  "2026:public_ethics:第6問": {
+    "year": 2026,
+    "subject": "public_ethics",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "環境倫理"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_koukyou-rinri.html",
+    "points": 16
+  },
+  "2026:science_basics:第1問": {
+    "year": 2026,
+    "subject": "science_basics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合"
+      },
+      {
+        "branch": "",
+        "theme": "電子配置、同位体、酸化数、分子構造と極性、固体の溶解度、蒸留操作、酸と塩基、化学反応式と量的関係"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2026:science_basics:第2問": {
+    "year": 2026,
+    "subject": "science_basics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "力学"
+      },
+      {
+        "branch": "",
+        "theme": "テーマ問題「肥料として利用される物質」 酸と塩基、酸化還元、2族元素の性質"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 16
+  },
+  "2026:science_basics:第3問": {
+    "year": 2026,
+    "subject": "science_basics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "熱"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_butsuri-kiso.html",
+    "points": 18
+  },
+  "2026:world_history:第1問": {
+    "year": 2026,
+    "subject": "world_history",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "近現代における都市の変容"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 25
+  },
+  "2026:world_history:第2問": {
+    "year": 2026,
+    "subject": "world_history",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "世界史上における様々な法のあり方とその運用"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 21
+  },
+  "2026:world_history:第3問": {
+    "year": 2026,
+    "subject": "world_history",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "歴史に触れるきっかけ、歴史を伝える手段"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 18
+  },
+  "2026:world_history:第4問": {
+    "year": 2026,
+    "subject": "world_history",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "歴史上に見られた様々な「帝国」のあり方"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 18
+  },
+  "2026:world_history:第5問": {
+    "year": 2026,
+    "subject": "world_history",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "税制度と社会変容"
+      }
+    ],
+    "sourceName": "東進 共通テスト解答速報2026",
+    "sourceUrl": "https://www.toshin.com/kyotsutest/about_rekishi-sekaishi.html",
+    "points": 18
+  },
+  "common_retake:2025:english:第1問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "文具店の広告の読み取り"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 6
+  },
+  "common_retake:2025:english:第2問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "家事・育児分担の記事の読み取り"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 12
+  },
+  "common_retake:2025:english:第3問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "空想的な物語文の読み取り"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 9
+  },
+  "common_retake:2025:english:第4問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "作文推敲・教師コメント読解"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 12
+  },
+  "common_retake:2025:english:第5問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地域の祭り資料の読み取り"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 16
+  },
+  "common_retake:2025:english:第6問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物語文・ワークシートの読み取り"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 12
+  },
+  "common_retake:2025:english:第7問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第7問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "硬水と軟水の説明文・発表メモ"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 16
+  },
+  "common_retake:2025:english:第8問": {
+    "year": 2025,
+    "subject": "english",
+    "sectionTitle": "第8問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "動物園に関する意見・資料読解"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」英語（リーディング）高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html",
+    "points": 17
+  },
+  "common_retake:2025:math_ia:第1問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数と式 / 図形と計量"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": 30
+  },
+  "common_retake:2025:math_ia:第2問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "二次関数 / データの分析"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": 30
+  },
+  "common_retake:2025:math_ia:第3問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": 20
+  },
+  "common_retake:2025:math_ia:第4問": {
+    "year": 2025,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": 20
+  },
+  "common_retake:2025:math_iibc:第1問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "いろいろな式"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第2問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形と方程式"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第3問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "微分・積分の考え"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第4問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数列"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第5問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "統計的な推測"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第6問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ベクトル"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2025:math_iibc:第7問": {
+    "year": 2025,
+    "subject": "math_iibc",
+    "sectionTitle": "第7問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "平面上の曲線と複素数平面"
+      }
+    ],
+    "sourceName": "おおぞらラボ 2025年共通テスト追試 数学解説",
+    "sourceUrl": "https://www.ozl.jp/dnk/2025tui/index.html",
+    "points": null
+  },
+  "common_retake:2023:biology:第1問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "細胞構造・タンパク質・遺伝情報"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:biology:第2問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "体内環境・血糖調節"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:biology:第3問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "春植物と森林の光環境"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:biology:第4問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "光合成・二酸化炭素固定"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:biology:第5問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "植物の発生・進化・ABCモデル"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:biology:第6問": {
+    "year": 2023,
+    "subject": "biology",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "反射・神経伝達"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:math_iib:第1問": {
+    "year": 2023,
+    "subject": "math_iib",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "いろいろな式・対数関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:math_iib:第2問": {
+    "year": 2023,
+    "subject": "math_iib",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "微分・積分の考え"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:math_iib:第3問": {
+    "year": 2023,
+    "subject": "math_iib",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "確率分布と統計的な推測"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:math_iib:第4問": {
+    "year": 2023,
+    "subject": "math_iib",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数列"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:math_iib:第5問": {
+    "year": 2023,
+    "subject": "math_iib",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ベクトル"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:physics:第1問": {
+    "year": 2023,
+    "subject": "physics",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "小問集合（力学・熱・波動）"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:physics:第2問": {
+    "year": 2023,
+    "subject": "physics",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "仕事とエネルギー・圧力"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:physics:第3問": {
+    "year": 2023,
+    "subject": "physics",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "電気回路・非線形抵抗"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2023:physics:第4問": {
+    "year": 2023,
+    "subject": "physics",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "波の干渉"
+      }
+    ],
+    "sourceName": "大学入試センター「令和5年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r5_hyouka/r5_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_ia:第1問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数と式"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_ia:第2問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形と計量"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_ia:第3問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "二次関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_ia:第4問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "データの分析"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_ia:第5問": {
+    "year": 2024,
+    "subject": "math_ia",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_iib:第1問": {
+    "year": 2024,
+    "subject": "math_iib",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "対数関数・三角関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_iib:第2問": {
+    "year": 2024,
+    "subject": "math_iib",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "微分・積分"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_iib:第3問": {
+    "year": 2024,
+    "subject": "math_iib",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形と方程式"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_iib:第4問": {
+    "year": 2024,
+    "subject": "math_iib",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "いろいろな式"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2024:math_iib:第5問": {
+    "year": 2024,
+    "subject": "math_iib",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ベクトル"
+      }
+    ],
+    "sourceName": "大学入試センター「令和6年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r6_hyouka/r6_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:biology:第1問": {
+    "year": 2025,
+    "subject": "biology",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "細胞構造・代謝・遺伝子発現"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:biology:第2問": {
+    "year": 2025,
+    "subject": "biology",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ホルモン・血糖濃度・免疫応答"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:biology:第3問": {
+    "year": 2025,
+    "subject": "biology",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "植生・土壌生物の探究"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:biology:第4問": {
+    "year": 2025,
+    "subject": "biology",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "動物の神経・筋肉・群れ"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:biology:第5問": {
+    "year": 2025,
+    "subject": "biology",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "進化・個体群"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第1問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "化学基礎小問集合（物質・反応・電池）"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第2問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "中和滴定・酸化還元反応"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第3問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "有機化合物"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第4問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "無機・有機化合物の総合"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第5問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物質の変化と平衡"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:chemistry:第6問": {
+    "year": 2025,
+    "subject": "chemistry",
+    "sectionTitle": "第6問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "旧課程履修者等向け選択問題"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:information_i:第1問": {
+    "year": 2025,
+    "subject": "information_i",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "著作権・デジタル化・データベース"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:information_i:第2問": {
+    "year": 2025,
+    "subject": "information_i",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "会員登録サイト・セキュリティ"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:information_i:第3問": {
+    "year": 2025,
+    "subject": "information_i",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ごみ拾い集計プログラム"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:information_i:第4問": {
+    "year": 2025,
+    "subject": "information_i",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "高齢化データの分析"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:science_basics:物理基礎": {
+    "year": 2025,
+    "subject": "science_basics",
+    "sectionTitle": "物理基礎",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "物理基礎総合"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:science_basics:化学基礎": {
+    "year": 2025,
+    "subject": "science_basics",
+    "sectionTitle": "化学基礎",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "化学基礎総合"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2025:integrated_history_public:地理総合": {
+    "year": 2025,
+    "subject": "integrated_history_public",
+    "sectionTitle": "地理総合",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "地理総合"
+      }
+    ],
+    "sourceName": "大学入試センター「令和7年度 問題評価・分析委員会報告書（追・再試験）」地理総合高等学校評価",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r7_hyouka/r7_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_ia:第1問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数と式・二次関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_ia:第2問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形と計量・二次関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_ia:第3問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "場合の数と確率"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_ia:第4問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "整数の性質"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_ia:第5問": {
+    "year": 2022,
+    "subject": "math_ia",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形の性質"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_iib:第1問": {
+    "year": 2022,
+    "subject": "math_iib",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "図形と方程式・三角関数"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_iib:第2問": {
+    "year": 2022,
+    "subject": "math_iib",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "微分・積分の考え"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_iib:第3問": {
+    "year": 2022,
+    "subject": "math_iib",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "確率分布と統計的な推測"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_iib:第4問": {
+    "year": 2022,
+    "subject": "math_iib",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "数列"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "common_retake:2022:math_iib:第5問": {
+    "year": 2022,
+    "subject": "math_iib",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "ベクトル"
+      }
+    ],
+    "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
+    "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  }
+}

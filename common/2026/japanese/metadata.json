@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2026,
+  "subject": "japanese",
+  "course": "",
+  "title": "共通テスト 国語 2026",
+  "time_minutes": 90,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2026_japanese_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2026_japanese_answer.pdf"
+    }
+  ]
+}

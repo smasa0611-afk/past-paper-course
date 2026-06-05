@@ -1,0 +1,44 @@
+﻿[
+    {
+        "studentId":  "10000001",
+        "targetKey":  "todai",
+        "targetName":  "譚ｱ莠ｬ螟ｧ蟄ｦ",
+        "subscribed":  true,
+        "note":  "A縺上ｓ: 譚ｱ螟ｧ蠢玲悍縺ｧ2谺｡蟇ｾ遲也筏霎ｼ貂医∩"
+    },
+    {
+        "studentId":  "10000002",
+        "targetKey":  "todai",
+        "targetName":  "譚ｱ莠ｬ螟ｧ蟄ｦ",
+        "subscribed":  true,
+        "note":  "B縺上ｓ: 譚ｱ螟ｧ蠢玲悍縺ｧ2谺｡蟇ｾ遲也筏霎ｼ貂医∩"
+    },
+    {
+        "studentId":  "10000003",
+        "targetKey":  "nagoya",
+        "targetName":  "蜷榊商螻句､ｧ蟄ｦ",
+        "subscribed":  true,
+        "note":  "蜷榊､ｧ蠢玲悍縺ｧ2谺｡蟇ｾ遲也筏霎ｼ貂医∩"
+    },
+    {
+        "studentId":  "10000004",
+        "targetKey":  "kyodai",
+        "targetName":  "莠ｬ驛ｽ螟ｧ蟄ｦ",
+        "subscribed":  true,
+        "note":  "莠ｬ螟ｧ蠢玲悍縺ｧ2谺｡蟇ｾ遲也筏霎ｼ貂医∩"
+    },
+    {
+        "studentId":  "10000005",
+        "targetKey":  "hamamatsu_medical",
+        "targetName":  "豬懈收蛹ｻ遘大､ｧ蟄ｦ",
+        "subscribed":  true,
+        "note":  "豬懈收蛹ｻ遘大､ｧ蠢玲悍縺ｧ2谺｡蟇ｾ遲也筏霎ｼ貂医∩"
+    },
+    {
+        "studentId":  "10000007",
+        "targetKey":  "nagoya",
+        "targetName":  "名古屋大学",
+        "subscribed":  true,
+        "note":  "firstlogin2026: 名大工学部志望で2次対策申込済み"
+    }
+]

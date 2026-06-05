@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2022,
+  "subject": "japanese_history_b",
+  "course": "",
+  "title": "共通テスト 日本史B 2022",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2022_japanese_history_b_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2022_japanese_history_b_answer.pdf"
+    }
+  ]
+}

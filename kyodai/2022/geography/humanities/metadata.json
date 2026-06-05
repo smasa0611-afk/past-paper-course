@@ -1,0 +1,24 @@
+{
+  "exam_type": "kyodai",
+  "year": 2022,
+  "subject": "geography",
+  "course": "humanities",
+  "title": "京都大学 文系 地理 2022",
+  "time_minutes": 90,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2022_geography_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2022_geography_humanities_answer.pdf"
+    }
+  ]
+}

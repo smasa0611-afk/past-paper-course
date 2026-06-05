@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2017,
+  "subject": "world_history",
+  "course": "humanities",
+  "title": "東京大学 文系 世界史 2017",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2017_world_history_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室からPDFを受領後、同名ファイルで上書き"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2017_world_history_humanities_answer.pdf"
+    }
+  ]
+}

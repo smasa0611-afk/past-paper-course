@@ -1,0 +1,24 @@
+{
+  "exam_type": "todai",
+  "year": 2026,
+  "subject": "japanese",
+  "course": "science",
+  "title": "東京大学 国語 理科 2026",
+  "time_minutes": 100,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "todai_2026_japanese_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.u-tokyo.ac.jp/content/400239116.pdf"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "todai_2026_japanese_science_answer.pdf"
+    }
+  ]
+}

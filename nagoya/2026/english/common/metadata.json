@@ -1,0 +1,25 @@
+{
+  "exam_type": "nagoya",
+  "year": 2026,
+  "subject": "english",
+  "course": "common",
+  "title": "名古屋大学 英語 2026",
+  "time_minutes": 105,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2026_english_common_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2026_english_common_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/5_r8mondai_eng.pdf",
+    "answer_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/5_r8ito_kaitorei_eng_1.pdf"
+  }
+}

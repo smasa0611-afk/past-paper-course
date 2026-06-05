@@ -1,0 +1,605 @@
+{
+  "title": "共通テスト 情報関係基礎 2022",
+  "instructions": "解答欄ごとに数字・記号を選んでください。",
+  "defaultChoices": [
+    {
+      "value": "-",
+      "label": "-"
+    },
+    {
+      "value": "0",
+      "label": "0"
+    },
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    },
+    {
+      "value": "a",
+      "label": "A"
+    },
+    {
+      "value": "b",
+      "label": "B"
+    },
+    {
+      "value": "c",
+      "label": "C"
+    },
+    {
+      "value": "d",
+      "label": "D"
+    },
+    {
+      "value": "e",
+      "label": "E"
+    }
+  ],
+  "choicesPerRow": 6,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "ア",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "ウ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "エ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "オ",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "カ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "ク",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "ケ",
+      "correctAnswer": "6",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "コ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "サ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "シ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "セ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "ソ",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "ア",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "イ",
+      "correctAnswer": "3",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "ウ",
+      "correctAnswer": "5",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "オ",
+      "correctAnswer": "4",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "カ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "キ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "ク",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "ケ",
+      "correctAnswer": "1",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "ス",
+      "correctAnswer": "0",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "セ",
+      "correctAnswer": "8",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "タ",
+      "correctAnswer": "b",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "チ",
+      "correctAnswer": "2",
+      "prompt": "解答欄に対応する数字・記号を選んでください。",
+      "points": 1
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "title": "第1問 ア",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_2",
+      "title": "第1問 ウ",
+      "questionIds": [
+        "q_2"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_3",
+      "title": "第1問 エ",
+      "questionIds": [
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_4",
+      "title": "第1問 オ",
+      "questionIds": [
+        "q_4"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_5",
+      "title": "第1問 カ",
+      "questionIds": [
+        "q_5"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_6",
+      "title": "第1問 ク",
+      "questionIds": [
+        "q_6"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_7",
+      "title": "第1問 ケ",
+      "questionIds": [
+        "q_7"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_8",
+      "title": "第1問 コ",
+      "questionIds": [
+        "q_8"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_9",
+      "title": "第1問 サ",
+      "questionIds": [
+        "q_9"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_10",
+      "title": "第1問 シ",
+      "questionIds": [
+        "q_10"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_11",
+      "title": "第1問 セ",
+      "questionIds": [
+        "q_11"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 6
+    },
+    {
+      "id": "rule_12",
+      "title": "第1問 ソ",
+      "questionIds": [
+        "q_12"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_13",
+      "title": "第2問 ア",
+      "questionIds": [
+        "q_13"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_14",
+      "title": "第2問 イ",
+      "questionIds": [
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_15",
+      "title": "第2問 ウ",
+      "questionIds": [
+        "q_15"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_16",
+      "title": "第2問 オ",
+      "questionIds": [
+        "q_16"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_17",
+      "title": "第2問 カ",
+      "questionIds": [
+        "q_17"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_18",
+      "title": "第2問 キ",
+      "questionIds": [
+        "q_18"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_19",
+      "title": "第2問 ク",
+      "questionIds": [
+        "q_19"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_20",
+      "title": "第2問 ケ",
+      "questionIds": [
+        "q_20"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_21",
+      "title": "第2問 ス",
+      "questionIds": [
+        "q_21"
+      ],
+      "acceptedVariants": [
+        [
+          "0"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_22",
+      "title": "第2問 セ",
+      "questionIds": [
+        "q_22"
+      ],
+      "acceptedVariants": [
+        [
+          "8"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_23",
+      "title": "第2問 タ",
+      "questionIds": [
+        "q_23"
+      ],
+      "acceptedVariants": [
+        [
+          "b"
+        ]
+      ],
+      "points": 5
+    },
+    {
+      "id": "rule_24",
+      "title": "第2問 チ",
+      "questionIds": [
+        "q_24"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 2
+    }
+  ],
+  "sourceLabels": [
+    "ア",
+    "ウ",
+    "エ",
+    "オ",
+    "カ",
+    "ク",
+    "ケ",
+    "コ",
+    "サ",
+    "シ",
+    "セ",
+    "ソ",
+    "ア",
+    "イ",
+    "ウ",
+    "オ",
+    "カ",
+    "キ",
+    "ク",
+    "ケ",
+    "ス",
+    "セ",
+    "タ",
+    "チ"
+  ]
+}

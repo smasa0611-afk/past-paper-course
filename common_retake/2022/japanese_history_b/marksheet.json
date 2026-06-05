@@ -1,0 +1,753 @@
+{
+  "title": "共通テスト 日本史B 2022",
+  "instructions": "問題PDFを見ながら、解答番号ごとにマークしてください。",
+  "defaultChoices": [
+    {
+      "value": "1",
+      "label": "1"
+    },
+    {
+      "value": "2",
+      "label": "2"
+    },
+    {
+      "value": "3",
+      "label": "3"
+    },
+    {
+      "value": "4",
+      "label": "4"
+    },
+    {
+      "value": "5",
+      "label": "5"
+    },
+    {
+      "value": "6",
+      "label": "6"
+    },
+    {
+      "value": "7",
+      "label": "7"
+    },
+    {
+      "value": "8",
+      "label": "8"
+    },
+    {
+      "value": "9",
+      "label": "9"
+    }
+  ],
+  "choicesPerRow": 4,
+  "questions": [
+    {
+      "id": "q_1",
+      "number": 1,
+      "displayLabel": "1",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_2",
+      "number": 2,
+      "displayLabel": "2",
+      "correctAnswer": "4",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_3",
+      "number": 3,
+      "displayLabel": "3",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_4",
+      "number": 4,
+      "displayLabel": "4",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_5",
+      "number": 5,
+      "displayLabel": "5",
+      "correctAnswer": "4",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_6",
+      "number": 6,
+      "displayLabel": "6",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_7",
+      "number": 7,
+      "displayLabel": "7",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_8",
+      "number": 8,
+      "displayLabel": "8",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_9",
+      "number": 9,
+      "displayLabel": "9",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_10",
+      "number": 10,
+      "displayLabel": "10",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_11",
+      "number": 11,
+      "displayLabel": "11",
+      "correctAnswer": "4",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_12",
+      "number": 12,
+      "displayLabel": "12",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_13",
+      "number": 13,
+      "displayLabel": "13",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_14",
+      "number": 14,
+      "displayLabel": "14",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_15",
+      "number": 15,
+      "displayLabel": "15",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_16",
+      "number": 16,
+      "displayLabel": "16",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_17",
+      "number": 17,
+      "displayLabel": "17",
+      "correctAnswer": "4",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_18",
+      "number": 18,
+      "displayLabel": "18",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_19",
+      "number": 19,
+      "displayLabel": "19",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_20",
+      "number": 20,
+      "displayLabel": "20",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_21",
+      "number": 21,
+      "displayLabel": "21",
+      "correctAnswer": "6",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_22",
+      "number": 22,
+      "displayLabel": "22",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_23",
+      "number": 23,
+      "displayLabel": "23",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_24",
+      "number": 24,
+      "displayLabel": "24",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_25",
+      "number": 25,
+      "displayLabel": "25",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_26",
+      "number": 26,
+      "displayLabel": "26",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_27",
+      "number": 27,
+      "displayLabel": "27",
+      "correctAnswer": "1",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_28",
+      "number": 28,
+      "displayLabel": "28",
+      "correctAnswer": "5",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_29",
+      "number": 29,
+      "displayLabel": "29",
+      "correctAnswer": "4",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_30",
+      "number": 30,
+      "displayLabel": "30",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_31",
+      "number": 31,
+      "displayLabel": "31",
+      "correctAnswer": "2",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    },
+    {
+      "id": "q_32",
+      "number": 32,
+      "displayLabel": "32",
+      "correctAnswer": "3",
+      "prompt": "各設問の正しい選択肢を選んでください。",
+      "points": 1
+    }
+  ],
+  "scoringRules": [
+    {
+      "id": "rule_1",
+      "title": "解答番号 1",
+      "questionIds": [
+        "q_1"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_2",
+      "title": "解答番号 2",
+      "questionIds": [
+        "q_2"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_3",
+      "title": "解答番号 3",
+      "questionIds": [
+        "q_3"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_4",
+      "title": "解答番号 4",
+      "questionIds": [
+        "q_4"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_5",
+      "title": "解答番号 5",
+      "questionIds": [
+        "q_5"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_6",
+      "title": "解答番号 6",
+      "questionIds": [
+        "q_6"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_7",
+      "title": "解答番号 7",
+      "questionIds": [
+        "q_7"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_8",
+      "title": "解答番号 8",
+      "questionIds": [
+        "q_8"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_9",
+      "title": "解答番号 9",
+      "questionIds": [
+        "q_9"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_10",
+      "title": "解答番号 10",
+      "questionIds": [
+        "q_10"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_11",
+      "title": "解答番号 11",
+      "questionIds": [
+        "q_11"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_12",
+      "title": "解答番号 12",
+      "questionIds": [
+        "q_12"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_13",
+      "title": "解答番号 13",
+      "questionIds": [
+        "q_13"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_14",
+      "title": "解答番号 14",
+      "questionIds": [
+        "q_14"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_15",
+      "title": "解答番号 15",
+      "questionIds": [
+        "q_15"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_16",
+      "title": "解答番号 16",
+      "questionIds": [
+        "q_16"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_17",
+      "title": "解答番号 17",
+      "questionIds": [
+        "q_17"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_18",
+      "title": "解答番号 18",
+      "questionIds": [
+        "q_18"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_19",
+      "title": "解答番号 19",
+      "questionIds": [
+        "q_19"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_20",
+      "title": "解答番号 20",
+      "questionIds": [
+        "q_20"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_21",
+      "title": "解答番号 21",
+      "questionIds": [
+        "q_21"
+      ],
+      "acceptedVariants": [
+        [
+          "6"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_22",
+      "title": "解答番号 22",
+      "questionIds": [
+        "q_22"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_23",
+      "title": "解答番号 23",
+      "questionIds": [
+        "q_23"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_24",
+      "title": "解答番号 24",
+      "questionIds": [
+        "q_24"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_25",
+      "title": "解答番号 25",
+      "questionIds": [
+        "q_25"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_26",
+      "title": "解答番号 26",
+      "questionIds": [
+        "q_26"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_27",
+      "title": "解答番号 27",
+      "questionIds": [
+        "q_27"
+      ],
+      "acceptedVariants": [
+        [
+          "1"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_28",
+      "title": "解答番号 28",
+      "questionIds": [
+        "q_28"
+      ],
+      "acceptedVariants": [
+        [
+          "5"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_29",
+      "title": "解答番号 29",
+      "questionIds": [
+        "q_29"
+      ],
+      "acceptedVariants": [
+        [
+          "4"
+        ]
+      ],
+      "points": 4
+    },
+    {
+      "id": "rule_30",
+      "title": "解答番号 30",
+      "questionIds": [
+        "q_30"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_31",
+      "title": "解答番号 31",
+      "questionIds": [
+        "q_31"
+      ],
+      "acceptedVariants": [
+        [
+          "2"
+        ]
+      ],
+      "points": 3
+    },
+    {
+      "id": "rule_32",
+      "title": "解答番号 32",
+      "questionIds": [
+        "q_32"
+      ],
+      "acceptedVariants": [
+        [
+          "3"
+        ]
+      ],
+      "points": 3
+    }
+  ],
+  "sourceLabels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32"
+  ]
+}

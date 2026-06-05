@@ -1,0 +1,34 @@
+{
+  "examId": "todai/2026/math/humanities",
+  "submissionId": "10000001-1775832443084",
+  "score": 62,
+  "maxScore": 100,
+  "feedback": "方針は大きく外れていませんが、途中式の整理と場合分けの書き切りに甘さがありました。特に最後の詰めで失点しているので、式変形を急がずに条件確認を入れる習慣を付けましょう。",
+  "gradedAt": "2026-04-11T09:00:00.000Z",
+  "sections": [
+    {
+      "id": "section-1",
+      "title": "大問1",
+      "score": 24,
+      "maxScore": 30,
+      "feedback": "立式は安定していました。途中の論理展開もほぼ問題ありません。",
+      "retryRecommended": false
+    },
+    {
+      "id": "section-2",
+      "title": "大問2",
+      "score": 18,
+      "maxScore": 30,
+      "feedback": "方針は良いですが、場合分けの抜けで減点が出ています。途中式を一行ずつ確認したい大問です。",
+      "retryRecommended": true
+    },
+    {
+      "id": "section-3",
+      "title": "大問3",
+      "score": 20,
+      "maxScore": 40,
+      "feedback": "前半は取れていますが、最後の計算処理で失点しました。解きなおしで取り切りたい内容です。",
+      "retryRecommended": true
+    }
+  ]
+}

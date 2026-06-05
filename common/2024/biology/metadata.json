@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2024,
+  "subject": "biology",
+  "course": "",
+  "title": "共通テスト 生物 2024",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2024_biology_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2024_biology_answer.pdf"
+    }
+  ]
+}

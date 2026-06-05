@@ -1,0 +1,24 @@
+{
+  "exam_type": "nagoya",
+  "year": 2022,
+  "subject": "math",
+  "course": "humanities",
+  "title": "名古屋大学 文系数学 2022",
+  "time_minutes": 120,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2022_math_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2022_math_humanities_answer.pdf"
+    }
+  ]
+}

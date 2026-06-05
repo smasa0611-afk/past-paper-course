@@ -1,0 +1,9 @@
+{
+  "id": "demo-10000003-common-2022-earth_science_basics-complete",
+  "examId": "common/2022/earth_science_basics",
+  "studentId": "10000003",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_1\": \"1\",\n    \"q_2\": \"1\",\n    \"q_3\": \"2\",\n    \"q_4\": \"1\",\n    \"q_5\": \"2\",\n    \"q_6\": \"1\",\n    \"q_7\": \"4\",\n    \"q_8\": \"2\",\n    \"q_9\": \"3\",\n    \"q_10\": \"2\",\n    \"q_11\": \"4\",\n    \"q_12\": \"1\",\n    \"q_13\": \"4\",\n    \"q_14\": \"1\",\n    \"q_15\": \"1\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-02T09:10:14.000Z",
+  "status": "graded"
+}

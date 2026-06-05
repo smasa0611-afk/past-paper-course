@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2024,
+  "subject": "ethics_politics_economy",
+  "course": "",
+  "title": "共通テスト 倫理・政治・経済 2024 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=668&f=abm00004737.pdf&n=2024_oq_11_rinriseijikeizai.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=662&f=abm00004332.pdf&n=R6_%E5%80%AB%E7%90%86%EF%BC%8C%E6%94%BF%E6%B2%BB%E3%83%BB%E7%B5%8C%E6%B8%88_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2024_ethics_politics_economy_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2024_ethics_politics_economy_answer.pdf"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2025,
+  "subject": "information_i",
+  "course": "",
+  "title": "共通テスト 情報I 2025",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2025_information_i_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2025_information_i_answer.pdf"
+    }
+  ]
+}

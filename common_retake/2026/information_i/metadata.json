@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2026,
+  "subject": "information_i",
+  "course": "",
+  "title": "共通テスト 情報I 2026 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "partial",
+    "problem_url": null,
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=798&f=abm00006099.pdf&n=R8_%E8%BF%BD%E3%83%BB%E5%86%8D%E8%A9%A6%E9%A8%93%E3%80%90%E6%83%85%E5%A0%B1%E2%85%A0%E3%80%91%E7%99%BA%E8%A1%A8%E7%94%A8%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2026_information_i_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2026_information_i_answer.pdf"
+    }
+  ]
+}

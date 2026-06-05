@@ -1,0 +1,24 @@
+{
+  "exam_type": "nagoya",
+  "year": 2019,
+  "subject": "math",
+  "course": "science",
+  "title": "名古屋大学 理系数学 2019",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2019_math_science_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2019_math_science_answer.pdf"
+    }
+  ]
+}

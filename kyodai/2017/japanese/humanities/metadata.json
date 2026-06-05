@@ -1,0 +1,24 @@
+{
+  "exam_type": "kyodai",
+  "year": 2017,
+  "subject": "japanese",
+  "course": "humanities",
+  "title": "京都大学 国語 文系 2017",
+  "time_minutes": 120,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "kyodai_2017_japanese_humanities_problem.pdf"
+    }
+  ],
+  "source": {
+    "kind": "placeholder",
+    "note": "教材研究室から問題PDFを受領後、problem.pdfを差し替える"
+  },
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "kyodai_2017_japanese_humanities_answer.pdf"
+    }
+  ]
+}

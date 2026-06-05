@@ -1,0 +1,20 @@
+{
+  "exam_type": "common",
+  "year": 2026,
+  "subject": "english",
+  "course": "",
+  "title": "共通テスト 英語 2026",
+  "time_minutes": 80,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_main_2026_english_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_main_2026_english_answer.pdf"
+    }
+  ]
+}

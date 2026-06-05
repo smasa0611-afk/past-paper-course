@@ -1,0 +1,25 @@
+{
+  "exam_type": "nagoya",
+  "year": 2026,
+  "subject": "math",
+  "course": "science",
+  "title": "名古屋大学 理系数学 2026",
+  "time_minutes": 150,
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "nagoya_2026_math_science_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "nagoya_2026_math_science_answer.pdf"
+    }
+  ],
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/3-2_r8mondai_math_ri.pdf",
+    "answer_url": "https://www.nagoya-u.ac.jp/admissions/exam/upload/3_r8ito_math_1.pdf"
+  }
+}

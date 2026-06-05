@@ -1,0 +1,26 @@
+{
+  "exam_type": "common_retake",
+  "year": 2023,
+  "subject": "japanese_history_b",
+  "course": "",
+  "title": "共通テスト 日本史B 2023 追試験",
+  "time_minutes": 60,
+  "source": {
+    "kind": "official",
+    "problem_url": "https://www.dnc.ac.jp/albums/abm.php?d=434&f=abm00003695.pdf&n=2023_os_05_nihonshiB.pdf",
+    "answer_url": "https://www.dnc.ac.jp/albums/abm.php?d=508&f=abm00003388.pdf&n=R5_%E6%97%A5%E6%9C%AC%E5%8F%B2B_%E8%BF%BD%E8%A9%A6%E9%A8%93%E3%81%AE%E6%AD%A3%E8%A7%A3.pdf",
+    "marksheet_status": "generated"
+  },
+  "problem_files": [
+    {
+      "label": "問題",
+      "path": "common_retake_2023_japanese_history_b_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "解答",
+      "path": "common_retake_2023_japanese_history_b_answer.pdf"
+    }
+  ]
+}
