@@ -1,10 +1,14 @@
 data/dev-mail-outbox.json
 data/password-reset-tokens.json
 data/universities/source/
+.env*
+!.env*.example
 .tmp/
 tmp/
 node_modules/
 .next/
+public/exam-assets/
+src/generated/exams-index.json
 dist/
 build/
 coverage/
