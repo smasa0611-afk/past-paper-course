@@ -1,5 +1,5 @@
 {
-  "installCommand": "cd exam-system && npm install",
-  "buildCommand": "cd exam-system && npm run build",
-  "outputDirectory": "exam-system/.next"
+  "installCommand": "npm install",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next"
 }
