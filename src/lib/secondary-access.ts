@@ -58,7 +58,7 @@ export function isSecondaryCourseEnrollment(
 
 export function readSecondaryEnrollments(): SecondaryEnrollment[] {
   if (!fs.existsSync(enrollmentPath)) return [];
-  return JSON.parse(fs.readFileSync(enrollmentPath, "utf-8")) as SecondaryEnrollment[];
+  return JSON.parse(fs.readFileSync(enrollmentPath, "utf-8").replace(/^\uFEFF/, "")) as SecondaryEnrollment[];
 }
 
 function readEffectiveStudentCourseEnrollments(studentId?: string) {
@@ -78,9 +78,9 @@ export function getSubscribedSecondaryTargets(studentId: string | null | undefin
   if (!studentId) return targets;
 
   readEffectiveStudentCourseEnrollments(studentId).forEach((item) => {
-      const target = getSecondaryTargetFromCourse(item);
-      if (target) targets.add(target);
-    });
+    const target = getSecondaryTargetFromCourse(item);
+    if (target) targets.add(target);
+  });
 
   readSecondaryEnrollments()
     .filter((item) => item.studentId === studentId && item.subscribed)
@@ -94,9 +94,9 @@ export async function getSubscribedSecondaryTargetsAsync(studentId: string | nul
   if (!studentId) return targets;
 
   (await readEffectiveStudentCourseEnrollmentsAsync(studentId)).forEach((item) => {
-      const target = getSecondaryTargetFromCourse(item);
-      if (target) targets.add(target);
-    });
+    const target = getSecondaryTargetFromCourse(item);
+    if (target) targets.add(target);
+  });
 
   readSecondaryEnrollments()
     .filter((item) => item.studentId === studentId && item.subscribed)
