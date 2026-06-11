@@ -164,6 +164,27 @@ const localDate = (value?: string | null) => {
   if (Number.isNaN(date.getTime())) return value;
   return date.toLocaleDateString("ja-JP");
 };
+const dueDateState = (dateText: string) => {
+  if (!dateText) {
+    return { label: "締切未設定", detail: "", className: "border-slate-300 bg-slate-100 text-slate-700" };
+  }
+  if (dateText < todayKey()) {
+    return { label: "締切超過", detail: localDate(dateText), className: "border-red-200 bg-red-50 text-red-700" };
+  }
+  if (dateText === todayKey()) {
+    return { label: "本日締切", detail: localDate(dateText), className: "border-amber-200 bg-amber-50 text-amber-700" };
+  }
+  return { label: "締切設定済", detail: localDate(dateText), className: "border-blue-200 bg-blue-50 text-blue-700" };
+};
+const renderDueDate = (row: Row) => {
+  const state = dueDateState(row.dueDate);
+  return (
+    <span className={`inline-flex min-w-24 flex-col rounded border px-2 py-1 text-xs font-bold leading-tight ${state.className}`}>
+      <span>{state.label}</span>
+      {state.detail && <span className="mt-0.5 font-mono text-[11px] font-semibold opacity-80">{state.detail}</span>}
+    </span>
+  );
+};
 const examTitle = (exam: ExamMetadata | undefined, examId: string) => {
   if (exam?.title && !exam.title.includes("�")) return exam.title;
   const parts = examId.replace(/\\/g, "/").split("/");
@@ -1026,7 +1047,7 @@ export default function GradingPage() {
     { key: "courseCategory", label: "コース区分" },
     { key: "latestAssignmentName", label: "課題名" },
     { key: "subject", label: "教科" },
-    { key: "dueDate", label: "締切日" },
+    { key: "dueDate", label: "締切日", render: renderDueDate },
     { key: "examStatus", label: "受験状況", render: (row) => <Badge>{row.examStatus}</Badge> },
     { key: "submissionStatus", label: "提出状況", render: (row) => <Badge>{row.submissionStatus}</Badge> },
     { key: "score", label: "点数", className: "text-right font-mono", render: (row) => row.score ?? "-" },
