@@ -268,6 +268,12 @@ const isSecondaryAssignment = (assignment?: Assignment, imported?: ImportedScore
 const subjectMatches = (filter: string, subject: string) => (
   !filter || subject === filter || (filter === "英語" && subject.startsWith("英語"))
 );
+const isTeacher1092ProgressRow = (row: Row) => (
+  row.student.id.startsWith("1092") || row.campus.includes("北高前校3号館")
+);
+const campusFilterMatchesTeacher1092 = (campuses: string[]) => (
+  campuses.length === 0 || campuses.some((campus) => campus.includes("北高前校3号館"))
+);
 
 const rowKey = (row: Row, index: number) => [
   row.student.id,
@@ -649,9 +655,12 @@ export default function GradingPage() {
     const active = new Set(activeQuickFilters);
     const filtered = rows.filter((row) => {
       const taskFiltersApplyHere = false;
-      if (groupFilter.length && !groupFilter.includes(ALL_GROUP_OPTION) && !groupFilter.includes(row.group)) return false;
-      if (campusFilter.length && !campusFilter.includes(row.campus)) return false;
-      if (gradeFilter && row.grade !== gradeFilter) return false;
+      const isTeacher1092Row = isTeacher1092ProgressRow(row);
+      const allowTeacher1092ByCampus = isTeacher1092Row && campusFilterMatchesTeacher1092(campusFilter);
+      if (!allowTeacher1092ByCampus && groupFilter.length && !groupFilter.includes(ALL_GROUP_OPTION) && !groupFilter.includes(row.group)) return false;
+      if (!allowTeacher1092ByCampus && campusFilter.length && !campusFilter.includes(row.campus)) return false;
+      if (!allowTeacher1092ByCampus && gradeFilter && row.grade !== gradeFilter) return false;
+      if (allowTeacher1092ByCampus && gradeFilter && gradeFilter !== "高3" && row.grade !== gradeFilter) return false;
       if (goalUniversityFilter && row.goalUniversity !== goalUniversityFilter) return false;
       if (goalFacultyFilter && row.goalFaculty !== goalFacultyFilter) return false;
       if (goalDepartmentFilter && row.goalDepartment !== goalDepartmentFilter) return false;
