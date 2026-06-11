@@ -481,6 +481,17 @@ export default function SecondaryResultsPage() {
   }, [commonExams]);
 
   const allSubmissions = useMemo(() => {
+    const submissionKeys = new Set(
+      submissions.map((submission) =>
+        [
+          normalizeExamId(submission.examId),
+          submission.studentId,
+          submission.timestamp,
+          submission.score ?? "",
+          submission.maxScore ?? "",
+        ].join("|"),
+      ),
+    );
     const importedAssignments = assignments
       .filter((assignment) => typeof assignment.score === "number")
       .map((assignment) => ({
@@ -496,7 +507,17 @@ export default function SecondaryResultsPage() {
         feedback: "Imported from secondary score CSV.",
         gradedAt: assignment.gradedAt,
         importedAt: assignment.importedAt,
-      }) satisfies StoredSubmission);
+      }) satisfies StoredSubmission)
+      .filter((submission) => {
+        const key = [
+          normalizeExamId(submission.examId),
+          submission.studentId,
+          submission.timestamp,
+          submission.score ?? "",
+          submission.maxScore ?? "",
+        ].join("|");
+        return !submissionKeys.has(key);
+      });
 
     return [...submissions, ...importedAssignments];
   }, [assignments, submissions]);
@@ -531,6 +552,23 @@ export default function SecondaryResultsPage() {
   const displayedSubmissionByExam = useMemo(() => {
     return latestSubmissionByExam;
   }, [latestSubmissionByExam]);
+
+  const attemptHistoryByExam = useMemo(() => {
+    const map = new Map<string, StoredSubmission[]>();
+    allSubmissions.forEach((submission) => {
+      const key = normalizeExamId(submission.examId);
+      const items = map.get(key) ?? [];
+      items.push(submission);
+      map.set(key, items);
+    });
+    map.forEach((items, key) => {
+      map.set(
+        key,
+        items.sort((a, b) => new Date(a.timestamp).getTime() - new Date(b.timestamp).getTime()),
+      );
+    });
+    return map;
+  }, [allSubmissions]);
 
   const secondarySubmissions = useMemo(
     () =>
@@ -766,12 +804,13 @@ export default function SecondaryResultsPage() {
                         const cells = subjects.map((subject) => {
                           const exam = examByYearSubject.get(`${year}:${subject.slug}`);
                           const submission = exam ? displayedSubmissionByExam.get(normalizeExamId(exam.id)) : undefined;
+                          const attemptHistory = exam ? attemptHistoryByExam.get(normalizeExamId(exam.id)) ?? [] : [];
                           const score = scoreToSubjectMax(submission, subject.max);
                           if (score !== null) {
                             total += score;
                             hasScore = true;
                           }
-                          return { subject, exam, submission, score };
+                          return { subject, exam, submission, attemptHistory, score };
                         });
 
                         return (
@@ -783,7 +822,7 @@ export default function SecondaryResultsPage() {
                               </span>
                               {hasScore && <span className="ml-2 text-base font-black text-[#251b2f]">/ {targetTotal}</span>}
                             </td>
-                            {cells.map(({ subject, exam, score }) => (
+                            {cells.map(({ subject, exam, attemptHistory, score }) => (
                               <td key={`${year}-${subject.slug}`} className="border-b border-r border-[#ddcdb8] px-3 py-4">
                                 {!exam ? (
                                   <span className="text-sm font-black text-[#8a7b6a]">未登録</span>
@@ -792,7 +831,8 @@ export default function SecondaryResultsPage() {
                                     演習
                                   </Link>
                                 ) : (
-                                  <div className="flex flex-wrap items-center justify-center gap-2">
+                                  <div className="space-y-2">
+                                    <div className="flex flex-wrap items-center justify-center gap-2">
                                     <Link
                                       href={getAnalysisHref(exam, subject)}
                                       className={`min-w-11 rounded-md px-3 py-1.5 text-base font-black shadow-[0_6px_16px_rgba(110,73,33,0.16)] transition hover:-translate-y-0.5 hover:brightness-110 ${scoreTone(score, subject.max)}`}
@@ -804,6 +844,20 @@ export default function SecondaryResultsPage() {
                                     <Link href={getExamHref(exam, subject)} className="rounded-md border border-[#d4623c] bg-[#fff0e8] px-2.5 py-1 text-sm font-black text-[#9a321d] hover:bg-[#ffe4d7]">
                                       再挑戦
                                     </Link>
+                                    </div>
+                                    {attemptHistory.length > 1 && (
+                                      <div className="flex flex-wrap justify-center gap-x-2 gap-y-1 text-[11px] font-black leading-tight text-[#6d4d34]">
+                                        {attemptHistory.slice(-2).map((attempt) => {
+                                          const attemptIndex = attemptHistory.findIndex((item) => item.id === attempt.id) + 1;
+                                          const attemptScore = scoreToSubjectMax(attempt, subject.max);
+                                          return (
+                                            <span key={attempt.id} className="rounded border border-[#e7c9a5] bg-[#fff8ef] px-1.5 py-0.5">
+                                              {attemptIndex}回目 {attemptScore ?? "-"}点
+                                            </span>
+                                          );
+                                        })}
+                                      </div>
+                                    )}
                                   </div>
                                 )}
                               </td>
@@ -816,10 +870,10 @@ export default function SecondaryResultsPage() {
                 </div>
                 <div className="flex flex-wrap items-center gap-5 border-t border-[#d9c9b2] bg-[#fffaf2] px-5 py-4 text-sm font-black text-[#57456d]">
                   <ScoreLegend color="bg-emerald-500" label="60%以上" />
-                  <ScoreLegend color="bg-blue-500" label="50%以上" />
-                  <ScoreLegend color="bg-sky-500" label="45%以上" />
-                  <ScoreLegend color="bg-orange-400" label="40%以上" />
-                  <ScoreLegend color="bg-[#d9461e]" label="35%以上" />
+                  <ScoreLegend color="bg-blue-500" label="50〜59%" />
+                  <ScoreLegend color="bg-sky-500" label="45〜49%" />
+                  <ScoreLegend color="bg-orange-400" label="40〜44%" />
+                  <ScoreLegend color="bg-[#d9461e]" label="40%未満" />
                 </div>
               </section>
             </div>
