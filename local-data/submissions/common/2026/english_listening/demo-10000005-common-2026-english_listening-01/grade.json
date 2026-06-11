@@ -1,10 +1,10 @@
 {
   "examId": "common/2026/english_listening",
   "submissionId": "demo-10000005-common-2026-english_listening-01",
-  "score": 75,
+  "score": 50,
   "maxScore": 100,
   "feedback": "Demo marksheet graded result generated from question-level answers.",
-  "gradedAt": "2026-06-02T04:22:00.000Z",
+  "gradedAt": "2026-06-18T05:18:00.000Z",
   "sections": [
     {
       "id": "第1問",
@@ -17,7 +17,7 @@
     {
       "id": "第2問",
       "title": "第2問",
-      "score": 21,
+      "score": 14,
       "maxScore": 21,
       "feedback": "Answer pattern is stable.",
       "retryRecommended": false
@@ -25,7 +25,7 @@
     {
       "id": "第3問",
       "title": "第3問",
-      "score": 7,
+      "score": 4,
       "maxScore": 19,
       "feedback": "Retake practice priority.",
       "retryRecommended": true
@@ -33,7 +33,7 @@
     {
       "id": "第4問",
       "title": "第4問",
-      "score": 0,
+      "score": 1,
       "maxScore": 3,
       "feedback": "Retake practice priority.",
       "retryRecommended": true
@@ -41,26 +41,26 @@
     {
       "id": "第5問",
       "title": "第5問",
-      "score": 8,
+      "score": 4,
       "maxScore": 12,
-      "feedback": "Answer pattern is stable.",
-      "retryRecommended": false
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
     },
     {
       "id": "第6問",
       "title": "第6問",
-      "score": 13,
+      "score": 5,
       "maxScore": 19,
-      "feedback": "Answer pattern is stable.",
-      "retryRecommended": false
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
     },
     {
       "id": "第7問",
       "title": "第7問",
-      "score": 4,
+      "score": 0,
       "maxScore": 4,
-      "feedback": "Answer pattern is stable.",
-      "retryRecommended": false
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
     }
   ]
 }

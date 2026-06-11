@@ -31,12 +31,12 @@ const retakeRateBumps = [0.08, 0.15, 0.21];
 const repeatedMainPatterns = [
   {
     year: 2026,
-    subject: "biology",
+    subject: "english_listening",
     rates: [0.5, 0.64, 0.77],
   },
   {
     year: 2026,
-    subject: "public_ethics",
+    subject: "japanese",
     rates: [0.56, 0.72],
   },
 ];
