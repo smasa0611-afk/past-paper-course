@@ -3659,5 +3659,145 @@
     ],
     "sourceName": "大学入試センター「令和4年度 問題評価・分析委員会報告書（追・再試験）」及び公開問題文",
     "sourceUrl": "https://www.dnc.ac.jp/kyotsu/hyouka/r4_hyouka/r4_hyoukahoukokusyo_tsuisaishiken.html"
+  },
+  "2026:japanese:第1問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "論理的文章の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 45
+  },
+  "common_retake:2026:japanese:第1問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第1問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "論理的文章の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 47
+  },
+  "2026:japanese:第2問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "文学的文章の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 45
+  },
+  "common_retake:2026:japanese:第2問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第2問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "文学的文章の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 47
+  },
+  "2026:japanese:第3問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "実用的文章・複数資料の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 29
+  },
+  "common_retake:2026:japanese:第3問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第3問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "実用的文章・複数資料の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 31
+  },
+  "2026:japanese:第4問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "古文の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 30
+  },
+  "common_retake:2026:japanese:第4問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第4問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "古文の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 42
+  },
+  "2026:japanese:第5問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "漢文の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 51
+  },
+  "common_retake:2026:japanese:第5問": {
+    "year": 2026,
+    "subject": "japanese",
+    "sectionTitle": "第5問",
+    "themes": [
+      {
+        "branch": "",
+        "theme": "漢文の読解"
+      }
+    ],
+    "sourceName": "共通テスト 国語 2026 大問テーマ",
+    "sourceUrl": "",
+    "points": 33
   }
 }

@@ -201,13 +201,27 @@ updateSubject("english", (schema) => {
 });
 
 updateSubject("japanese", (schema) => {
+  const sectionForNumber = (number) => {
+    if (number <= 9) return { id: "s1", title: "\u7b2c1\u554f" };
+    if (number <= 18) return { id: "s2", title: "\u7b2c2\u554f" };
+    if (number <= 28) return { id: "s3", title: "\u7b2c3\u554f" };
+    if (number <= 35) return { id: "s4", title: "\u7b2c4\u554f" };
+    return { id: "s5", title: "\u7b2c5\u554f" };
+  };
+  const questionById = new Map((schema.questions ?? []).map((question) => [question.id, question]));
   for (const question of schema.questions ?? []) {
-    question.sectionId = "japanese";
-    question.sectionTitle = "国語";
-    question.prompt = question.prompt ?? "国語";
+    const section = sectionForNumber(Number(question.displayLabel ?? question.number ?? 0));
+    question.sectionId = section.id;
+    question.sectionTitle = section.title;
+    question.prompt = section.title;
   }
-  for (const rule of schema.scoringRules ?? []) rule.sectionId = "japanese";
-  normalizeSectionPointTotals(schema, { japanese: 200 });
+  for (const rule of schema.scoringRules ?? []) {
+    const firstQuestion = questionById.get(rule.questionIds?.[0]);
+    const section = sectionForNumber(Number(firstQuestion?.displayLabel ?? firstQuestion?.number ?? 0));
+    rule.sectionId = section.id;
+    rule.sectionTitle = section.title;
+  }
+  normalizeSectionPointTotals(schema, { s1: 47, s2: 47, s3: 31, s4: 42, s5: 33 });
 });
 
 updateSubject("science_basics", (schema) => {

@@ -7,10 +7,42 @@
   "gradedAt": "2026-06-05T08:18:00.000Z",
   "sections": [
     {
-      "id": "japanese",
-      "title": "国語",
-      "score": 149,
-      "maxScore": 200,
+      "id": "s1",
+      "title": "第1問",
+      "score": 0,
+      "maxScore": 47,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 47,
+      "maxScore": 47,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 27,
+      "maxScore": 31,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 42,
+      "maxScore": 42,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s5",
+      "title": "第5問",
+      "score": 33,
+      "maxScore": 33,
       "feedback": "Answer pattern is stable.",
       "retryRecommended": false
     }
