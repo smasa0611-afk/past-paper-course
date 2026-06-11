@@ -28,6 +28,18 @@ const mainRates = {
 };
 
 const retakeRateBumps = [0.08, 0.15, 0.21];
+const repeatedMainPatterns = [
+  {
+    year: 2026,
+    subject: "biology",
+    rates: [0.5, 0.64, 0.77],
+  },
+  {
+    year: 2026,
+    subject: "public_ethics",
+    rates: [0.56, 0.72],
+  },
+];
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -257,6 +269,17 @@ for (const [studentIndex, studentId] of demoStudents.entries()) {
         }
       }
     }
+  }
+}
+
+for (const [studentIndex, studentId] of demoStudents.entries()) {
+  for (const pattern of repeatedMainPatterns) {
+    pattern.rates.forEach((rate, attemptIndex) => {
+      const timestamp = new Date(Date.UTC(2026, 5, 18 + attemptIndex, 2 + studentIndex, attemptIndex * 10)).toISOString();
+      if (seedSubmission({ examRoot: "common", year: pattern.year, subject: pattern.subject, studentId, attemptIndex, rate, timestamp })) {
+        created += 1;
+      }
+    });
   }
 }
 

@@ -1,15 +1,15 @@
 {
   "examId": "common/2026/public_ethics",
   "submissionId": "demo-10000006-common-2026-public_ethics-01",
-  "score": 76,
+  "score": 57,
   "maxScore": 100,
   "feedback": "Demo marksheet graded result generated from question-level answers.",
-  "gradedAt": "2026-06-09T05:50:00.000Z",
+  "gradedAt": "2026-06-18T06:18:00.000Z",
   "sections": [
     {
       "id": "第1問",
       "title": "第1問",
-      "score": 4,
+      "score": 0,
       "maxScore": 19,
       "feedback": "Retake practice priority.",
       "retryRecommended": true
@@ -41,18 +41,18 @@
     {
       "id": "第5問",
       "title": "第5問",
-      "score": 19,
+      "score": 7,
       "maxScore": 19,
-      "feedback": "Answer pattern is stable.",
-      "retryRecommended": false
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
     },
     {
       "id": "第6問",
       "title": "第6問",
-      "score": 7,
+      "score": 4,
       "maxScore": 7,
-      "feedback": "Answer pattern is stable.",
-      "retryRecommended": false
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
     }
   ]
 }

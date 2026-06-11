@@ -1,10 +1,10 @@
 {
   "examId": "common/2026/biology",
   "submissionId": "demo-10000004-common-2026-biology-01",
-  "score": 67,
+  "score": 50,
   "maxScore": 100,
   "feedback": "Demo marksheet graded result generated from question-level answers.",
-  "gradedAt": "2026-06-06T03:38:00.000Z",
+  "gradedAt": "2026-06-18T04:18:00.000Z",
   "sections": [
     {
       "id": "第1問",
@@ -17,7 +17,7 @@
     {
       "id": "第2問",
       "title": "第2問",
-      "score": 20,
+      "score": 16,
       "maxScore": 23,
       "feedback": "Answer pattern is stable.",
       "retryRecommended": false
@@ -25,7 +25,7 @@
     {
       "id": "第3問",
       "title": "第3問",
-      "score": 13,
+      "score": 5,
       "maxScore": 24,
       "feedback": "Retake practice priority.",
       "retryRecommended": true
@@ -33,7 +33,7 @@
     {
       "id": "第4問",
       "title": "第4問",
-      "score": 10,
+      "score": 5,
       "maxScore": 25,
       "feedback": "Retake practice priority.",
       "retryRecommended": true
