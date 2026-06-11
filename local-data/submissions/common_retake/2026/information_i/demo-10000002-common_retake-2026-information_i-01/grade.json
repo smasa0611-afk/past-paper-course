@@ -1,0 +1,42 @@
+{
+  "examId": "common_retake/2026/information_i",
+  "submissionId": "demo-10000002-common_retake-2026-information_i-01",
+  "score": 75,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-10T08:18:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 7,
+      "maxScore": 27,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 24,
+      "maxScore": 27,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 33,
+      "maxScore": 34,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 11,
+      "maxScore": 12,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

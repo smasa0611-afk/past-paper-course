@@ -1,0 +1,13 @@
+{
+  "id": "demo-10000004-common_retake-2026-public_ethics-02",
+  "examId": "common_retake/2026/public_ethics",
+  "studentId": "10000004",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_6\": \"3\",\n    \"q_1\": \"3\",\n    \"q_2\": \"5\",\n    \"q_3\": \"1\",\n    \"q_4\": \"4\",\n    \"q_5\": \"1\",\n    \"q_7\": \"5\",\n    \"q_8\": \"4\",\n    \"q_9\": \"3\",\n    \"q_17\": \"2\",\n    \"q_23\": \"1\",\n    \"q_27\": \"5\",\n    \"q_32\": \"6\",\n    \"q_10\": \"1\",\n    \"q_11\": \"1\",\n    \"q_12\": \"5\",\n    \"q_13\": \"2\",\n    \"q_14\": \"3\",\n    \"q_15\": \"2\",\n    \"q_16\": \"6\",\n    \"q_18\": \"4\",\n    \"q_19\": \"3\",\n    \"q_20\": \"3\",\n    \"q_21\": \"2\",\n    \"q_22\": \"0\",\n    \"q_25\": \"0\",\n    \"q_26\": \"0\",\n    \"q_28\": \"0\",\n    \"q_29\": \"0\",\n    \"q_30\": \"0\",\n    \"q_31\": \"0\",\n    \"q_24\": \"2\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-09T10:12:00.000Z",
+  "status": "graded",
+  "score": 79,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-09T10:30:00.000Z"
+}

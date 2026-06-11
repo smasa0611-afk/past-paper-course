@@ -1,0 +1,50 @@
+{
+  "examId": "common/2025/chemistry",
+  "submissionId": "demo-10000005-common-2025-chemistry-01",
+  "score": 63,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-07T05:42:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 0,
+      "maxScore": 20,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 10,
+      "maxScore": 20,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 16,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 17,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s5",
+      "title": "第5問",
+      "score": 20,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "examId": "common/2025/information_i",
+  "submissionId": "demo-10000002-common-2025-information_i-01",
+  "score": 63,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-10T02:54:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 20,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 20,
+      "maxScore": 30,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 9,
+      "maxScore": 25,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 14,
+      "maxScore": 25,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    }
+  ]
+}

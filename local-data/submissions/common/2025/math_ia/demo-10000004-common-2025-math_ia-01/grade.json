@@ -1,0 +1,42 @@
+{
+  "examId": "common/2025/math_ia",
+  "submissionId": "demo-10000004-common-2025-math_ia-01",
+  "score": 67,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-03T04:26:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 8,
+      "maxScore": 32,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 23,
+      "maxScore": 30,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 18,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 18,
+      "maxScore": 18,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

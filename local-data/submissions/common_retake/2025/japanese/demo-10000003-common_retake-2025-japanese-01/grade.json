@@ -1,0 +1,66 @@
+{
+  "examId": "common_retake/2025/japanese",
+  "submissionId": "demo-10000003-common_retake-2025-japanese-01",
+  "score": 159,
+  "maxScore": 200,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-05T10:18:00.000Z",
+  "sections": [
+    {
+      "id": "第1問",
+      "title": "第1問",
+      "score": 3,
+      "maxScore": 23,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "第2問",
+      "title": "第2問",
+      "score": 13,
+      "maxScore": 34,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "第3問",
+      "title": "第3問",
+      "score": 32,
+      "maxScore": 32,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第4問",
+      "title": "第4問",
+      "score": 27,
+      "maxScore": 27,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第5問",
+      "title": "第5問",
+      "score": 37,
+      "maxScore": 37,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第6問",
+      "title": "第6問",
+      "score": 38,
+      "maxScore": 38,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第7問",
+      "title": "第7問",
+      "score": 9,
+      "maxScore": 9,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

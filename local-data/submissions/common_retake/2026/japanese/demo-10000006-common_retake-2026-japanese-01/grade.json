@@ -1,0 +1,18 @@
+{
+  "examId": "common_retake/2026/japanese",
+  "submissionId": "demo-10000006-common_retake-2026-japanese-01",
+  "score": 160,
+  "maxScore": 200,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-05T12:18:00.000Z",
+  "sections": [
+    {
+      "id": "japanese",
+      "title": "国語",
+      "score": 160,
+      "maxScore": 200,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

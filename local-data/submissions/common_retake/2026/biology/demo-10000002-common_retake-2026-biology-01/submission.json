@@ -1,0 +1,13 @@
+{
+  "id": "demo-10000002-common_retake-2026-biology-01",
+  "examId": "common_retake/2026/biology",
+  "studentId": "10000002",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_4\": \"3\",\n    \"q_9\": \"4\",\n    \"q_2\": \"7\",\n    \"q_3\": \"5\",\n    \"q_5\": \"5\",\n    \"q_6\": \"4\",\n    \"q_8\": \"1\",\n    \"q_1\": \"4\",\n    \"q_7\": \"2\",\n    \"q_13\": \"4\",\n    \"q_14\": \"5\",\n    \"q_20\": \"5\",\n    \"q_10\": \"4\",\n    \"q_15\": \"3\",\n    \"q_16\": \"4\",\n    \"q_17\": \"2\",\n    \"q_19\": \"5\",\n    \"q_21\": \"1\",\n    \"q_22\": \"4\",\n    \"q_23\": \"4\",\n    \"q_24\": \"1\",\n    \"q_25\": \"0\",\n    \"q_18\": \"0\",\n    \"q_11\": \"0\",\n    \"q_12\": \"0\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-06T08:00:00.000Z",
+  "status": "graded",
+  "score": 87,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-06T08:18:00.000Z"
+}

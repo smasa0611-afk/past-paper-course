@@ -1,0 +1,50 @@
+{
+  "examId": "common_retake/2025/geography",
+  "submissionId": "demo-10000005-common_retake-2025-geography-02",
+  "score": 85,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-08T12:30:00.000Z",
+  "sections": [
+    {
+      "id": "第1問",
+      "title": "第1問",
+      "score": 19,
+      "maxScore": 19,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第2問",
+      "title": "第2問",
+      "score": 19,
+      "maxScore": 19,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第3問",
+      "title": "第3問",
+      "score": 21,
+      "maxScore": 21,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第4問",
+      "title": "第4問",
+      "score": 18,
+      "maxScore": 21,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第5問",
+      "title": "第5問",
+      "score": 8,
+      "maxScore": 20,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    }
+  ]
+}

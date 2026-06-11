@@ -1,0 +1,74 @@
+{
+  "examId": "common_retake/2026/english",
+  "submissionId": "demo-10000003-common_retake-2026-english-03",
+  "score": 85,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-01T09:42:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 0,
+      "maxScore": 6,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 9,
+      "maxScore": 12,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 4,
+      "maxScore": 10,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 12,
+      "maxScore": 12,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s5",
+      "title": "第5問",
+      "score": 16,
+      "maxScore": 16,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s6",
+      "title": "第6問",
+      "score": 13,
+      "maxScore": 13,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s7",
+      "title": "第7問",
+      "score": 16,
+      "maxScore": 16,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s8",
+      "title": "第8問",
+      "score": 15,
+      "maxScore": 15,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

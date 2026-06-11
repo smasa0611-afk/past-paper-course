@@ -1,0 +1,58 @@
+{
+  "examId": "common_retake/2026/public_ethics",
+  "submissionId": "demo-10000003-common_retake-2026-public_ethics-01",
+  "score": 77,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-09T09:18:00.000Z",
+  "sections": [
+    {
+      "id": "第1問",
+      "title": "第1問",
+      "score": 19,
+      "maxScore": 19,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第2問",
+      "title": "第2問",
+      "score": 18,
+      "maxScore": 18,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第3問",
+      "title": "第3問",
+      "score": 19,
+      "maxScore": 19,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第4問",
+      "title": "第4問",
+      "score": 13,
+      "maxScore": 18,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第5問",
+      "title": "第5問",
+      "score": 4,
+      "maxScore": 19,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "第6問",
+      "title": "第6問",
+      "score": 4,
+      "maxScore": 7,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    }
+  ]
+}

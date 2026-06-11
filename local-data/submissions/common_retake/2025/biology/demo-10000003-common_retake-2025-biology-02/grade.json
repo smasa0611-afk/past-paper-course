@@ -1,0 +1,50 @@
+{
+  "examId": "common_retake/2025/biology",
+  "submissionId": "demo-10000003-common_retake-2025-biology-02",
+  "score": 73,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-06T10:30:00.000Z",
+  "sections": [
+    {
+      "id": "s1",
+      "title": "第1問",
+      "score": 5,
+      "maxScore": 20,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s2",
+      "title": "第2問",
+      "score": 6,
+      "maxScore": 18,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "s3",
+      "title": "第3問",
+      "score": 20,
+      "maxScore": 20,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s4",
+      "title": "第4問",
+      "score": 21,
+      "maxScore": 21,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "s5",
+      "title": "第5問",
+      "score": 21,
+      "maxScore": 21,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

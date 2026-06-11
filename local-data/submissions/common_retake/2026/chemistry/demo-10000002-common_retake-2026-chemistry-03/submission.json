@@ -1,0 +1,13 @@
+{
+  "id": "demo-10000002-common_retake-2026-chemistry-03",
+  "examId": "common_retake/2026/chemistry",
+  "studentId": "10000002",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_12\": \"2\",\n    \"q_16\": \"4\",\n    \"q_18\": \"8\",\n    \"q_29\": \"3\",\n    \"q_32\": \"5\",\n    \"q_10\": \"4\",\n    \"q_11\": \"2\",\n    \"q_13\": \"2\",\n    \"q_14\": \"4\",\n    \"q_15\": \"5\",\n    \"q_17\": \"1\",\n    \"q_19\": \"4\",\n    \"q_21\": \"4\",\n    \"q_25\": \"4\",\n    \"q_26\": \"3\",\n    \"q_27\": \"4\",\n    \"q_28\": \"2\",\n    \"q_30\": \"1\",\n    \"q_31\": \"2\",\n    \"q_20\": \"4\",\n    \"q_22\": \"1\",\n    \"q_23\": \"5\",\n    \"q_24\": \"2\",\n    \"q_5\": \"1\",\n    \"q_6\": \"3\",\n    \"q_9\": \"2\",\n    \"q_1\": \"0\",\n    \"q_2\": \"0\",\n    \"q_3\": \"0\",\n    \"q_4\": \"0\",\n    \"q_7\": \"0\",\n    \"q_8\": \"0\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-07T08:24:00.000Z",
+  "status": "graded",
+  "score": 82,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-07T08:42:00.000Z"
+}

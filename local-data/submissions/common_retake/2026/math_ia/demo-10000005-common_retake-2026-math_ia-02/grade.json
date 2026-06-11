@@ -1,0 +1,122 @@
+{
+  "examId": "common_retake/2026/math_ia",
+  "submissionId": "demo-10000005-common_retake-2026-math_ia-02",
+  "score": 92,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-03T11:30:00.000Z",
+  "sections": [
+    {
+      "id": "第1問",
+      "title": "第1問",
+      "score": 9,
+      "maxScore": 9,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第2問",
+      "title": "第2問",
+      "score": 5,
+      "maxScore": 5,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第3問",
+      "title": "第3問",
+      "score": 0,
+      "maxScore": 4,
+      "feedback": "Retake practice priority.",
+      "retryRecommended": true
+    },
+    {
+      "id": "第4問",
+      "title": "第4問",
+      "score": 9,
+      "maxScore": 13,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第5問",
+      "title": "第5問",
+      "score": 2,
+      "maxScore": 2,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第6問",
+      "title": "第6問",
+      "score": 10,
+      "maxScore": 10,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第7問",
+      "title": "第7問",
+      "score": 6,
+      "maxScore": 6,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第8問",
+      "title": "第8問",
+      "score": 6,
+      "maxScore": 6,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第9問",
+      "title": "第9問",
+      "score": 15,
+      "maxScore": 15,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第10問",
+      "title": "第10問",
+      "score": 4,
+      "maxScore": 4,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第11問",
+      "title": "第11問",
+      "score": 9,
+      "maxScore": 9,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第12問",
+      "title": "第12問",
+      "score": 6,
+      "maxScore": 6,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第13問",
+      "title": "第13問",
+      "score": 5,
+      "maxScore": 5,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    },
+    {
+      "id": "第14問",
+      "title": "第14問",
+      "score": 6,
+      "maxScore": 6,
+      "feedback": "Answer pattern is stable.",
+      "retryRecommended": false
+    }
+  ]
+}

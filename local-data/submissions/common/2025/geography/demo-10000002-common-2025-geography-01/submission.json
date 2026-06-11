@@ -1,0 +1,13 @@
+{
+  "id": "demo-10000002-common-2025-geography-01",
+  "examId": "common/2025/geography",
+  "studentId": "10000002",
+  "content": "{\n  \"mode\": \"marksheet\",\n  \"answers\": {\n    \"q_13\": \"2\",\n    \"q_16\": \"6\",\n    \"q_17\": \"1\",\n    \"q_20\": \"3\",\n    \"q_22\": \"1\",\n    \"q_24\": \"2\",\n    \"q_26\": \"4\",\n    \"q_28\": \"2\",\n    \"q_10\": \"2\",\n    \"q_11\": \"3\",\n    \"q_12\": \"2\",\n    \"q_14\": \"2\",\n    \"q_15\": \"3\",\n    \"q_18\": \"2\",\n    \"q_19\": \"4\",\n    \"q_21\": \"2\",\n    \"q_23\": \"4\",\n    \"q_25\": \"3\",\n    \"q_27\": \"1\",\n    \"q_29\": \"0\",\n    \"q_30\": \"0\",\n    \"q_3\": \"0\",\n    \"q_9\": \"0\",\n    \"q_1\": \"0\",\n    \"q_2\": \"0\",\n    \"q_4\": \"0\",\n    \"q_5\": \"0\",\n    \"q_6\": \"0\",\n    \"q_7\": \"0\",\n    \"q_8\": \"0\"\n  },\n  \"selectedSectionIds\": []\n}",
+  "images": [],
+  "timestamp": "2026-06-08T02:28:00.000Z",
+  "status": "graded",
+  "score": 65,
+  "maxScore": 100,
+  "feedback": "Demo marksheet graded result generated from question-level answers.",
+  "gradedAt": "2026-06-08T02:46:00.000Z"
+}
