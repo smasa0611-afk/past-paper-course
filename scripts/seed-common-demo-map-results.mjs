@@ -3,6 +3,7 @@ import path from "path";
 
 const root = process.cwd();
 const outputRoot = path.join(root, "local-data", "submissions");
+const seedSubmissionsPath = path.join(root, "data", "seed-submissions.json");
 
 const demoStudents = ["10000002", "10000003", "10000004", "10000005", "10000006"];
 const years = [2026, 2025];
@@ -28,16 +29,20 @@ const mainRates = {
 };
 
 const retakeRateBumps = [0.08, 0.15, 0.21];
-const repeatedMainPatterns = [
+const generatedSeedIdPattern = /^demo-1000000[2-6]-(common|common_retake)-202[56]-.*-0[123]$/;
+const extraMainAttempts = [
   {
     year: 2026,
     subject: "english_listening",
-    rates: [0.5, 0.64, 0.77],
+    attempts: [
+      { attemptIndex: 1, rate: 0.64 },
+      { attemptIndex: 2, rate: 0.77 },
+    ],
   },
   {
     year: 2026,
     subject: "japanese",
-    rates: [0.56, 0.72],
+    attempts: [{ attemptIndex: 1, rate: 0.72 }],
   },
 ];
 
@@ -48,6 +53,17 @@ function readJson(filePath) {
 function writeJson(filePath, data) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+}
+
+function syncSeedSubmissions(generatedSubmissions) {
+  const current = fs.existsSync(seedSubmissionsPath) ? readJson(seedSubmissionsPath) : [];
+  const preserved = Array.isArray(current)
+    ? current.filter((submission) => !generatedSeedIdPattern.test(submission.id ?? ""))
+    : [];
+  const merged = [...preserved, ...generatedSubmissions].sort(
+    (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime(),
+  );
+  writeJson(seedSubmissionsPath, merged);
 }
 
 function matchesVariant(variant, actual, orderMatters = true) {
@@ -246,17 +262,20 @@ function seedSubmission({ examRoot, year, subject, studentId, attemptIndex, rate
   };
   writeJson(path.join(dir, "submission.json"), submission);
   writeJson(path.join(dir, "grade.json"), grade);
-  return true;
+  return submission;
 }
 
 let created = 0;
+const generatedSeedSubmissions = [];
 
 for (const [studentIndex, studentId] of demoStudents.entries()) {
   for (const [yearIndex, year] of years.entries()) {
     for (const [subjectIndex, subject] of tableSubjects.entries()) {
       const baseRate = mainRates[studentId][subjectIndex] - yearIndex * 0.04 + ((studentIndex + subjectIndex) % 3) * 0.015;
       const timestamp = new Date(Date.UTC(2026, 5, 1 + subjectIndex, 1 + studentIndex + yearIndex, subjectIndex * 4)).toISOString();
-      if (seedSubmission({ examRoot: "common", year, subject, studentId, attemptIndex: 0, rate: Math.min(0.9, Math.max(0.45, baseRate)), timestamp })) {
+      const submission = seedSubmission({ examRoot: "common", year, subject, studentId, attemptIndex: 0, rate: Math.min(0.9, Math.max(0.45, baseRate)), timestamp });
+      if (submission) {
+        generatedSeedSubmissions.push(submission);
         created += 1;
       }
 
@@ -264,7 +283,9 @@ for (const [studentIndex, studentId] of demoStudents.entries()) {
       for (let attemptIndex = 0; attemptIndex < retakeAttempts; attemptIndex += 1) {
         const retakeRate = Math.min(0.92, Math.max(0.5, baseRate + retakeRateBumps[attemptIndex]));
         const retakeTimestamp = new Date(Date.UTC(2026, 5, 1 + subjectIndex, 8 + studentIndex + yearIndex, attemptIndex * 12)).toISOString();
-        if (seedSubmission({ examRoot: "common_retake", year, subject, studentId, attemptIndex, rate: retakeRate, timestamp: retakeTimestamp })) {
+        const submission = seedSubmission({ examRoot: "common_retake", year, subject, studentId, attemptIndex, rate: retakeRate, timestamp: retakeTimestamp });
+        if (submission) {
+          generatedSeedSubmissions.push(submission);
           created += 1;
         }
       }
@@ -273,14 +294,19 @@ for (const [studentIndex, studentId] of demoStudents.entries()) {
 }
 
 for (const [studentIndex, studentId] of demoStudents.entries()) {
-  for (const pattern of repeatedMainPatterns) {
-    pattern.rates.forEach((rate, attemptIndex) => {
+  for (const pattern of extraMainAttempts) {
+    pattern.attempts.forEach(({ attemptIndex, rate }) => {
       const timestamp = new Date(Date.UTC(2026, 5, 18 + attemptIndex, 2 + studentIndex, attemptIndex * 10)).toISOString();
-      if (seedSubmission({ examRoot: "common", year: pattern.year, subject: pattern.subject, studentId, attemptIndex, rate, timestamp })) {
+      const submission = seedSubmission({ examRoot: "common", year: pattern.year, subject: pattern.subject, studentId, attemptIndex, rate, timestamp });
+      if (submission) {
+        generatedSeedSubmissions.push(submission);
         created += 1;
       }
     });
   }
 }
 
+syncSeedSubmissions(generatedSeedSubmissions);
+
 console.log(`Created or updated ${created} demo common-test submissions.`);
+console.log(`Synced ${generatedSeedSubmissions.length} generated submissions to data/seed-submissions.json.`);
