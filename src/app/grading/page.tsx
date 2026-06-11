@@ -265,6 +265,9 @@ const isSecondaryAssignment = (assignment?: Assignment, imported?: ImportedScore
   if (assignment) return !isCommonExamId(assignment.examId);
   return Boolean(rowCourseCategory?.includes("大学別") || rowCourseCategory?.includes("2次"));
 };
+const subjectMatches = (filter: string, subject: string) => (
+  !filter || subject === filter || (filter === "英語" && subject.startsWith("英語"))
+);
 
 const rowKey = (row: Row, index: number) => [
   row.student.id,
@@ -832,7 +835,7 @@ export default function GradingPage() {
       if (!matchesViewMode(viewMode, row)) return false;
       if (yearFilter && row.year !== yearFilter) return false;
       if (assignmentFilter && row.latestAssignmentName !== assignmentFilter) return false;
-      if (subjectFilter && row.subject !== subjectFilter) return false;
+      if (!subjectMatches(subjectFilter, row.subject)) return false;
       if (dueWeekFilter === "this" && !inThisWeek(row.dueDate)) return false;
       if (dueWeekFilter === "none" && row.dueDate) return false;
       if (submissionFilter && row.submissionStatus !== submissionFilter) return false;

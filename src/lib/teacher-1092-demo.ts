@@ -89,12 +89,19 @@ export const teacher1092DemoEnrollments: StudentCourseEnrollment[] = teacher1092
 
 export const teacher1092DemoAssignments: Assignment[] = studentIds.map((studentId, index) => {
   const hasScore = index < scoreSeeds.length;
-  const isOverdueMissing = index >= scoreSeeds.length && index < 24;
+  const isOverdueMissing = index >= scoreSeeds.length && index < scoreSeeds.length + 3;
+  const isDueUnsetMissing = index >= 26;
   return {
     id: `assignment-1092-demo-${studentId}-common-2026-english`,
     studentId,
     examId: teacher1092DemoExamId,
-    dueDate: hasScore ? (index % 3 === 0 ? "2026-05-24" : "2026-06-22") : isOverdueMissing ? "2026-05-31" : "",
+    dueDate: hasScore
+      ? (index === 3 ? "2026-05-24" : "2026-06-22")
+      : isOverdueMissing
+        ? "2026-05-31"
+        : isDueUnsetMissing
+          ? ""
+          : "2026-06-24",
   };
 });
 

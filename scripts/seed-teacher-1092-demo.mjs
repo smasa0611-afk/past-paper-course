@@ -96,12 +96,15 @@ const assignments = readJson(assignmentsPath).filter((assignment) => (
 ));
 const demoAssignments = studentIds.map((studentId, index) => {
   const hasScore = index < scoreSeeds.length;
-  const isOverdueMissing = index >= scoreSeeds.length && index < 24;
+  const isOverdueMissing = index >= scoreSeeds.length && index < scoreSeeds.length + 3;
+  const isDueUnsetMissing = index >= 26;
   const dueDate = hasScore
-    ? (index % 3 === 0 ? "2026-05-24" : "2026-06-22")
+    ? (index === 3 ? "2026-05-24" : "2026-06-22")
     : isOverdueMissing
       ? "2026-05-31"
-      : "";
+      : isDueUnsetMissing
+        ? ""
+        : "2026-06-24";
   return {
     id: `assignment-1092-demo-${studentId}-common-2026-english`,
     studentId,
@@ -140,7 +143,8 @@ console.log(JSON.stringify({
   generatedSubmissions: demoSubmissions.length,
   english2026Mix: {
     scored: demoSubmissions.length,
-    overdueMissing: demoAssignments.filter((assignment, index) => index >= scoreSeeds.length && assignment.dueDate).length,
+    overdueMissing: demoAssignments.filter((assignment, index) => index >= scoreSeeds.length && assignment.dueDate && assignment.dueDate < "2026-06-12").length,
+    futureMissing: demoAssignments.filter((assignment, index) => index >= scoreSeeds.length && assignment.dueDate && assignment.dueDate >= "2026-06-12").length,
     dueUnsetMissing: demoAssignments.filter((assignment) => !assignment.dueDate).length,
   },
 }, null, 2));
