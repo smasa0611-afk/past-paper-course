@@ -4,6 +4,7 @@ import { readVisibleMasterStudentsAsync } from "@/lib/master-data";
 import { publicStudentName } from "@/lib/nicknames";
 import { requireSession } from "@/lib/session";
 import { readStudents, writeStudents, type StudentRecord } from "@/lib/student-store";
+import { isTeacher1092DemoUser, mergeByKey, teacher1092DemoStudents } from "@/lib/teacher-1092-demo";
 
 type StudentBody = Partial<StudentRecord>;
 
@@ -30,10 +31,15 @@ export async function GET() {
       localStudents.forEach((student) => {
         if (!merged.has(student.id)) merged.set(student.id, student);
       });
+      if (isTeacher1092DemoUser(session.user.id)) {
+        teacher1092DemoStudents.forEach((student) => merged.set(student.id, student));
+      }
       return NextResponse.json([...merged.values()]);
     }
 
-    return NextResponse.json(localStudents);
+    return NextResponse.json(isTeacher1092DemoUser(session.user.id)
+      ? mergeByKey(localStudents, teacher1092DemoStudents, (student) => student.id)
+      : localStudents);
   } catch (error) {
     console.error("Error reading students:", error);
     return NextResponse.json({ error: "生徒データの読み込みに失敗しました。" }, { status: 500 });

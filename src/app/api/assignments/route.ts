@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { readAssignments, writeAssignments, type Assignment } from "@/lib/assignment-store";
 import { requireSession } from "@/lib/session";
+import { isTeacher1092DemoUser, mergeByKey, teacher1092DemoAssignments } from "@/lib/teacher-1092-demo";
 
 type DuplicateMode = "skip" | "overwrite" | "update_due_only";
 type AssignmentBody = {
@@ -17,9 +18,12 @@ function createAssignmentId(studentId: string, examId: string) {
 }
 
 function visibleAssignments(assignments: Assignment[], user: { id: string; role: string }) {
+  const merged = user.role === "teacher" && isTeacher1092DemoUser(user.id)
+    ? mergeByKey(assignments, teacher1092DemoAssignments, (assignment) => assignment.id)
+    : assignments;
   return user.role === "teacher"
-    ? assignments
-    : assignments.filter((assignment) => assignment.studentId === user.id);
+    ? merged
+    : merged.filter((assignment) => assignment.studentId === user.id);
 }
 
 export async function GET() {

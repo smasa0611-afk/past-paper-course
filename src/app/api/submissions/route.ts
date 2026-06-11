@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { listStoredSubmissions } from "@/lib/submission-storage";
 import { requireSession } from "@/lib/session";
+import { isTeacher1092DemoUser, mergeByKey, teacher1092DemoSubmissions } from "@/lib/teacher-1092-demo";
 
 type Submission = Awaited<ReturnType<typeof listStoredSubmissions>>[number];
 
@@ -25,6 +26,9 @@ export async function GET(req: Request) {
     const id = searchParams.get("id");
 
     let submissions = await listStoredSubmissions();
+    if (isTeacher1092DemoUser(session.user.id)) {
+      submissions = mergeByKey(submissions, teacher1092DemoSubmissions, (submission) => submission.id);
+    }
 
     if (id) {
       submissions = submissions.filter((submission) => submission.id === id);

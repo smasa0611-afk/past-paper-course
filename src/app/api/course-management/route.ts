@@ -3,6 +3,7 @@ import { getTeacherEmployeeId, isSystemAdmin } from "@/lib/admin";
 import { readCourseMaster, readImportedScores, readStudentCourseEnrollments } from "@/lib/course-management-store";
 import { readMasterCourseManagementAsync } from "@/lib/master-data";
 import { requireSession } from "@/lib/session";
+import { isTeacher1092DemoUser, mergeByKey, teacher1092DemoCourses, teacher1092DemoEnrollments } from "@/lib/teacher-1092-demo";
 
 type Course = {
   code: string;
@@ -39,6 +40,15 @@ function applyLineupToDemoEnrollments(enrollments: Enrollment[], courses: Course
   });
 }
 
+function withTeacher1092DemoData(data: { courses: Course[]; enrollments: Enrollment[]; scores: unknown[] }, userId: string) {
+  if (!isTeacher1092DemoUser(userId)) return data;
+  return {
+    ...data,
+    courses: mergeByKey(data.courses, teacher1092DemoCourses, (course) => course.code),
+    enrollments: mergeByKey(data.enrollments, teacher1092DemoEnrollments, (enrollment) => `${enrollment.studentId}-${enrollment.courseCode}-${enrollment.year ?? ""}`),
+  };
+}
+
 export async function GET() {
   try {
     const session = await requireSession("teacher");
@@ -46,19 +56,23 @@ export async function GET() {
 
     const masterData = await readMasterCourseManagementAsync(getTeacherEmployeeId(session.user.id), isSystemAdmin(session.user));
     if (masterData) {
-      if (masterData.enrollments.length > 0 || masterData.hasMasterEnrollments) return NextResponse.json(masterData);
+      if (masterData.enrollments.length > 0 || masterData.hasMasterEnrollments) {
+        return NextResponse.json(withTeacher1092DemoData(masterData, session.user.id));
+      }
       return NextResponse.json({
-        courses: masterData.courses,
-        enrollments: applyLineupToDemoEnrollments(readStudentCourseEnrollments(), masterData.courses),
-        scores: readImportedScores(),
+        ...withTeacher1092DemoData({
+          courses: masterData.courses,
+          enrollments: applyLineupToDemoEnrollments(readStudentCourseEnrollments(), masterData.courses),
+          scores: readImportedScores(),
+        }, session.user.id),
       });
     }
 
-    return NextResponse.json({
+    return NextResponse.json(withTeacher1092DemoData({
       courses: readCourseMaster(),
       enrollments: readStudentCourseEnrollments(),
       scores: readImportedScores(),
-    });
+    }, session.user.id));
   } catch (error) {
     console.error("Error reading course management data:", error);
     return NextResponse.json({ error: "受講コース管理データの読み込みに失敗しました。" }, { status: 500 });
