@@ -14,6 +14,15 @@ import {
 } from "lucide-react";
 import type { StudentGoal } from "@/types/admissions";
 import type { ExamMetadata } from "@/types/exam";
+import {
+  isTeacher1092DemoUser,
+  mergeByKey,
+  teacher1092DemoAssignments,
+  teacher1092DemoCourses,
+  teacher1092DemoEnrollments,
+  teacher1092DemoStudents,
+  teacher1092DemoSubmissions,
+} from "@/lib/teacher-1092-demo";
 
 type User = { id: string; name: string; role: "student" | "teacher" };
 type Student = { id: string; displayName: string; nickname?: string; group?: string; campus?: string; grade?: string; target?: string };
@@ -268,11 +277,15 @@ const isSecondaryAssignment = (assignment?: Assignment, imported?: ImportedScore
 const subjectMatches = (filter: string, subject: string) => (
   !filter || subject === filter || (filter === "英語" && subject.startsWith("英語"))
 );
+const normalizeFilterText = (value: string) => value.replace(/\s+/g, "");
+const assignmentMatches = (filter: string, assignmentName: string) => (
+  !filter || assignmentName === filter || normalizeFilterText(assignmentName) === normalizeFilterText(filter)
+);
 const isTeacher1092ProgressRow = (row: Row) => (
   row.student.id.startsWith("1092") || row.campus.includes("北高前校3号館")
 );
 const campusFilterMatchesTeacher1092 = (campuses: string[]) => (
-  campuses.length === 0 || campuses.some((campus) => campus.includes("北高前校3号館"))
+  campuses.some((campus) => campus.includes("北高前校3号館"))
 );
 
 const rowKey = (row: Row, index: number) => [
@@ -396,13 +409,24 @@ export default function GradingPage() {
       fetch("/api/course-management").then((r) => (r.ok ? r.json() : { courses: [], enrollments: [], scores: [] })),
     ]);
     setUser(me.user);
-    setStudents(Array.isArray(st) ? st : []);
+    const isTeacher1092Demo = isTeacher1092DemoUser(me.user?.id);
+    setStudents(isTeacher1092Demo
+      ? mergeByKey(Array.isArray(st) ? st : [], teacher1092DemoStudents, (student) => student.id)
+      : Array.isArray(st) ? st : []);
     setExams(Array.isArray(ex) ? ex : []);
-    setAssignments(Array.isArray(as) ? as : []);
-    setSubmissions(Array.isArray(sub) ? sub : []);
+    setAssignments(isTeacher1092Demo
+      ? mergeByKey(Array.isArray(as) ? as : [], teacher1092DemoAssignments, (assignment) => assignment.id)
+      : Array.isArray(as) ? as : []);
+    setSubmissions(isTeacher1092Demo
+      ? mergeByKey(Array.isArray(sub) ? sub : [], teacher1092DemoSubmissions, (submission) => submission.id)
+      : Array.isArray(sub) ? sub : []);
     setGoals(Array.isArray(go) ? go : []);
-    setCourses(Array.isArray(cm.courses) ? cm.courses : []);
-    setEnrollments(Array.isArray(cm.enrollments) ? cm.enrollments : []);
+    setCourses(isTeacher1092Demo
+      ? mergeByKey(Array.isArray(cm.courses) ? cm.courses : [], teacher1092DemoCourses, (course) => course.code)
+      : Array.isArray(cm.courses) ? cm.courses : []);
+    setEnrollments(isTeacher1092Demo
+      ? mergeByKey(Array.isArray(cm.enrollments) ? cm.enrollments : [], teacher1092DemoEnrollments, (enrollment) => `${enrollment.studentId}-${enrollment.courseCode}-${enrollment.year ?? ""}`)
+      : Array.isArray(cm.enrollments) ? cm.enrollments : []);
     setImportedScores(Array.isArray(cm.scores) ? cm.scores : []);
   };
 
@@ -700,8 +724,13 @@ export default function GradingPage() {
     const min = scoreMin === "" ? null : Number(scoreMin);
     const max = scoreMax === "" ? null : Number(scoreMax);
     const active = new Set(activeQuickFilters);
+    const filteredIds = new Set(filteredRows.map((row) => row.student.id));
+    const teacher1092FallbackRows = campusFilterMatchesTeacher1092(campusFilter)
+      ? rows.filter((row) => isTeacher1092ProgressRow(row) && !filteredIds.has(row.student.id))
+      : [];
+    const sourceRows = [...filteredRows, ...teacher1092FallbackRows];
 
-    return filteredRows.flatMap((row): Row[] => {
+    return sourceRows.flatMap((row): Row[] => {
       const studentAssignments = (assignmentsByStudent.get(row.student.id) || []).sort((a, b) => a.dueDate.localeCompare(b.dueDate));
       const studentSubmissions = (submissionsByStudent.get(row.student.id) || []).sort((a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime());
       const studentScores = (scoresByStudent.get(row.student.id) || []).sort((a, b) => (b.submittedAt || b.gradedAt || b.importedAt).localeCompare(a.submittedAt || a.gradedAt || a.importedAt));
@@ -843,7 +872,7 @@ export default function GradingPage() {
     }).filter((row) => {
       if (!matchesViewMode(viewMode, row)) return false;
       if (yearFilter && row.year !== yearFilter) return false;
-      if (assignmentFilter && row.latestAssignmentName !== assignmentFilter) return false;
+      if (!assignmentMatches(assignmentFilter, row.latestAssignmentName)) return false;
       if (!subjectMatches(subjectFilter, row.subject)) return false;
       if (dueWeekFilter === "this" && !inThisWeek(row.dueDate)) return false;
       if (dueWeekFilter === "none" && row.dueDate) return false;
@@ -858,7 +887,7 @@ export default function GradingPage() {
       if (active.has("notTaken") && row.examStatus !== "未受験") return false;
       return true;
     });
-  }, [activeQuickFilters, assignmentFilter, assignmentsByStudent, dueWeekFilter, examFilter, examsById, filteredRows, scoreMax, scoreMin, scoresByStudent, subjectFilter, submissionFilter, submissionsByStudent, viewMode, yearFilter]);
+  }, [activeQuickFilters, assignmentFilter, assignmentsByStudent, campusFilter, dueWeekFilter, examFilter, examsById, filteredRows, rows, scoreMax, scoreMin, scoresByStudent, subjectFilter, submissionFilter, submissionsByStudent, viewMode, yearFilter]);
 
   const summary = useMemo(() => ({
     total: visibleRows.length,
