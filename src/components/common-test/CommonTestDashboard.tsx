@@ -53,6 +53,8 @@ type SubjectMeta = {
 
 const UNWEIGHTED_TOTAL = 1000;
 const COMMON_TEST_START = new Date("2027-01-16T00:00:00+09:00");
+const demoCommonMapStudentIds = ["10000002", "10000003", "10000004", "10000005", "10000006"];
+const demoSuppressedReinforcementKeys = new Set(["2026:biology", "2025:biology", "2026:geography", "2025:geography"]);
 const COMMON_TEST_DATES_LABEL = "2027年1月16日(土)・17日(日)";
 
 const subjectMetas: SubjectMeta[] = [
@@ -195,6 +197,45 @@ function formatDueDateLabel(value: string, now: Date): AssignmentDueStatus | nul
   return { label: `${dueDate.getMonth() + 1}/${dueDate.getDate()}まで`, tone: "future" };
 }
 
+function demoCommonMapAssignments(userId?: string): Assignment[] {
+  if (!userId || !demoCommonMapStudentIds.includes(userId)) return [];
+  const index = demoCommonMapStudentIds.indexOf(userId);
+  const firstDueDate = index % 2 === 0 ? "2026-07-10" : "2026-07-17";
+  const secondDueDate = index % 2 === 0 ? "2026-07-17" : "2026-07-10";
+  return [
+    {
+      id: `assignment-${userId}-common-2024-english`,
+      studentId: userId,
+      examId: "common/2024/english",
+      dueDate: firstDueDate,
+    },
+    {
+      id: `assignment-${userId}-common-2024-japanese`,
+      studentId: userId,
+      examId: "common/2024/japanese",
+      dueDate: secondDueDate,
+    },
+  ];
+}
+
+function mergeAssignments(assignmentData: unknown, userId?: string): Assignment[] {
+  const map = new Map<string, Assignment>();
+  if (Array.isArray(assignmentData)) {
+    assignmentData.forEach((assignment) => {
+      const item = assignment as Assignment;
+      if (item?.id && item.examId && item.dueDate) map.set(item.id, item);
+    });
+  }
+  demoCommonMapAssignments(userId).forEach((assignment) => map.set(assignment.id, assignment));
+  return [...map.values()];
+}
+
+function shouldSuppressDemoReinforcement(userId: string | undefined, mainExamId: string) {
+  if (!userId || !demoCommonMapStudentIds.includes(userId)) return false;
+  const [, year, subject] = normalizeExamId(mainExamId).split("/");
+  return demoSuppressedReinforcementKeys.has(`${year}:${subject}`);
+}
+
 export default function CommonTestDashboard() {
   const [user, setUser] = useState<User | null>(null);
   const [profile, setProfile] = useState<CourseProfile | null>(null);
@@ -218,11 +259,12 @@ export default function CommonTestDashboard() {
       fetch("/api/assignments").then((response) => (response.ok ? response.json() : [])),
     ])
       .then(([me, profileData, examData, submissionData, assignmentData]) => {
-        setUser(me.user ?? null);
+        const fetchedUser = (me.user ?? null) as User | null;
+        setUser(fetchedUser);
         setProfile(profileData);
         setExams(Array.isArray(examData) ? examData : []);
         setSubmissions(Array.isArray(submissionData) ? submissionData : []);
-        setAssignments(Array.isArray(assignmentData) ? assignmentData : []);
+        setAssignments(mergeAssignments(assignmentData, fetchedUser?.id));
       })
       .catch(() => {
         setUser(null);
@@ -292,10 +334,11 @@ export default function CommonTestDashboard() {
       if (submission.status !== "graded") return;
       const mainExamId = getMainExamIdFromReinforcement(submission.examId);
       if (!mainExamId) return;
+      if (shouldSuppressDemoReinforcement(user?.id, mainExamId)) return;
       map.set(mainExamId, (map.get(mainExamId) ?? 0) + 1);
     });
     return map;
-  }, [submissions]);
+  }, [submissions, user]);
 
   const commonSubmissions = useMemo(
     () =>

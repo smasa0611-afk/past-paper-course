@@ -4,9 +4,11 @@ import path from "path";
 const root = process.cwd();
 const outputRoot = path.join(root, "local-data", "submissions");
 const seedSubmissionsPath = path.join(root, "data", "seed-submissions.json");
+const assignmentsPath = path.join(root, "data", "assignments.json");
 
 const demoStudents = ["10000002", "10000003", "10000004", "10000005", "10000006"];
 const years = [2026, 2025];
+const noRetakeSubjects = new Set(["biology", "geography"]);
 const tableSubjects = [
   "english",
   "english_listening",
@@ -30,6 +32,7 @@ const mainRates = {
 
 const retakeRateBumps = [0.08, 0.15, 0.21];
 const generatedSeedIdPattern = /^demo-1000000[2-6]-(common|common_retake)-202[56]-.*-0[123]$/;
+const generatedAssignmentIdPattern = /^assignment-1000000[2-6]-common-2024-(english|japanese)$/;
 const extraMainAttempts = [
   {
     year: 2026,
@@ -55,6 +58,15 @@ function writeJson(filePath, data) {
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
 }
 
+function writeLocalJson(filePath, data) {
+  try {
+    writeJson(filePath, data);
+  } catch (error) {
+    if (error?.code !== "EPERM" && error?.code !== "EBUSY") throw error;
+    console.warn(`Skipped locked local-data file: ${path.relative(root, filePath)}`);
+  }
+}
+
 function syncSeedSubmissions(generatedSubmissions) {
   const current = fs.existsSync(seedSubmissionsPath) ? readJson(seedSubmissionsPath) : [];
   const preserved = Array.isArray(current)
@@ -64,6 +76,37 @@ function syncSeedSubmissions(generatedSubmissions) {
     (a, b) => new Date(b.timestamp).getTime() - new Date(a.timestamp).getTime(),
   );
   writeJson(seedSubmissionsPath, merged);
+}
+
+function demoCommonMapAssignments() {
+  return demoStudents.flatMap((studentId, index) => {
+    const firstDueDate = index % 2 === 0 ? "2026-07-10" : "2026-07-17";
+    const secondDueDate = index % 2 === 0 ? "2026-07-17" : "2026-07-10";
+    return [
+      {
+        id: `assignment-${studentId}-common-2024-english`,
+        studentId,
+        examId: "common/2024/english",
+        dueDate: firstDueDate,
+      },
+      {
+        id: `assignment-${studentId}-common-2024-japanese`,
+        studentId,
+        examId: "common/2024/japanese",
+        dueDate: secondDueDate,
+      },
+    ];
+  });
+}
+
+function syncAssignments() {
+  const current = fs.existsSync(assignmentsPath) ? readJson(assignmentsPath) : [];
+  const preserved = Array.isArray(current)
+    ? current.filter((assignment) => !generatedAssignmentIdPattern.test(assignment.id ?? ""))
+    : [];
+  const merged = [...preserved, ...demoCommonMapAssignments()];
+  writeJson(assignmentsPath, merged);
+  return merged.length - preserved.length;
 }
 
 function matchesVariant(variant, actual, orderMatters = true) {
@@ -260,8 +303,8 @@ function seedSubmission({ examRoot, year, subject, studentId, attemptIndex, rate
     gradedAt: submission.gradedAt,
     sections: attempt.sections,
   };
-  writeJson(path.join(dir, "submission.json"), submission);
-  writeJson(path.join(dir, "grade.json"), grade);
+  writeLocalJson(path.join(dir, "submission.json"), submission);
+  writeLocalJson(path.join(dir, "grade.json"), grade);
   return submission;
 }
 
@@ -279,14 +322,16 @@ for (const [studentIndex, studentId] of demoStudents.entries()) {
         created += 1;
       }
 
-      const retakeAttempts = subjectIndex % 3 === 0 ? 3 : 2;
-      for (let attemptIndex = 0; attemptIndex < retakeAttempts; attemptIndex += 1) {
-        const retakeRate = Math.min(0.92, Math.max(0.5, baseRate + retakeRateBumps[attemptIndex]));
-        const retakeTimestamp = new Date(Date.UTC(2026, 5, 1 + subjectIndex, 8 + studentIndex + yearIndex, attemptIndex * 12)).toISOString();
-        const submission = seedSubmission({ examRoot: "common_retake", year, subject, studentId, attemptIndex, rate: retakeRate, timestamp: retakeTimestamp });
-        if (submission) {
-          generatedSeedSubmissions.push(submission);
-          created += 1;
+      if (!noRetakeSubjects.has(subject)) {
+        const retakeAttempts = subjectIndex % 3 === 0 ? 3 : 2;
+        for (let attemptIndex = 0; attemptIndex < retakeAttempts; attemptIndex += 1) {
+          const retakeRate = Math.min(0.92, Math.max(0.5, baseRate + retakeRateBumps[attemptIndex]));
+          const retakeTimestamp = new Date(Date.UTC(2026, 5, 1 + subjectIndex, 8 + studentIndex + yearIndex, attemptIndex * 12)).toISOString();
+          const submission = seedSubmission({ examRoot: "common_retake", year, subject, studentId, attemptIndex, rate: retakeRate, timestamp: retakeTimestamp });
+          if (submission) {
+            generatedSeedSubmissions.push(submission);
+            created += 1;
+          }
         }
       }
     }
@@ -307,6 +352,8 @@ for (const [studentIndex, studentId] of demoStudents.entries()) {
 }
 
 syncSeedSubmissions(generatedSeedSubmissions);
+const generatedAssignments = syncAssignments();
 
 console.log(`Created or updated ${created} demo common-test submissions.`);
 console.log(`Synced ${generatedSeedSubmissions.length} generated submissions to data/seed-submissions.json.`);
+console.log(`Synced ${generatedAssignments} generated assignments to data/assignments.json.`);

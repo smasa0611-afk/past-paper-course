@@ -1120,5 +1120,65 @@
     "studentId": "10920030",
     "examId": "common/2026/english",
     "dueDate": ""
+  },
+  {
+    "id": "assignment-10000002-common-2024-english",
+    "studentId": "10000002",
+    "examId": "common/2024/english",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "id": "assignment-10000002-common-2024-japanese",
+    "studentId": "10000002",
+    "examId": "common/2024/japanese",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "id": "assignment-10000003-common-2024-english",
+    "studentId": "10000003",
+    "examId": "common/2024/english",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "id": "assignment-10000003-common-2024-japanese",
+    "studentId": "10000003",
+    "examId": "common/2024/japanese",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "id": "assignment-10000004-common-2024-english",
+    "studentId": "10000004",
+    "examId": "common/2024/english",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "id": "assignment-10000004-common-2024-japanese",
+    "studentId": "10000004",
+    "examId": "common/2024/japanese",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "id": "assignment-10000005-common-2024-english",
+    "studentId": "10000005",
+    "examId": "common/2024/english",
+    "dueDate": "2026-07-17"
+  },
+  {
+    "id": "assignment-10000005-common-2024-japanese",
+    "studentId": "10000005",
+    "examId": "common/2024/japanese",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "id": "assignment-10000006-common-2024-english",
+    "studentId": "10000006",
+    "examId": "common/2024/english",
+    "dueDate": "2026-07-10"
+  },
+  {
+    "id": "assignment-10000006-common-2024-japanese",
+    "studentId": "10000006",
+    "examId": "common/2024/japanese",
+    "dueDate": "2026-07-17"
   }
 ]
