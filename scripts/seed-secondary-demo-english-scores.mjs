@@ -7,6 +7,25 @@ const submissionsRoot = path.join(root, "local-data", "submissions");
 
 const years = Array.from({ length: 10 }, (_, index) => 2026 - index);
 
+const demoTodaiAllSubjectScores = {
+  "10000002": {
+    2026: {
+      english: { course: "common", maxScore: 120, score: 60 },
+      math: { course: "science", maxScore: 120, score: 58 },
+      japanese: { course: "science", maxScore: 80, score: 40 },
+      physics: { course: "science", maxScore: 60, score: 31 },
+      chemistry: { course: "science", maxScore: 60, score: 31 },
+    },
+    2025: {
+      english: { course: "common", maxScore: 120, score: 48 },
+      math: { course: "science", maxScore: 120, score: 46 },
+      japanese: { course: "science", maxScore: 80, score: 32 },
+      physics: { course: "science", maxScore: 60, score: 25 },
+      chemistry: { course: "science", maxScore: 60, score: 25 },
+    },
+  },
+};
+
 const demoTargets = [
   {
     studentId: "10000002",
@@ -60,8 +79,8 @@ function writeJson(filePath, data) {
   fs.writeFileSync(filePath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
 }
 
-function examIdFor(target, year, course) {
-  return `${target}/${year}/english/${course}`;
+function examIdFor(target, year, subject, course) {
+  return `${target}/${year}/${subject}/${course}`;
 }
 
 function assignmentId(studentId, examId, attemptIndex) {
@@ -78,20 +97,42 @@ function scoreFor(maxScore, rate) {
   return Math.round(maxScore * rate);
 }
 
+function writeLocalJson(filePath, data) {
+  try {
+    writeJson(filePath, data);
+  } catch (error) {
+    if (error?.code !== "EPERM" && error?.code !== "EBUSY") throw error;
+    console.warn(`Skipped locked local-data file: ${path.relative(root, filePath)}`);
+  }
+}
+
 const currentAssignments = readJson(assignmentsPath, []);
-const generatedAssignmentIds = new Set();
-const nextAssignments = currentAssignments.filter((assignment) => {
-  const isGenerated = /^assignment-1000000[2-57]-/.test(assignment.id ?? "") &&
-    /^(todai|kyodai|nagoya|hamamatsu_medical)\/20(1[7-9]|2[0-6])\/english\//.test(assignment.examId ?? "");
-  if (isGenerated) generatedAssignmentIds.add(assignment.id);
-  return !isGenerated;
-});
+const nextAssignments = currentAssignments.filter(
+  (assignment) =>
+    !(
+      assignment.studentId === "10000002" &&
+      /^todai\/202[56]\/(english|math|japanese|physics|chemistry)\//.test(assignment.examId ?? "")
+    ),
+);
+
+function upsertAssignment(assignment) {
+  const index = nextAssignments.findIndex((item) => item.id === assignment.id);
+  if (index >= 0) {
+    nextAssignments[index] = assignment;
+    return;
+  }
+  nextAssignments.push(assignment);
+}
 
 let created = 0;
 
 demoTargets.forEach((targetConfig, targetIndex) => {
   years.forEach((year, yearIndex) => {
-    const examId = examIdFor(targetConfig.target, year, targetConfig.course);
+    if (targetConfig.studentId === "10000002" && targetConfig.target === "todai" && demoTodaiAllSubjectScores["10000002"][year]) {
+      return;
+    }
+
+    const examId = examIdFor(targetConfig.target, year, "english", targetConfig.course);
     const attemptRates = [
       targetConfig.rates[yearIndex],
       targetConfig.secondChallengeRates[year],
@@ -105,7 +146,7 @@ demoTargets.forEach((targetConfig, targetIndex) => {
       const id = assignmentId(targetConfig.studentId, examId, attemptIndex);
       const subId = submissionId(targetConfig.studentId, examId, attemptIndex);
 
-      nextAssignments.push({
+      upsertAssignment({
         id,
         studentId: targetConfig.studentId,
         examId,
@@ -141,19 +182,67 @@ demoTargets.forEach((targetConfig, targetIndex) => {
         sections: [],
       };
       const dir = path.join(submissionsRoot, ...examId.split("/"), subId);
-      writeJson(path.join(dir, "submission.json"), submission);
-      writeJson(path.join(dir, "grade.json"), grade);
+      writeLocalJson(path.join(dir, "submission.json"), submission);
+      writeLocalJson(path.join(dir, "grade.json"), grade);
       created += 1;
     });
   });
 });
 
-nextAssignments.sort((a, b) =>
-  String(a.studentId).localeCompare(String(b.studentId)) ||
-  String(a.dueDate).localeCompare(String(b.dueDate)) ||
-  String(a.examId).localeCompare(String(b.examId)),
-);
+Object.entries(demoTodaiAllSubjectScores).forEach(([studentId, yearlyScores]) => {
+  Object.entries(yearlyScores).forEach(([yearText, subjects]) => {
+    const year = Number(yearText);
+    Object.entries(subjects).forEach(([subject, config], subjectIndex) => {
+      const examId = examIdFor("todai", year, subject, config.course);
+      const submittedAt = new Date(Date.UTC(year, 4, 20 + (2026 - year), 9, subjectIndex * 8, 0)).toISOString();
+      const gradedAt = new Date(Date.UTC(year, 4, 20 + (2026 - year), 9, 20 + subjectIndex * 8, 0)).toISOString();
+      const importedAt = "2026-06-12T03:00:00.000Z";
+      const id = assignmentId(studentId, examId, 0);
+      const subId = submissionId(studentId, examId, 0);
+
+      upsertAssignment({
+        id,
+        studentId,
+        examId,
+        dueDate: submittedAt.slice(0, 10),
+        score: config.score,
+        maxScore: config.maxScore,
+        submittedAt,
+        gradedAt,
+        importedAt,
+      });
+
+      const submission = {
+        id: subId,
+        examId,
+        studentId,
+        content: [
+          "Imported secondary demo score.",
+          `Exam: ${examId}`,
+          `Score: ${config.score} / ${config.maxScore}`,
+        ].join("\n"),
+        images: [],
+        timestamp: submittedAt,
+        status: "graded",
+        importedAt,
+      };
+      const grade = {
+        examId,
+        submissionId: subId,
+        score: config.score,
+        maxScore: config.maxScore,
+        feedback: "Imported secondary demo all-subject score.",
+        gradedAt,
+        sections: [],
+      };
+      const dir = path.join(submissionsRoot, ...examId.split("/"), subId);
+      writeLocalJson(path.join(dir, "submission.json"), submission);
+      writeLocalJson(path.join(dir, "grade.json"), grade);
+      created += 1;
+    });
+  });
+});
 
 writeJson(assignmentsPath, nextAssignments);
 
-console.log(`Seeded ${created} secondary demo English imported scores.`);
+console.log(`Seeded ${created} secondary demo imported scores.`);
