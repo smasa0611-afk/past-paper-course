@@ -75,7 +75,7 @@
       "displayLabel": "ア",
       "correctAnswer": "3",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_2",
@@ -83,7 +83,7 @@
       "displayLabel": "ウ",
       "correctAnswer": "2",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_3",
@@ -91,7 +91,7 @@
       "displayLabel": "エ",
       "correctAnswer": "3",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_4",
@@ -99,7 +99,7 @@
       "displayLabel": "オ",
       "correctAnswer": "6",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_5",
@@ -107,7 +107,7 @@
       "displayLabel": "カ",
       "correctAnswer": "4",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_6",
@@ -115,7 +115,7 @@
       "displayLabel": "ク",
       "correctAnswer": "1",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_7",
@@ -123,7 +123,7 @@
       "displayLabel": "ケ",
       "correctAnswer": "6",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_8",
@@ -131,7 +131,7 @@
       "displayLabel": "コ",
       "correctAnswer": "2",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_9",
@@ -139,7 +139,7 @@
       "displayLabel": "サ",
       "correctAnswer": "3",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_10",
@@ -147,7 +147,7 @@
       "displayLabel": "シ",
       "correctAnswer": "4",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_11",
@@ -155,7 +155,7 @@
       "displayLabel": "セ",
       "correctAnswer": "0",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 6
     },
     {
       "id": "q_12",
@@ -163,7 +163,7 @@
       "displayLabel": "ソ",
       "correctAnswer": "0",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_13",
@@ -171,7 +171,7 @@
       "displayLabel": "ア",
       "correctAnswer": "2",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_14",
@@ -179,7 +179,7 @@
       "displayLabel": "イ",
       "correctAnswer": "3",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_15",
@@ -187,7 +187,7 @@
       "displayLabel": "ウ",
       "correctAnswer": "5",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_16",
@@ -195,7 +195,7 @@
       "displayLabel": "オ",
       "correctAnswer": "4",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_17",
@@ -203,7 +203,7 @@
       "displayLabel": "カ",
       "correctAnswer": "1",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_18",
@@ -211,7 +211,7 @@
       "displayLabel": "キ",
       "correctAnswer": "2",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_19",
@@ -219,7 +219,7 @@
       "displayLabel": "ク",
       "correctAnswer": "0",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_20",
@@ -227,7 +227,7 @@
       "displayLabel": "ケ",
       "correctAnswer": "1",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_21",
@@ -235,7 +235,7 @@
       "displayLabel": "ス",
       "correctAnswer": "0",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_22",
@@ -243,7 +243,7 @@
       "displayLabel": "セ",
       "correctAnswer": "8",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_23",
@@ -251,7 +251,7 @@
       "displayLabel": "タ",
       "correctAnswer": "b",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 5
     },
     {
       "id": "q_24",
@@ -259,7 +259,7 @@
       "displayLabel": "チ",
       "correctAnswer": "2",
       "prompt": "解答欄に対応する数字・記号を選んでください。",
-      "points": 1
+      "points": 2
     }
   ],
   "scoringRules": [

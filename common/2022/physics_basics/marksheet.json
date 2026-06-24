@@ -46,7 +46,7 @@
       "number": 1,
       "displayLabel": "1",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "7"
     },
     {
@@ -54,7 +54,7 @@
       "number": 2,
       "displayLabel": "2",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "4"
     },
     {
@@ -62,7 +62,7 @@
       "number": 3,
       "displayLabel": "3",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "9"
     },
     {
@@ -70,7 +70,7 @@
       "number": 4,
       "displayLabel": "4",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "5"
     },
     {
@@ -78,7 +78,7 @@
       "number": 5,
       "displayLabel": "5",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "3"
     },
     {
@@ -86,7 +86,7 @@
       "number": 6,
       "displayLabel": "6",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "4"
     },
     {
@@ -94,7 +94,7 @@
       "number": 7,
       "displayLabel": "7",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "4"
     },
     {
@@ -102,7 +102,7 @@
       "number": 8,
       "displayLabel": "8",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "1"
     },
     {
@@ -110,7 +110,7 @@
       "number": 9,
       "displayLabel": "9",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "2"
     },
     {
@@ -118,7 +118,7 @@
       "number": 10,
       "displayLabel": "10",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "1"
     },
     {
@@ -126,7 +126,7 @@
       "number": 11,
       "displayLabel": "11",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "2"
     },
     {
@@ -134,7 +134,7 @@
       "number": 12,
       "displayLabel": "12",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "1"
     },
     {
@@ -142,7 +142,7 @@
       "number": 13,
       "displayLabel": "13",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "3"
     },
     {
@@ -150,7 +150,7 @@
       "number": 14,
       "displayLabel": "14",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "1"
     },
     {
@@ -158,7 +158,7 @@
       "number": 15,
       "displayLabel": "15",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 5,
       "correctAnswer": "1"
     },
     {
@@ -166,7 +166,7 @@
       "number": 16,
       "displayLabel": "16",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "3"
     },
     {
@@ -174,7 +174,7 @@
       "number": 17,
       "displayLabel": "17",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "4"
     }
   ],

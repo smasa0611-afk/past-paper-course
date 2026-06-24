@@ -53,529 +53,617 @@
       "id": "q1",
       "number": 1,
       "displayLabel": "ア",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q2",
       "number": 2,
       "displayLabel": "イ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q3",
       "number": 3,
       "displayLabel": "ウ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q4",
       "number": 4,
       "displayLabel": "エ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q5",
       "number": 5,
       "displayLabel": "オ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q6",
       "number": 6,
       "displayLabel": "カ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q7",
       "number": 7,
       "displayLabel": "キ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q8",
       "number": 8,
       "displayLabel": "ク",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q9",
       "number": 9,
       "displayLabel": "ケ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q10",
       "number": 10,
       "displayLabel": "コ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q11",
       "number": 11,
       "displayLabel": "サ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q12",
       "number": 12,
       "displayLabel": "シ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q13",
       "number": 13,
       "displayLabel": "ス",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q14",
       "number": 14,
       "displayLabel": "セ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q15",
       "number": 15,
       "displayLabel": "ソ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 3
     },
     {
       "id": "q16",
       "number": 16,
       "displayLabel": "タ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q17",
       "number": 17,
       "displayLabel": "チ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q18",
       "number": 18,
       "displayLabel": "ツ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q19",
       "number": 19,
       "displayLabel": "テ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q20",
       "number": 20,
       "displayLabel": "ト",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q21",
       "number": 21,
       "displayLabel": "ナ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q22",
       "number": 22,
       "displayLabel": "ニ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q23",
       "number": 23,
       "displayLabel": "ヌ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q24",
       "number": 24,
       "displayLabel": "ネ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q25",
       "number": 25,
       "displayLabel": "ノ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q26",
       "number": 26,
       "displayLabel": "ハ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 2
     },
     {
       "id": "q27",
       "number": 27,
       "displayLabel": "ヒ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 4
     },
     {
       "id": "q28",
       "number": 28,
       "displayLabel": "フ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 4
     },
     {
       "id": "q29",
       "number": 29,
       "displayLabel": "ヘ",
-      "prompt": "第1問"
+      "prompt": "第1問",
+      "points": 4
     },
     {
       "id": "q30",
       "number": 30,
       "displayLabel": "ア",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q31",
       "number": 31,
       "displayLabel": "イ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q32",
       "number": 32,
       "displayLabel": "ウ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q33",
       "number": 33,
       "displayLabel": "エ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q34",
       "number": 34,
       "displayLabel": "オ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q35",
       "number": 35,
       "displayLabel": "カ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q36",
       "number": 36,
       "displayLabel": "キ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q37",
       "number": 37,
       "displayLabel": "ク",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q38",
       "number": 38,
       "displayLabel": "ケ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q39",
       "number": 39,
       "displayLabel": "コ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 2
     },
     {
       "id": "q40",
       "number": 40,
       "displayLabel": "サ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 4
     },
     {
       "id": "q41",
       "number": 41,
       "displayLabel": "シ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 4
     },
     {
       "id": "q42",
       "number": 42,
       "displayLabel": "ス",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q43",
       "number": 43,
       "displayLabel": "セ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q44",
       "number": 44,
       "displayLabel": "ソ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q45",
       "number": 45,
       "displayLabel": "タ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q46",
       "number": 46,
       "displayLabel": "チ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q47",
       "number": 47,
       "displayLabel": "ツ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q48",
       "number": 48,
       "displayLabel": "テ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q49",
       "number": 49,
       "displayLabel": "ト",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q50",
       "number": 50,
       "displayLabel": "ナ",
-      "prompt": "第2問"
+      "prompt": "第2問",
+      "points": 3
     },
     {
       "id": "q51",
       "number": 51,
       "displayLabel": "ア",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 2
     },
     {
       "id": "q52",
       "number": 52,
       "displayLabel": "イ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q53",
       "number": 53,
       "displayLabel": "ウ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q54",
       "number": 54,
       "displayLabel": "エ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q55",
       "number": 55,
       "displayLabel": "オ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q56",
       "number": 56,
       "displayLabel": "カ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q57",
       "number": 57,
       "displayLabel": "キ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q58",
       "number": 58,
       "displayLabel": "ク",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q59",
       "number": 59,
       "displayLabel": "ケ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q60",
       "number": 60,
       "displayLabel": "コ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 3
     },
     {
       "id": "q61",
       "number": 61,
       "displayLabel": "サ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 2
     },
     {
       "id": "q62",
       "number": 62,
       "displayLabel": "シ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 2
     },
     {
       "id": "q63",
       "number": 63,
       "displayLabel": "ス",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 4
     },
     {
       "id": "q64",
       "number": 64,
       "displayLabel": "セ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 4
     },
     {
       "id": "q65",
       "number": 65,
       "displayLabel": "ソ",
-      "prompt": "第3問"
+      "prompt": "第3問",
+      "points": 4
     },
     {
       "id": "q66",
       "number": 66,
       "displayLabel": "ア",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q67",
       "number": 67,
       "displayLabel": "イ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q68",
       "number": 68,
       "displayLabel": "ウ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q69",
       "number": 69,
       "displayLabel": "エ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q70",
       "number": 70,
       "displayLabel": "オ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q71",
       "number": 71,
       "displayLabel": "カ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q72",
       "number": 72,
       "displayLabel": "キ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q73",
       "number": 73,
       "displayLabel": "ク",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q74",
       "number": 74,
       "displayLabel": "ケ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q75",
       "number": 75,
       "displayLabel": "コ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q76",
       "number": 76,
       "displayLabel": "サ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q77",
       "number": 77,
       "displayLabel": "シ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q78",
       "number": 78,
       "displayLabel": "ス",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q79",
       "number": 79,
       "displayLabel": "セ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q80",
       "number": 80,
       "displayLabel": "ソ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q81",
       "number": 81,
       "displayLabel": "タ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q82",
       "number": 82,
       "displayLabel": "チ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 3
     },
     {
       "id": "q83",
       "number": 83,
       "displayLabel": "ツ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q84",
       "number": 84,
       "displayLabel": "テ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q85",
       "number": 85,
       "displayLabel": "ト",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q86",
       "number": 86,
       "displayLabel": "ナ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q87",
       "number": 87,
       "displayLabel": "ニ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     },
     {
       "id": "q88",
       "number": 88,
       "displayLabel": "ヌ",
-      "prompt": "第4問"
+      "prompt": "第4問",
+      "points": 2
     }
   ],
   "scoringRules": [

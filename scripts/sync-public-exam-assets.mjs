@@ -17,6 +17,13 @@ const hiddenExamIds = new Set([
   "common_retake/2024/math_ia",
   "common_retake/2024/math_iib",
 ]);
+for (const rootName of ["common", "common_retake"]) {
+  for (const year of [2022, 2023, 2024]) {
+    for (const subject of ["physics_basics", "chemistry_basics", "biology_basics", "earth_science_basics"]) {
+      hiddenExamIds.add(`${rootName}/${year}/${subject}`);
+    }
+  }
+}
 
 function ensureDir(dir) {
   fs.mkdirSync(dir, { recursive: true });

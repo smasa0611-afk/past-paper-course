@@ -155,7 +155,7 @@
       "displayLabel": "9",
       "correctAnswer": "3",
       "prompt": "第2問",
-      "points": 8,
+      "points": 2,
       "sectionId": "s2",
       "sectionTitle": "第2問"
     },
@@ -165,7 +165,7 @@
       "displayLabel": "10",
       "correctAnswer": "4",
       "prompt": "第2問",
-      "points": 8,
+      "points": 2,
       "sectionId": "s2",
       "sectionTitle": "第2問"
     },
@@ -175,7 +175,7 @@
       "displayLabel": "11",
       "correctAnswer": "2",
       "prompt": "第2問",
-      "points": 8,
+      "points": 2,
       "sectionId": "s2",
       "sectionTitle": "第2問"
     },
@@ -185,7 +185,7 @@
       "displayLabel": "12",
       "correctAnswer": "4",
       "prompt": "第2問",
-      "points": 8,
+      "points": 2,
       "sectionId": "s2",
       "sectionTitle": "第2問"
     },
@@ -285,7 +285,7 @@
       "displayLabel": "22",
       "correctAnswer": "3",
       "prompt": "第3問",
-      "points": 12,
+      "points": 3,
       "sectionId": "s3",
       "sectionTitle": "第3問"
     },
@@ -295,7 +295,7 @@
       "displayLabel": "23",
       "correctAnswer": "2",
       "prompt": "第3問",
-      "points": 12,
+      "points": 3,
       "sectionId": "s3",
       "sectionTitle": "第3問"
     },
@@ -305,7 +305,7 @@
       "displayLabel": "24",
       "correctAnswer": "2",
       "prompt": "第3問",
-      "points": 12,
+      "points": 3,
       "sectionId": "s3",
       "sectionTitle": "第3問"
     },
@@ -315,7 +315,7 @@
       "displayLabel": "25",
       "correctAnswer": "1",
       "prompt": "第3問",
-      "points": 12,
+      "points": 3,
       "sectionId": "s3",
       "sectionTitle": "第3問"
     },

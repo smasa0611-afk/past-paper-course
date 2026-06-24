@@ -49,7 +49,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_2",
@@ -59,7 +59,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 2
     },
     {
       "id": "pb_3",
@@ -69,7 +69,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 2
     },
     {
       "id": "pb_4",
@@ -79,7 +79,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_5",
@@ -89,7 +89,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_6",
@@ -99,7 +99,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_7",
@@ -109,7 +109,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_8",
@@ -119,7 +119,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_9",
@@ -129,7 +129,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_10",
@@ -139,7 +139,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_11",
@@ -149,7 +149,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "pb_12",
@@ -159,7 +159,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_13",
@@ -169,7 +169,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_14",
@@ -179,7 +179,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "pb_15",
@@ -189,7 +189,7 @@
       "prompt": "物理基礎",
       "sectionId": "physics_basics",
       "sectionTitle": "物理基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "cb_16",
@@ -199,7 +199,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_17",
@@ -209,7 +209,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_18",
@@ -219,7 +219,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_19",
@@ -229,7 +229,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_20",
@@ -239,7 +239,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_21",
@@ -249,7 +249,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_22",
@@ -259,7 +259,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_23",
@@ -269,7 +269,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_24",
@@ -279,7 +279,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_25",
@@ -289,7 +289,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_26",
@@ -299,7 +299,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_27",
@@ -309,7 +309,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_28",
@@ -319,7 +319,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_29",
@@ -329,7 +329,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "cb_30",
@@ -339,7 +339,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "cb_31",
@@ -349,7 +349,7 @@
       "prompt": "化学基礎",
       "sectionId": "chemistry_basics",
       "sectionTitle": "化学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "bb_32",
@@ -359,7 +359,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_33",
@@ -369,7 +369,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_34",
@@ -379,7 +379,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_35",
@@ -389,7 +389,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 2
     },
     {
       "id": "bb_36",
@@ -399,7 +399,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_37",
@@ -409,7 +409,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_38",
@@ -419,7 +419,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_39",
@@ -429,7 +429,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_40",
@@ -439,7 +439,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_41",
@@ -449,7 +449,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_42",
@@ -459,7 +459,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_43",
@@ -469,7 +469,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_44",
@@ -479,7 +479,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "bb_45",
@@ -489,7 +489,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "bb_46",
@@ -499,7 +499,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "bb_47",
@@ -509,7 +509,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "bb_48",
@@ -519,7 +519,7 @@
       "prompt": "生物基礎",
       "sectionId": "biology_basics",
       "sectionTitle": "生物基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_49",
@@ -529,7 +529,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_50",
@@ -539,7 +539,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_51",
@@ -549,7 +549,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_52",
@@ -559,7 +559,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_53",
@@ -569,7 +569,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_54",
@@ -579,7 +579,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_55",
@@ -589,7 +589,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_56",
@@ -599,7 +599,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_57",
@@ -609,7 +609,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_58",
@@ -619,7 +619,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_59",
@@ -629,7 +629,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_60",
@@ -639,7 +639,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_61",
@@ -649,7 +649,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 4
     },
     {
       "id": "eb_62",
@@ -659,7 +659,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     },
     {
       "id": "eb_63",
@@ -669,7 +669,7 @@
       "prompt": "地学基礎",
       "sectionId": "earth_science_basics",
       "sectionTitle": "地学基礎",
-      "points": 1
+      "points": 3
     }
   ],
   "scoringRules": [

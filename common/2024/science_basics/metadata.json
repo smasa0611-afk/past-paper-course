@@ -1,0 +1,44 @@
+{
+  "exam_type": "common",
+  "year": 2024,
+  "subject": "science_basics",
+  "course": "",
+  "title": "共通テスト 理科基礎 2024",
+  "time_minutes": 60,
+  "problem_files": [
+    {
+      "label": "物理基礎 問題",
+      "path": "common_main_2024_physics_basics_problem.pdf"
+    },
+    {
+      "label": "化学基礎 問題",
+      "path": "common_main_2024_chemistry_basics_problem.pdf"
+    },
+    {
+      "label": "生物基礎 問題",
+      "path": "common_main_2024_biology_basics_problem.pdf"
+    },
+    {
+      "label": "地学基礎 問題",
+      "path": "common_main_2024_earth_science_basics_problem.pdf"
+    }
+  ],
+  "answer_files": [
+    {
+      "label": "物理基礎 解答",
+      "path": "common_main_2024_physics_basics_answer.pdf"
+    },
+    {
+      "label": "化学基礎 解答",
+      "path": "common_main_2024_chemistry_basics_answer.pdf"
+    },
+    {
+      "label": "生物基礎 解答",
+      "path": "common_main_2024_biology_basics_answer.pdf"
+    },
+    {
+      "label": "地学基礎 解答",
+      "path": "common_main_2024_earth_science_basics_answer.pdf"
+    }
+  ]
+}

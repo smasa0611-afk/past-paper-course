@@ -51,7 +51,7 @@
       "displayLabel": "1",
       "correctAnswer": "3",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_2",
@@ -59,7 +59,7 @@
       "displayLabel": "2",
       "correctAnswer": "5",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_3",
@@ -67,7 +67,7 @@
       "displayLabel": "3",
       "correctAnswer": "4",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_4",
@@ -75,7 +75,7 @@
       "displayLabel": "4",
       "correctAnswer": "1",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_5",
@@ -83,7 +83,7 @@
       "displayLabel": "5",
       "correctAnswer": "8",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_6",
@@ -91,7 +91,7 @@
       "displayLabel": "6",
       "correctAnswer": "6",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_7",
@@ -99,14 +99,14 @@
       "displayLabel": "7",
       "correctAnswer": "8",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_8",
       "number": 8,
       "displayLabel": "8",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1,
+      "points": 4,
       "correctAnswer": "0"
     },
     {
@@ -115,7 +115,7 @@
       "displayLabel": "9",
       "correctAnswer": "4",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_10",
@@ -123,7 +123,7 @@
       "displayLabel": "10",
       "correctAnswer": "2",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_11",
@@ -131,7 +131,7 @@
       "displayLabel": "11",
       "correctAnswer": "4",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_12",
@@ -147,7 +147,7 @@
       "displayLabel": "13",
       "correctAnswer": "5",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_14",
@@ -155,7 +155,7 @@
       "displayLabel": "14",
       "correctAnswer": "1",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_15",
@@ -163,7 +163,7 @@
       "displayLabel": "15",
       "correctAnswer": "1",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 4
     },
     {
       "id": "q_16",
@@ -171,7 +171,7 @@
       "displayLabel": "16",
       "correctAnswer": "5",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 3
     },
     {
       "id": "q_17",
@@ -179,7 +179,7 @@
       "displayLabel": "17",
       "correctAnswer": "3",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 2
     },
     {
       "id": "q_18",
@@ -187,7 +187,7 @@
       "displayLabel": "18",
       "correctAnswer": "1",
       "prompt": "各設問の正しい選択肢を選んでください。",
-      "points": 1
+      "points": 2
     }
   ],
   "scoringRules": [
